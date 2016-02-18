@@ -80,6 +80,7 @@ Requirements:
  	------------------------------------------------------------------	
 	
 Methodology:
+
 	We plan on using a stretched version of agile or an iterative version of waterfall.  The time periods we will be working
 	in is around a week.  Meeting times in class and once a week outside will give our progess its structure.  Each time we meet
 	a goal will be set for each person and an overall goal set.  This will be plotted out in the Trello and through github issues.
