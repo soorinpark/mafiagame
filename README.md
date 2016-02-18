@@ -21,19 +21,19 @@ Description:
 
 Vision Statement:
 
-	Give users enjoyable accurate experience 
+	Give users enjoyable and accurate experience of the Mafia Game
 
 Motivation:
 
-	We all enjoy the Mafia game and we would like to create an app for it  
+	We all enjoy the Mafia game and we would like to create an app for it that will no require the full body of 8 people that is 			normally a pre requiste for the game 
 
 Risks:
 
-	No app development experience
-	No extensive knowledge of Java
-	No prior working experience between the team members
-	We all have lives
-	Not all of us have Android phones
+	- No app development experience for most members
+	- No extensive knowledge of Java 
+	- No prior working experience between the team members 
+	- We all have different schedules therefore a aggreeable meeting time may be hard to come up with
+	- Not all of us have Android phones and will not be able to deploy the product on to the final product
 	
 Mitigation:
 
@@ -42,10 +42,6 @@ Mitigation:
 
 Requirements:
 
-	- User Requirements: 
-	- Functional Requirements:
-	- Non-Functional Requirements:
-	
 	User Requirements
 	------------------------------------------------------------------
 	 ID 	| Requirements
@@ -72,11 +68,11 @@ Requirements:
 	------------------------------------------------------------------
 	ID		| Requirements
 	------------------------------------------------------------------
-		10	| The app is has working buttons and menus
+		10	| The app has working buttons and menus
 		11	| The AI performs their actions in a timely fashion
 		12	| The app can interact with the user notifying of errors as well as game text
 		13  	| The app has visual representations of the game as well as text explaining
-		15	| The app doesn't crash and runs without bugs. 
+		14	| The app doesn't crash and runs without bugs
  	------------------------------------------------------------------	
 	
 Methodology:
