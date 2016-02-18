@@ -64,7 +64,7 @@ Requirements:
 		6	| The app is able to keep track of day/night cycles with length assigned by userinput
 		7	| The app keeps track of each players action and updates accordingly
 		8  	| The app has an unpredictable AI, so the games aren't repetitive 
-		13	| The app can alter the punishments to those hit by mafia or removed during day, to allow for a 
+		9	| The app can alter the punishments to those hit by mafia or removed during day, to allow for a 
 				wider range of players
  	------------------------------------------------------------------	
 	 					
@@ -72,10 +72,11 @@ Requirements:
 	------------------------------------------------------------------
 	ID		| Requirements
 	------------------------------------------------------------------
-		9	| The app is has working buttons and menus
-		1	| The AI performs their actions in a timely fashion
-		11	| The app can interact with the user notifying of errors as well as game text
-		12  	| The app has visual representations of the game as well as text explaining
+		10	| The app is has working buttons and menus
+		11	| The AI performs their actions in a timely fashion
+		12	| The app can interact with the user notifying of errors as well as game text
+		13  	| The app has visual representations of the game as well as text explaining
+		15	| The app doesn't crash and runs without bugs. 
  	------------------------------------------------------------------	
 	
 Methodology:
