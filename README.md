@@ -15,7 +15,9 @@ Title:
 
 Description:
 
-	Android app created for the popular party game Mafia with a secret twist
+	Android app created for the popular party game Mafia with a secret twist.
+	All information needed to understand the game itself can be found on wikipedia
+	at https://en.wikipedia.org/wiki/Mafia_(party_game)
 
 Vision Statement:
 
