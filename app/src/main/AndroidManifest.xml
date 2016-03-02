@@ -19,7 +19,8 @@
         </activity>
         <activity
             android:name=".aboutpage"
-            android:label="@string/title_activity_aboutpage"></activity>
+            android:label="@string/title_activity_aboutpage">
+        </activity>
     </application>
 
 </manifest>
