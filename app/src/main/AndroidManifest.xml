@@ -21,6 +21,10 @@
             android:name=".aboutpage"
             android:label="@string/title_activity_aboutpage">
         </activity>
+        <activity
+            android:name=".howtoplaypage"
+            android:label="@string/title_activity_howtoplaypage">
+        </activity>
     </application>
 
 </manifest>

@@ -41,4 +41,9 @@ public class MainActivity extends ActionBarActivity {
         Intent viewAboutPage = new Intent(this, aboutpage.class);
         startActivity(viewAboutPage);
     }
+
+    public void goHowTo(View view) {
+        Intent viewHowTo = new Intent(this, howtoplaypage.class);
+        startActivity(viewHowTo);
+    }
 }
