@@ -1,6 +1,7 @@
 <resources>
     <string name="app_name">Mafia Game</string>
     <string name="action_settings">Settings</string>
+    <string name="action_main_menu">Main Menu</string>
     <string name="title_activity_aboutpage">About the Game</string>
     <string name="title_activity_howtoplaypage">How to</string>
 </resources>
