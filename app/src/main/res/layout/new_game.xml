@@ -1,34 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
-<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    android:orientation="vertical" android:layout_width="match_parent"
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:weightSum="1"
-    android:background="@android:color/black">
-    <!--
+    android:background="#5e5e5e">
+
+    <ImageView
+        android:layout_width="149dp"
+        android:layout_height="149dp"
+        android:id="@drawable/ovalFromAbove"
+        android:layout_gravity="center_horizontal|top" />
+
     <ImageView
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
+        android:layout_height="match_parent"
         android:id="@+id/imageView"
-        android:layout_weight="1"
-        android:src="@drawable/mafia_img" />
-    -->
+        android:src="@drawable/ovalFromAbove"/>
 
-    <FrameLayout
-        android:layout_width="match_parent"
-        android:layout_height="match_parent">
-
-        <ImageView
-            android:layout_width="match_parent"
-            android:layout_height="match_parent"
-            android:id="@+id/imageView"
-            android:src="@drawable/ovalFromAbove"/>
-
-        <GridLayout
-            android:layout_width="match_parent"
-            android:layout_height="match_parent"
-            android:layout_gravity="right|bottom">
-
-
-        </GridLayout>
-    </FrameLayout>
-</LinearLayout>
+</FrameLayout>
