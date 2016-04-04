@@ -38,29 +38,12 @@ public class NewGame extends Activity {
         ArrayAdapter<String> adapter1 = new ArrayAdapter<String>(this, android.R.layout.simple_spinner_dropdown_item, roleItems);
         roles.setAdapter(adapter1);
 
-        addListenerOnButton();
-
-
-    }
-
-    public void addListenerOnButton() {
-
-        final Context context = this;
-
-        start_game_button = (Button) findViewById(R.id.startButton);
-
-        start_game_button.setOnClickListener(new View.OnClickListener() {
-
-            @Override
-            public void onClick(View arg0) {
-
-                Intent intent = new Intent(context, GameMain.class);
-                startActivity(intent);
-
-            }
-
+        Button start_game_button = (Button) findViewById(R.id.startButton);
+        start_game_button.setOnClickListener(new Button.OnClickListener() {
+            public void onClick(View v) {
+                Intent myIntent = new Intent(NewGame.this, GameMain.class);
+                NewGame.this.startActivity(myIntent);            }
         });
-        Log.d("1", "1");
     }
 
 
