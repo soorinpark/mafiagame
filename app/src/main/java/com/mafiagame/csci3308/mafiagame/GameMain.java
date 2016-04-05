@@ -13,6 +13,10 @@ import android.widget.Spinner;
 import android.widget.ArrayAdapter;
 import android.content.Intent;
 import android.util.Log;
+import android.app.AlertDialog;
+import android.content.DialogInterface;
+import java.util.*;
+
 
 public class GameMain extends Activity {
 
@@ -22,6 +26,58 @@ public class GameMain extends Activity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.game_main);
         //addListenerOnButton();
+
+        Bundle b = this.getIntent().getExtras();
+        String numPlayers = b.getString("num_players");
+        String yourRole = b.getString("your_role");
+
+        Log.d("1", yourRole);
+
+        List<String> roleItems = new ArrayList<String>();
+        roleItems.add("Detective");
+        roleItems.add("Doctor");
+        roleItems.add("Mafia");
+        roleItems.add("Villager");
+
+        AlertDialog.Builder yourRoleIs  = new AlertDialog.Builder(this);
+
+        if (yourRole.equals("Random")){
+
+            Random randomizer = new Random();
+            String randomRole = roleItems.get(randomizer.nextInt(roleItems.size()));
+            yourRoleIs.setMessage("You are a " + randomRole.toUpperCase());
+            yourRoleIs.setTitle("Message from the Moderator");
+            yourRoleIs.setPositiveButton("Ok",
+                    new DialogInterface.OnClickListener() {
+                        public void onClick(DialogInterface dialog, int which) {
+                            //dismiss the dialog
+                        }
+                    });
+
+            yourRoleIs.setCancelable(true);
+            yourRoleIs.create().show();
+
+        }
+        else {
+
+            yourRoleIs.setMessage("You are a " + yourRole.toUpperCase());
+            yourRoleIs.setTitle("Message from the Moderator");
+            yourRoleIs.setPositiveButton("Ok",
+                    new DialogInterface.OnClickListener() {
+                        public void onClick(DialogInterface dialog, int which) {
+                            //dismiss the dialog
+                        }
+                    });
+
+            yourRoleIs.setCancelable(true);
+            yourRoleIs.create().show();
+        }
+
+
+
+
+
+
 
 
     }
