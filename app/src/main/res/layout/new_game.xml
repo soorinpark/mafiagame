@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+
     android:orientation="vertical"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
@@ -97,4 +98,78 @@
         android:layout_marginLeft="60dp"
         android:layout_marginStart="60dp"
         android:layout_marginBottom="110dp"  />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Select Roles"
+        android:layout_centerHorizontal="true"
+        android:textSize="20pt"
+        android:id="@+id/selectRole"
+        android:layout_marginTop="10pt"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="# Players"
+        android:layout_below="@+id/selectRole"
+        android:layout_alignParentLeft="true"
+        android:textSize="10pt"
+        android:id="@+id/numPlayersText"
+        android:layout_marginTop="15pt"
+        android:layout_marginLeft="10pt"/>
+
+    <Spinner
+        android:id="@+id/numPlayers"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/selectRole"
+        android:layout_alignParentRight="true"
+        android:layout_marginTop="10pt"
+        android:background="@android:drawable/btn_dropdown"
+        android:spinnerMode="dropdown"
+        android:layout_marginRight="10pt"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Your Role"
+        android:layout_below="@+id/numPlayersText"
+        android:layout_alignParentLeft="true"
+        android:textSize="10pt"
+        android:id="@+id/yourRoleText"
+        android:layout_marginTop="28pt"
+        android:layout_marginLeft="10pt"/>
+
+    <Spinner
+        android:id="@+id/yourRole"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/numPlayers"
+        android:layout_alignParentRight="true"
+        android:layout_marginTop="10pt"
+        android:background="@android:drawable/btn_dropdown"
+        android:spinnerMode="dropdown"
+        android:layout_marginRight="10pt"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="All other roles will be randomly selected by the Moderator (App)"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@id/yourRoleText"
+        android:textSize="8pt"
+        android:layout_marginLeft="10pt"
+        android:layout_marginRight="10pt"
+        android:layout_marginTop="30pt"/>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Start Game"
+        android:id="@+id/startButton"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="50pt"/>
+
 </RelativeLayout>
