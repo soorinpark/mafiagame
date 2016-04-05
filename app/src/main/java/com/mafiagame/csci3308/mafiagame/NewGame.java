@@ -28,41 +28,41 @@ public class NewGame extends Activity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.new_game);
 
-        Spinner numPlayers = (Spinner)findViewById(R.id.numPlayers);
-        String[] items = new String[]{"6 (1 mafia)", "10 (2 mafias)", "14 (3 mafias)"};
+        final Spinner numPlayers = (Spinner)findViewById(R.id.numPlayers);
+        String[] items = new String[]{"6 (1 mafia)", "10 (2 mafias)"};
         ArrayAdapter<String> adapter = new ArrayAdapter<String>(this, android.R.layout.simple_spinner_dropdown_item, items);
         numPlayers.setAdapter(adapter);
 
-        Spinner roles = (Spinner)findViewById(R.id.yourRole);
+        final Spinner roles = (Spinner)findViewById(R.id.yourRole);
         String[] roleItems = new String[]{"Random", "Detective", "Doctor", "Mafia", "Villager"};
         ArrayAdapter<String> adapter1 = new ArrayAdapter<String>(this, android.R.layout.simple_spinner_dropdown_item, roleItems);
         roles.setAdapter(adapter1);
 
         roles.setOnItemSelectedListener(new AdapterView.OnItemSelectedListener() {
             public void onItemSelected(AdapterView<?> parent, View view, int pos, long id) {
-                yourRoleSelected = parent.getItemAtPosition(pos).toString();
-                numPlayersVal = parent.getItemAtPosition(pos).toString();
+
+                numPlayersVal = numPlayers.getSelectedItem().toString();
+                yourRoleSelected = roles.getSelectedItem().toString();
+
             }
             public void onNothingSelected(AdapterView<?> parent) {
             }
         });
 
-        //numPlayersVal = numPlayers.getSelectedItem().toString();
-        //yourRoleSelected = roles.getSelectedItem().toString();
-
-
-
-        //startActivity(intent);
-
-
         Button start_game_button = (Button) findViewById(R.id.startButton);
         start_game_button.setOnClickListener(new Button.OnClickListener() {
+
             public void onClick(View v) {
+
+                numPlayersVal = numPlayers.getSelectedItem().toString();
+                yourRoleSelected = roles.getSelectedItem().toString();
+
                 Intent intent = new Intent(NewGame.this, GameMain.class);
                 intent.putExtra("num_players", numPlayersVal);
                 intent.putExtra("your_role", yourRoleSelected);
                 Log.d("2", yourRoleSelected);
                 NewGame.this.startActivity(intent);
+
             }
         });
     }
