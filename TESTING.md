@@ -18,6 +18,7 @@ Vision:
 
 Automated Tests: Explanation and screenshot (see above) 
 
+![ScreenShot1](https://github.com/soorin1993/mafiagame/blob/master/AutomatedTestsScreens/mafiaAutoTest1Pass.png)
 
 
 
@@ -79,12 +80,12 @@ User Acceptance Tests:
 	                |   to new game     |  begins	        |	 may just be emulator itself               
 	                |   button          |                   |	                
 	                |                   |                   |	                
-	                |   3. change       |   music does NOT  |                      
-	                |   number of       |   begin playing   |   	                
+	                |   3. change       | number of players |                      
+	               	|   number of       |    is correct     |   	                
 	                |   players to      |                   |	                
-	                |   10 players      | number of players |	                
-	                |                   |  correctly        |	 woohoo               
-	                |                   |   changes         |	                
+	                |   10 players      | 			|	                
+	                |                   |		        |	 woohoo               
+	                |                   |        		|	                
 	                |                   |                   |	                
 	------------------------------------------------------------------------------------------------------------------------------
 	Test Pass?		| 	PASS
