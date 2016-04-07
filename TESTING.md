@@ -57,3 +57,71 @@ User Acceptance Tests:
 	Notes and 		|	fix setting java class to correctly play music upon switch change
 	Issues			|
 
+
+	Use Case ID: UC-02
+	Use Case Name: Start game with 10 players
+	Description: User can open app, go to new game, and select 10 players as game option
+	------------------------------------------------------------------------------------------------------------------------------
+	Users			|	Gamers  
+	------------------------------------------------------------------------------------------------------------------------------
+	Pre-conditions	|	App is loaded on phone, settings page acitivity is up and running along with associated .java class
+	------------------------------------------------------------------------------------------------------------------------------
+	Post-conditions	|	Gamer finds settings page and successfully changes setting
+	------------------------------------------------------------------------------------------------------------------------------
+	Frequency of Use|	Whenever a gamer would like to change a game or app setting
+	------------------------------------------------------------------------------------------------------------------------------
+	Flow of Events	|	Actor Action	|	System Response	|	Comments
+	------------------------------------------------------------------------------------------------------------------------------
+	                |                   |                   |
+	                |   1. open app     |   app opens       |
+	                |                   |                   |	                
+	                |   2. navigate     |   new game        |	slight delay on opening
+	                |   to new game     |  begins	        |	 may just be emulator itself               
+	                |   button          |                   |	                
+	                |                   |                   |	                
+	                |   3. change       |   music does NOT  |                      
+	                |   number of       |   begin playing   |   	                
+	                |   players to      |                   |	                
+	                |   10 players      | number of players |	                
+	                |                   |  correctly        |	 woohoo               
+	                |                   |   changes         |	                
+	                |                   |                   |	                
+	------------------------------------------------------------------------------------------------------------------------------
+	Test Pass?		| 	PASS
+	------------------------------------------------------------------------------------------------------------------------------
+	Notes and 		|	look into speeding up emulator
+	Issues			|
+
+	Use Case ID: UC-03
+	Use Case Name: Test Settings
+	Description: User can open app, navigate to settings page, change a setting
+	------------------------------------------------------------------------------------------------------------------------------
+	Users			|	Gamers  
+	------------------------------------------------------------------------------------------------------------------------------
+	Pre-conditions	|	App is loaded on phone, settings page acitivity is up and running along with associated .java class
+	------------------------------------------------------------------------------------------------------------------------------
+	Post-conditions	|	Gamer finds settings page and successfully changes setting
+	------------------------------------------------------------------------------------------------------------------------------
+	Frequency of Use|	Whenever a gamer would like to change a game or app setting
+	------------------------------------------------------------------------------------------------------------------------------
+	Flow of Events	|	Actor Action	|	System Response	|	Comments
+	------------------------------------------------------------------------------------------------------------------------------
+	                |                   |                   |
+	                |   1. open app     |   app opens       |
+	                |                   |                   |	                
+	                |   2. navigate     |   setttings       |	
+	                |   to settings     |  acvitvity opens  |	                
+	                |   button          |                   |	                
+	                |                   |                   |	                
+	                |   3. change       |   music does NOT  |                      
+	                |   mustic setting  |   begin playing   |   TODO	                
+	                |   to on           |                   |	                
+	                |                   |                   |	                
+	                |                   |                   |	                
+	                |                   |                   |	                
+	                |                   |                   |	                
+	------------------------------------------------------------------------------------------------------------------------------
+	Test Pass?		| 	FAIL
+	------------------------------------------------------------------------------------------------------------------------------
+	Notes and 		|	fix setting java class to correctly play music upon switch change
+	Issues			|
