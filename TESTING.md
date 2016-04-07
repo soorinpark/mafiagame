@@ -27,24 +27,24 @@ User Acceptance Tests:
 	Use Case Name: Test Settings
 	Description: User can open app, navigate to settings page, change a setting
 	------------------------------------------------------------------------------------------------------------------------------
-	Users		|  Gamers  
+	Users			|	Gamers  
 	------------------------------------------------------------------------------------------------------------------------------
-	Pre-conditions	| App is loaded on phone, settings page acitivity is up and running along with associated .java class	
+	Pre-conditions	|	App is loaded on phone, settings page acitivity is up and running along with associated .java class
 	------------------------------------------------------------------------------------------------------------------------------
-	Post-conditions	| Gamer finds settings page and successfully changes setting
+	Post-conditions	|	Gamer finds settings page and successfully changes setting
 	------------------------------------------------------------------------------------------------------------------------------
-	Frequency of Use| Whenever a gamer would like to change a game or app setting
+	Frequency of Use|	Whenever a gamer would like to change a game or app setting
 	------------------------------------------------------------------------------------------------------------------------------
 	Flow of Events	|	Actor Action	|	System Response	|	Comments
-					|					|					|
+					|	1. open app		|					|
 					|					|					|
 					|					|					|
 					|					|					|
 					|					|					|
 					|					|					|
 	--------------------------------------------------------------------------------------------------------------------------
-	Test Pass?	| 	FAIL
+	Test Pass?		| 	FAIL
 	--------------------------------------------------------------------------------------------------------------------------
-	Notes and 	|	fix setting java class to correctly play music upon switch change
-	Issues		|
+	Notes and 		|	fix setting java class to correctly play music upon switch change
+	Issues			|
 
