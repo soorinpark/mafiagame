@@ -1,0 +1,4454 @@
+[
+    {
+        "outputFile": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 54,
+                    "endOffset": 105
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 110,
+                    "endColumn": 44,
+                    "endOffset": 150
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 155,
+                    "endColumn": 48,
+                    "endOffset": 199
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 204,
+                    "endColumn": 40,
+                    "endOffset": 240
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 245,
+                    "endColumn": 54,
+                    "endOffset": 295
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 300,
+                    "endColumn": 62,
+                    "endOffset": 358
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 363,
+                    "endColumn": 75,
+                    "endOffset": 434
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 439,
+                    "endColumn": 61,
+                    "endOffset": 496
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 501,
+                    "endColumn": 72,
+                    "endOffset": 569
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 574,
+                    "endColumn": 77,
+                    "endOffset": 647
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 652,
+                    "endColumn": 80,
+                    "endOffset": 728
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 733,
+                    "endColumn": 60,
+                    "endOffset": 789
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 794,
+                    "endColumn": 74,
+                    "endOffset": 864
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 869,
+                    "endColumn": 75,
+                    "endOffset": 940
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 945,
+                    "endColumn": 76,
+                    "endOffset": 1017
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1022,
+                    "endColumn": 77,
+                    "endOffset": 1095
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1100,
+                    "endColumn": 69,
+                    "endOffset": 1165
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1170,
+                    "endColumn": 70,
+                    "endOffset": 1236
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1241,
+                    "endColumn": 60,
+                    "endOffset": 1297
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1302,
+                    "endColumn": 61,
+                    "endOffset": 1359
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1364,
+                    "endColumn": 76,
+                    "endOffset": 1436
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1441,
+                    "endColumn": 77,
+                    "endOffset": 1514
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1519,
+                    "endColumn": 105,
+                    "endOffset": 1620
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1625,
+                    "endColumn": 105,
+                    "endOffset": 1726
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1731,
+                    "endColumn": 78,
+                    "endOffset": 1805
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1810,
+                    "endColumn": 79,
+                    "endOffset": 1885
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1890,
+                    "endColumn": 56,
+                    "endOffset": 1942
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 1947,
+                    "endColumn": 57,
+                    "endOffset": 2000
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 2005,
+                    "endColumn": 73,
+                    "endOffset": 2074
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 2079,
+                    "endColumn": 74,
+                    "endOffset": 2149
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 2154,
+                    "endColumn": 64,
+                    "endOffset": 2214
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 33,
+                    "startColumn": 4,
+                    "startOffset": 2219,
+                    "endColumn": 65,
+                    "endOffset": 2280
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 2285,
+                    "endColumn": 66,
+                    "endOffset": 2347
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 2352,
+                    "endColumn": 67,
+                    "endOffset": 2415
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 2420,
+                    "endColumn": 103,
+                    "endOffset": 2519
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 2524,
+                    "endColumn": 105,
+                    "endOffset": 2625
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 2630,
+                    "endColumn": 79,
+                    "endOffset": 2705
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 2710,
+                    "endColumn": 80,
+                    "endOffset": 2786
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 2791,
+                    "endColumn": 58,
+                    "endOffset": 2845
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 2850,
+                    "endColumn": 58,
+                    "endOffset": 2904
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 2909,
+                    "endColumn": 58,
+                    "endOffset": 2963
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 43,
+                    "startColumn": 4,
+                    "startOffset": 2968,
+                    "endColumn": 58,
+                    "endOffset": 3022
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 3027,
+                    "endColumn": 58,
+                    "endOffset": 3081
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 45,
+                    "startColumn": 4,
+                    "startOffset": 3086,
+                    "endColumn": 62,
+                    "endOffset": 3144
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 3149,
+                    "endColumn": 63,
+                    "endOffset": 3208
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 47,
+                    "startColumn": 4,
+                    "startOffset": 3213,
+                    "endColumn": 57,
+                    "endOffset": 3266
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 48,
+                    "startColumn": 4,
+                    "startOffset": 3271,
+                    "endColumn": 58,
+                    "endOffset": 3325
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 49,
+                    "startColumn": 4,
+                    "startOffset": 3330,
+                    "endColumn": 70,
+                    "endOffset": 3396
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 50,
+                    "startColumn": 4,
+                    "startOffset": 3401,
+                    "endColumn": 71,
+                    "endOffset": 3468
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 51,
+                    "startColumn": 4,
+                    "startOffset": 3473,
+                    "endColumn": 71,
+                    "endOffset": 3540
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 52,
+                    "startColumn": 4,
+                    "startOffset": 3545,
+                    "endColumn": 72,
+                    "endOffset": 3613
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 53,
+                    "startColumn": 4,
+                    "startOffset": 3618,
+                    "endColumn": 56,
+                    "endOffset": 3670
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 54,
+                    "startColumn": 4,
+                    "startOffset": 3675,
+                    "endColumn": 57,
+                    "endOffset": 3728
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 55,
+                    "startColumn": 4,
+                    "startOffset": 3733,
+                    "endColumn": 72,
+                    "endOffset": 3801
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 56,
+                    "startColumn": 4,
+                    "startOffset": 3806,
+                    "endColumn": 73,
+                    "endOffset": 3875
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 57,
+                    "startColumn": 4,
+                    "startOffset": 3880,
+                    "endColumn": 73,
+                    "endOffset": 3949
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 58,
+                    "startColumn": 4,
+                    "startOffset": 3954,
+                    "endColumn": 74,
+                    "endOffset": 4024
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 59,
+                    "startColumn": 4,
+                    "startOffset": 4029,
+                    "endColumn": 69,
+                    "endOffset": 4094
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 60,
+                    "startColumn": 4,
+                    "startOffset": 4099,
+                    "endColumn": 70,
+                    "endOffset": 4165
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 61,
+                    "startColumn": 4,
+                    "startOffset": 4170,
+                    "endColumn": 44,
+                    "endOffset": 4210
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\src\\main\\res\\values\\styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 85,
+                    "startColumn": 4,
+                    "startOffset": 17411,
+                    "endColumn": 69,
+                    "endOffset": 17476
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 86,
+                    "startColumn": 4,
+                    "startOffset": 17481,
+                    "endColumn": 69,
+                    "endOffset": 17546
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 87,
+                    "startColumn": 4,
+                    "startOffset": 17551,
+                    "endColumn": 76,
+                    "endOffset": 17623
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 88,
+                    "startColumn": 4,
+                    "startOffset": 17628,
+                    "endColumn": 63,
+                    "endOffset": 17687
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 89,
+                    "startColumn": 4,
+                    "startOffset": 17692,
+                    "endColumn": 64,
+                    "endOffset": 17752
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 90,
+                    "startColumn": 4,
+                    "startOffset": 17757,
+                    "endColumn": 68,
+                    "endOffset": 17821
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 91,
+                    "startColumn": 4,
+                    "startOffset": 17826,
+                    "endColumn": 76,
+                    "endOffset": 17898
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 92,
+                    "startColumn": 4,
+                    "startOffset": 17903,
+                    "endColumn": 74,
+                    "endOffset": 17973
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 93,
+                    "startColumn": 4,
+                    "startOffset": 17978,
+                    "endColumn": 68,
+                    "endOffset": 18042
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 94,
+                    "startColumn": 4,
+                    "startOffset": 18047,
+                    "endColumn": 67,
+                    "endOffset": 18110
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 95,
+                    "startColumn": 4,
+                    "startOffset": 18115,
+                    "endColumn": 76,
+                    "endOffset": 18187
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 96,
+                    "startColumn": 4,
+                    "startOffset": 18192,
+                    "endColumn": 58,
+                    "endOffset": 18246
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 97,
+                    "startColumn": 4,
+                    "startOffset": 18251,
+                    "endColumn": 56,
+                    "endOffset": 18303
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 98,
+                    "startColumn": 4,
+                    "startOffset": 18308,
+                    "endColumn": 58,
+                    "endOffset": 18362
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 99,
+                    "startColumn": 4,
+                    "startOffset": 18367,
+                    "endColumn": 59,
+                    "endOffset": 18422
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 100,
+                    "startColumn": 4,
+                    "startOffset": 18427,
+                    "endColumn": 65,
+                    "endOffset": 18488
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 101,
+                    "startColumn": 4,
+                    "startOffset": 18493,
+                    "endColumn": 66,
+                    "endOffset": 18555
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 102,
+                    "startColumn": 4,
+                    "startOffset": 18560,
+                    "endColumn": 57,
+                    "endOffset": 18613
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 103,
+                    "startColumn": 4,
+                    "startOffset": 18618,
+                    "endColumn": 64,
+                    "endOffset": 18678
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 104,
+                    "startColumn": 4,
+                    "startOffset": 18683,
+                    "endColumn": 63,
+                    "endOffset": 18742
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 105,
+                    "startColumn": 4,
+                    "startOffset": 18747,
+                    "endColumn": 60,
+                    "endOffset": 18803
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 106,
+                    "startColumn": 4,
+                    "startOffset": 18808,
+                    "endColumn": 60,
+                    "endOffset": 18864
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 107,
+                    "startColumn": 4,
+                    "startOffset": 18869,
+                    "endColumn": 60,
+                    "endOffset": 18925
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 108,
+                    "startColumn": 4,
+                    "startOffset": 18930,
+                    "endColumn": 61,
+                    "endOffset": 18987
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 109,
+                    "startColumn": 4,
+                    "startOffset": 18992,
+                    "endColumn": 63,
+                    "endOffset": 19051
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 110,
+                    "startColumn": 4,
+                    "startOffset": 19056,
+                    "endColumn": 63,
+                    "endOffset": 19115
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 111,
+                    "startColumn": 4,
+                    "startOffset": 19120,
+                    "endColumn": 63,
+                    "endOffset": 19179
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 112,
+                    "startColumn": 4,
+                    "startOffset": 19184,
+                    "endColumn": 64,
+                    "endOffset": 19244
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 113,
+                    "startColumn": 4,
+                    "startOffset": 19249,
+                    "endColumn": 62,
+                    "endOffset": 19307
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 114,
+                    "startColumn": 4,
+                    "startOffset": 19312,
+                    "endColumn": 59,
+                    "endOffset": 19367
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 115,
+                    "startColumn": 4,
+                    "startOffset": 19372,
+                    "endColumn": 60,
+                    "endOffset": 19428
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 116,
+                    "startColumn": 4,
+                    "startOffset": 19433,
+                    "endColumn": 58,
+                    "endOffset": 19487
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 117,
+                    "startColumn": 4,
+                    "startOffset": 19492,
+                    "endColumn": 59,
+                    "endOffset": 19547
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 118,
+                    "startColumn": 4,
+                    "startOffset": 19552,
+                    "endColumn": 61,
+                    "endOffset": 19609
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 119,
+                    "startColumn": 4,
+                    "startOffset": 19614,
+                    "endColumn": 70,
+                    "endOffset": 19680
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 120,
+                    "startColumn": 4,
+                    "startOffset": 19685,
+                    "endColumn": 59,
+                    "endOffset": 19740
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 121,
+                    "startColumn": 4,
+                    "startOffset": 19745,
+                    "endColumn": 67,
+                    "endOffset": 19808
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 122,
+                    "startColumn": 4,
+                    "startOffset": 19813,
+                    "endColumn": 57,
+                    "endOffset": 19866
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\src\\main\\res\\values\\dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 123,
+                    "startColumn": 4,
+                    "startOffset": 19871,
+                    "endColumn": 55,
+                    "endOffset": 19922
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\src\\main\\res\\values\\dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 124,
+                    "startColumn": 4,
+                    "startOffset": 19927,
+                    "endColumn": 66,
+                    "endOffset": 19989
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 125,
+                    "startColumn": 4,
+                    "startOffset": 19994,
+                    "endColumn": 67,
+                    "endOffset": 20057
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 126,
+                    "startColumn": 4,
+                    "startOffset": 20062,
+                    "endColumn": 67,
+                    "endOffset": 20125
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 127,
+                    "startColumn": 4,
+                    "startOffset": 20130,
+                    "endColumn": 67,
+                    "endOffset": 20193
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 128,
+                    "startColumn": 4,
+                    "startOffset": 20198,
+                    "endColumn": 85,
+                    "endOffset": 20279
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 129,
+                    "startColumn": 4,
+                    "startOffset": 20284,
+                    "endColumn": 86,
+                    "endOffset": 20366
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 130,
+                    "startColumn": 4,
+                    "startOffset": 20371,
+                    "endColumn": 56,
+                    "endOffset": 20423
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 131,
+                    "startColumn": 4,
+                    "startOffset": 20428,
+                    "endColumn": 47,
+                    "endOffset": 20471
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 132,
+                    "startColumn": 4,
+                    "startOffset": 20476,
+                    "endColumn": 48,
+                    "endOffset": 20520
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 133,
+                    "startColumn": 4,
+                    "startOffset": 20525,
+                    "endColumn": 50,
+                    "endOffset": 20571
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 134,
+                    "startColumn": 4,
+                    "startOffset": 20576,
+                    "endColumn": 33,
+                    "endOffset": 20605
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 135,
+                    "startColumn": 4,
+                    "startOffset": 20610,
+                    "endColumn": 33,
+                    "endOffset": 20639
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\src\\main\\res\\values\\ids.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 136,
+                    "startColumn": 4,
+                    "startOffset": 20644,
+                    "endColumn": 39,
+                    "endOffset": 20679
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\src\\main\\res\\values\\ids.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 92,
+                        "endColumn": 39,
+                        "endOffset": 127
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 137,
+                    "startColumn": 4,
+                    "startOffset": 20684,
+                    "endColumn": 46,
+                    "endOffset": 20726
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 138,
+                    "startColumn": 4,
+                    "startOffset": 20731,
+                    "endColumn": 48,
+                    "endOffset": 20775
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 139,
+                    "startColumn": 4,
+                    "startOffset": 20780,
+                    "endColumn": 45,
+                    "endOffset": 20821
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 140,
+                    "startColumn": 4,
+                    "startOffset": 20826,
+                    "endColumn": 31,
+                    "endOffset": 20853
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 141,
+                    "startColumn": 4,
+                    "startOffset": 20858,
+                    "endColumn": 54,
+                    "endOffset": 20908
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 142,
+                    "startColumn": 4,
+                    "startOffset": 20913,
+                    "endColumn": 73,
+                    "endOffset": 20982
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 143,
+                    "startColumn": 4,
+                    "startOffset": 20987,
+                    "endColumn": 77,
+                    "endOffset": 21060
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 144,
+                    "startColumn": 4,
+                    "startOffset": 21065,
+                    "endColumn": 92,
+                    "endOffset": 21153
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 145,
+                    "startColumn": 4,
+                    "startOffset": 21158,
+                    "endColumn": 69,
+                    "endOffset": 21223
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 146,
+                    "startColumn": 4,
+                    "startOffset": 21228,
+                    "endColumn": 77,
+                    "endOffset": 21301
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 147,
+                    "startColumn": 4,
+                    "startOffset": 21306,
+                    "endColumn": 53,
+                    "endOffset": 21355
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 148,
+                    "startColumn": 4,
+                    "startOffset": 21360,
+                    "endColumn": 69,
+                    "endOffset": 21425
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 149,
+                    "startColumn": 4,
+                    "startOffset": 21430,
+                    "endColumn": 84,
+                    "endOffset": 21510
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 150,
+                    "startColumn": 4,
+                    "startOffset": 21515,
+                    "endColumn": 72,
+                    "endOffset": 21583
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 151,
+                    "startColumn": 4,
+                    "startOffset": 21588,
+                    "endColumn": 73,
+                    "endOffset": 21657
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 152,
+                    "startColumn": 4,
+                    "startOffset": 21662,
+                    "endColumn": 68,
+                    "endOffset": 21726
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 153,
+                    "startColumn": 4,
+                    "startOffset": 21731,
+                    "endColumn": 74,
+                    "endOffset": 21801
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 154,
+                    "startColumn": 4,
+                    "startOffset": 21806,
+                    "endColumn": 73,
+                    "endOffset": 21875
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 155,
+                    "startColumn": 4,
+                    "startOffset": 21880,
+                    "endColumn": 73,
+                    "endOffset": 21949
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 156,
+                    "startColumn": 4,
+                    "startOffset": 21954,
+                    "endColumn": 88,
+                    "endOffset": 22038
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 157,
+                    "startColumn": 4,
+                    "startOffset": 22043,
+                    "endColumn": 69,
+                    "endOffset": 22108
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 158,
+                    "startColumn": 4,
+                    "startOffset": 22113,
+                    "endColumn": 54,
+                    "endOffset": 22163
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 159,
+                    "startColumn": 4,
+                    "startOffset": 22168,
+                    "endColumn": 52,
+                    "endOffset": 22216
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 160,
+                    "startColumn": 4,
+                    "startOffset": 22221,
+                    "endColumn": 47,
+                    "endOffset": 22264
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 161,
+                    "startColumn": 4,
+                    "startOffset": 22269,
+                    "endColumn": 67,
+                    "endOffset": 22332
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 162,
+                    "startColumn": 4,
+                    "startOffset": 22337,
+                    "endColumn": 63,
+                    "endOffset": 22396
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 163,
+                    "startColumn": 4,
+                    "startOffset": 22401,
+                    "endLine": 165,
+                    "endColumn": 12,
+                    "endOffset": 22526
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\src\\main\\res\\values\\styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 166,
+                    "startColumn": 4,
+                    "startOffset": 22531,
+                    "endLine": 172,
+                    "endColumn": 12,
+                    "endOffset": 23003
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 173,
+                    "startColumn": 4,
+                    "startOffset": 23008,
+                    "endLine": 176,
+                    "endColumn": 12,
+                    "endOffset": 23225
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 177,
+                    "startColumn": 4,
+                    "startOffset": 23230,
+                    "endLine": 180,
+                    "endColumn": 12,
+                    "endOffset": 23447
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 181,
+                    "startColumn": 4,
+                    "startOffset": 23452,
+                    "endLine": 185,
+                    "endColumn": 12,
+                    "endOffset": 23715
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 186,
+                    "startColumn": 4,
+                    "startOffset": 23720,
+                    "endLine": 189,
+                    "endColumn": 12,
+                    "endOffset": 23942
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 190,
+                    "startColumn": 4,
+                    "startOffset": 23947,
+                    "endLine": 193,
+                    "endColumn": 12,
+                    "endOffset": 24172
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 194,
+                    "startColumn": 4,
+                    "startOffset": 24177,
+                    "endLine": 197,
+                    "endColumn": 12,
+                    "endOffset": 24402
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 198,
+                    "startColumn": 4,
+                    "startOffset": 24407,
+                    "endLine": 201,
+                    "endColumn": 12,
+                    "endOffset": 24632
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 202,
+                    "startColumn": 4,
+                    "startOffset": 24637,
+                    "endLine": 205,
+                    "endColumn": 12,
+                    "endOffset": 24862
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 206,
+                    "startColumn": 4,
+                    "startOffset": 24867,
+                    "endLine": 209,
+                    "endColumn": 12,
+                    "endOffset": 25089
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 210,
+                    "startColumn": 4,
+                    "startOffset": 25094,
+                    "endLine": 213,
+                    "endColumn": 12,
+                    "endOffset": 25328
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 214,
+                    "startColumn": 4,
+                    "startOffset": 25333,
+                    "endLine": 217,
+                    "endColumn": 12,
+                    "endOffset": 25554
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 218,
+                    "startColumn": 4,
+                    "startOffset": 25559,
+                    "endLine": 221,
+                    "endColumn": 12,
+                    "endOffset": 25799
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 222,
+                    "startColumn": 4,
+                    "startOffset": 25804,
+                    "endColumn": 117,
+                    "endOffset": 25917
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 223,
+                    "startColumn": 4,
+                    "startOffset": 25922,
+                    "endColumn": 117,
+                    "endOffset": 26035
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 224,
+                    "startColumn": 4,
+                    "startOffset": 26040,
+                    "endLine": 227,
+                    "endColumn": 12,
+                    "endOffset": 26265
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 228,
+                    "startColumn": 4,
+                    "startOffset": 26270,
+                    "endLine": 231,
+                    "endColumn": 12,
+                    "endOffset": 26513
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 232,
+                    "startColumn": 4,
+                    "startOffset": 26518,
+                    "endLine": 235,
+                    "endColumn": 12,
+                    "endOffset": 26732
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 236,
+                    "startColumn": 4,
+                    "startOffset": 26737,
+                    "endLine": 240,
+                    "endColumn": 12,
+                    "endOffset": 27015
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 241,
+                    "startColumn": 4,
+                    "startOffset": 27020,
+                    "endLine": 244,
+                    "endColumn": 12,
+                    "endOffset": 27223
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 245,
+                    "startColumn": 4,
+                    "startOffset": 27228,
+                    "endLine": 247,
+                    "endColumn": 12,
+                    "endOffset": 27354
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 248,
+                    "startColumn": 4,
+                    "startOffset": 27359,
+                    "endLine": 251,
+                    "endColumn": 12,
+                    "endOffset": 27581
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 252,
+                    "startColumn": 4,
+                    "startOffset": 27586,
+                    "endLine": 255,
+                    "endColumn": 12,
+                    "endOffset": 27827
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 256,
+                    "startColumn": 4,
+                    "startOffset": 27832,
+                    "endLine": 259,
+                    "endColumn": 12,
+                    "endOffset": 28052
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 260,
+                    "startColumn": 4,
+                    "startOffset": 28057,
+                    "endLine": 263,
+                    "endColumn": 12,
+                    "endOffset": 28301
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 264,
+                    "startColumn": 4,
+                    "startOffset": 28306,
+                    "endLine": 267,
+                    "endColumn": 12,
+                    "endOffset": 28522
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 268,
+                    "startColumn": 4,
+                    "startOffset": 28527,
+                    "endLine": 271,
+                    "endColumn": 12,
+                    "endOffset": 28767
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 272,
+                    "startColumn": 4,
+                    "startOffset": 28772,
+                    "endLine": 276,
+                    "endColumn": 12,
+                    "endOffset": 29062
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 277,
+                    "startColumn": 4,
+                    "startOffset": 29067,
+                    "endLine": 279,
+                    "endColumn": 12,
+                    "endOffset": 29284
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 280,
+                    "startColumn": 4,
+                    "startOffset": 29289,
+                    "endLine": 282,
+                    "endColumn": 12,
+                    "endOffset": 29522
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 283,
+                    "startColumn": 4,
+                    "startOffset": 29527,
+                    "endLine": 285,
+                    "endColumn": 12,
+                    "endOffset": 29736
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 286,
+                    "startColumn": 4,
+                    "startOffset": 29741,
+                    "endLine": 288,
+                    "endColumn": 12,
+                    "endOffset": 29966
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 289,
+                    "startColumn": 4,
+                    "startOffset": 29971,
+                    "endLine": 291,
+                    "endColumn": 12,
+                    "endOffset": 30189
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 292,
+                    "startColumn": 4,
+                    "startOffset": 30194,
+                    "endLine": 294,
+                    "endColumn": 12,
+                    "endOffset": 30404
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 295,
+                    "startColumn": 4,
+                    "startOffset": 30409,
+                    "endLine": 297,
+                    "endColumn": 12,
+                    "endOffset": 30612
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 298,
+                    "startColumn": 4,
+                    "startOffset": 30617,
+                    "endColumn": 111,
+                    "endOffset": 30724
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 299,
+                    "startColumn": 4,
+                    "startOffset": 30729,
+                    "endColumn": 111,
+                    "endOffset": 30836
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 300,
+                    "startColumn": 4,
+                    "startOffset": 30841,
+                    "endColumn": 104,
+                    "endOffset": 30941
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 301,
+                    "startColumn": 4,
+                    "startOffset": 30946,
+                    "endLine": 303,
+                    "endColumn": 12,
+                    "endOffset": 31155
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 304,
+                    "startColumn": 4,
+                    "startOffset": 31160,
+                    "endColumn": 133,
+                    "endOffset": 31289
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 305,
+                    "startColumn": 4,
+                    "startOffset": 31294,
+                    "endColumn": 127,
+                    "endOffset": 31417
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 306,
+                    "startColumn": 4,
+                    "startOffset": 31422,
+                    "endColumn": 73,
+                    "endOffset": 31491
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 307,
+                    "startColumn": 4,
+                    "startOffset": 31496,
+                    "endLine": 310,
+                    "endColumn": 12,
+                    "endOffset": 31744
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 311,
+                    "startColumn": 4,
+                    "startOffset": 31749,
+                    "endColumn": 87,
+                    "endOffset": 31832
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 312,
+                    "startColumn": 4,
+                    "startOffset": 31837,
+                    "endLine": 317,
+                    "endColumn": 12,
+                    "endOffset": 32234
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 318,
+                    "startColumn": 4,
+                    "startOffset": 32239,
+                    "endColumn": 81,
+                    "endOffset": 32316
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 319,
+                    "startColumn": 4,
+                    "startOffset": 32321,
+                    "endColumn": 85,
+                    "endOffset": 32402
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 320,
+                    "startColumn": 4,
+                    "startOffset": 32407,
+                    "endLine": 329,
+                    "endColumn": 12,
+                    "endOffset": 33018
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 330,
+                    "startColumn": 4,
+                    "startOffset": 33023,
+                    "endColumn": 90,
+                    "endOffset": 33109
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 331,
+                    "startColumn": 4,
+                    "startOffset": 33114,
+                    "endLine": 336,
+                    "endColumn": 12,
+                    "endOffset": 33517
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 337,
+                    "startColumn": 4,
+                    "startOffset": 33522,
+                    "endColumn": 93,
+                    "endOffset": 33611
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 338,
+                    "startColumn": 4,
+                    "startOffset": 33616,
+                    "endColumn": 57,
+                    "endOffset": 33669
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 339,
+                    "startColumn": 4,
+                    "startOffset": 33674,
+                    "endLine": 341,
+                    "endColumn": 12,
+                    "endOffset": 33817
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 342,
+                    "startColumn": 4,
+                    "startOffset": 33822,
+                    "endLine": 374,
+                    "endColumn": 12,
+                    "endOffset": 36310
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 375,
+                    "startColumn": 4,
+                    "startOffset": 36315,
+                    "endLine": 377,
+                    "endColumn": 12,
+                    "endOffset": 36463
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 378,
+                    "startColumn": 4,
+                    "startOffset": 36468,
+                    "endLine": 409,
+                    "endColumn": 12,
+                    "endOffset": 39068
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 410,
+                    "startColumn": 4,
+                    "startOffset": 39073,
+                    "endLine": 508,
+                    "endColumn": 12,
+                    "endOffset": 45811
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 509,
+                    "startColumn": 4,
+                    "startOffset": 45816,
+                    "endLine": 604,
+                    "endColumn": 12,
+                    "endOffset": 52433
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 605,
+                    "startColumn": 4,
+                    "startOffset": 52438,
+                    "endLine": 703,
+                    "endColumn": 12,
+                    "endOffset": 59272
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 704,
+                    "startColumn": 4,
+                    "startOffset": 59277,
+                    "endLine": 718,
+                    "endColumn": 12,
+                    "endOffset": 60211
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 719,
+                    "startColumn": 4,
+                    "startOffset": 60216,
+                    "endLine": 723,
+                    "endColumn": 12,
+                    "endOffset": 60467
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 724,
+                    "startColumn": 4,
+                    "startOffset": 60472,
+                    "endLine": 728,
+                    "endColumn": 12,
+                    "endOffset": 60703
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 729,
+                    "startColumn": 4,
+                    "startOffset": 60708,
+                    "endLine": 738,
+                    "endColumn": 12,
+                    "endOffset": 61250
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 739,
+                    "startColumn": 4,
+                    "startOffset": 61255,
+                    "endLine": 747,
+                    "endColumn": 12,
+                    "endOffset": 61744
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 748,
+                    "startColumn": 4,
+                    "startOffset": 61749,
+                    "endLine": 758,
+                    "endColumn": 12,
+                    "endOffset": 62417
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 759,
+                    "startColumn": 4,
+                    "startOffset": 62422,
+                    "endLine": 761,
+                    "endColumn": 12,
+                    "endOffset": 62582
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 762,
+                    "startColumn": 4,
+                    "startOffset": 62587,
+                    "endLine": 768,
+                    "endColumn": 12,
+                    "endOffset": 63110
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 769,
+                    "startColumn": 4,
+                    "startOffset": 63115,
+                    "endLine": 776,
+                    "endColumn": 12,
+                    "endOffset": 63674
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 777,
+                    "startColumn": 4,
+                    "startOffset": 63679,
+                    "endLine": 783,
+                    "endColumn": 12,
+                    "endOffset": 64048
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 784,
+                    "startColumn": 4,
+                    "startOffset": 64053,
+                    "endLine": 788,
+                    "endColumn": 12,
+                    "endOffset": 64418
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 789,
+                    "startColumn": 4,
+                    "startOffset": 64423,
+                    "endLine": 795,
+                    "endColumn": 12,
+                    "endOffset": 64909
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 796,
+                    "startColumn": 4,
+                    "startOffset": 64914,
+                    "endLine": 805,
+                    "endColumn": 12,
+                    "endOffset": 65386
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 806,
+                    "startColumn": 4,
+                    "startOffset": 65391,
+                    "endLine": 811,
+                    "endColumn": 12,
+                    "endOffset": 65739
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 812,
+                    "startColumn": 4,
+                    "startOffset": 65744,
+                    "endLine": 816,
+                    "endColumn": 12,
+                    "endOffset": 66066
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 817,
+                    "startColumn": 4,
+                    "startOffset": 66071,
+                    "endLine": 820,
+                    "endColumn": 12,
+                    "endOffset": 66372
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 821,
+                    "startColumn": 4,
+                    "startOffset": 66377,
+                    "endLine": 825,
+                    "endColumn": 12,
+                    "endOffset": 66634
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 826,
+                    "startColumn": 4,
+                    "startOffset": 66639,
+                    "endColumn": 112,
+                    "endOffset": 66747
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 827,
+                    "startColumn": 4,
+                    "startOffset": 66752,
+                    "endColumn": 114,
+                    "endOffset": 66862
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 828,
+                    "startColumn": 4,
+                    "startOffset": 66867,
+                    "endLine": 830,
+                    "endColumn": 12,
+                    "endOffset": 67101
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 831,
+                    "startColumn": 4,
+                    "startOffset": 67106,
+                    "endLine": 833,
+                    "endColumn": 12,
+                    "endOffset": 67312
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 834,
+                    "startColumn": 4,
+                    "startOffset": 67317,
+                    "endLine": 836,
+                    "endColumn": 12,
+                    "endOffset": 67529
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 837,
+                    "startColumn": 4,
+                    "startOffset": 67534,
+                    "endLine": 839,
+                    "endColumn": 12,
+                    "endOffset": 67747
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 840,
+                    "startColumn": 4,
+                    "startOffset": 67752,
+                    "endColumn": 106,
+                    "endOffset": 67854
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 841,
+                    "startColumn": 4,
+                    "startOffset": 67859,
+                    "endLine": 844,
+                    "endColumn": 12,
+                    "endOffset": 68047
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 845,
+                    "startColumn": 4,
+                    "startOffset": 68052,
+                    "endLine": 851,
+                    "endColumn": 12,
+                    "endOffset": 68502
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 852,
+                    "startColumn": 4,
+                    "startOffset": 68507,
+                    "endLine": 855,
+                    "endColumn": 12,
+                    "endOffset": 68742
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 856,
+                    "startColumn": 4,
+                    "startOffset": 68747,
+                    "endLine": 859,
+                    "endColumn": 12,
+                    "endOffset": 69001
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 860,
+                    "startColumn": 4,
+                    "startOffset": 69006,
+                    "endColumn": 100,
+                    "endOffset": 69102
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 861,
+                    "startColumn": 4,
+                    "startOffset": 69107,
+                    "endLine": 864,
+                    "endColumn": 12,
+                    "endOffset": 69289
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 865,
+                    "startColumn": 4,
+                    "startOffset": 69294,
+                    "endColumn": 89,
+                    "endOffset": 69379
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 866,
+                    "startColumn": 4,
+                    "startOffset": 69384,
+                    "endLine": 871,
+                    "endColumn": 12,
+                    "endOffset": 69823
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 872,
+                    "startColumn": 4,
+                    "startOffset": 69828,
+                    "endColumn": 111,
+                    "endOffset": 69935
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 873,
+                    "startColumn": 4,
+                    "startOffset": 69940,
+                    "endLine": 883,
+                    "endColumn": 12,
+                    "endOffset": 70740
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 884,
+                    "startColumn": 4,
+                    "startOffset": 70745,
+                    "endLine": 888,
+                    "endColumn": 12,
+                    "endOffset": 71070
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 889,
+                    "startColumn": 4,
+                    "startOffset": 71075,
+                    "endLine": 902,
+                    "endColumn": 12,
+                    "endOffset": 71989
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 903,
+                    "startColumn": 4,
+                    "startOffset": 71994,
+                    "endLine": 912,
+                    "endColumn": 12,
+                    "endOffset": 72655
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 913,
+                    "startColumn": 4,
+                    "startOffset": 72660,
+                    "endLine": 917,
+                    "endColumn": 12,
+                    "endOffset": 72940
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 918,
+                    "startColumn": 4,
+                    "startOffset": 72945,
+                    "endLine": 958,
+                    "endColumn": 12,
+                    "endOffset": 76119
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 959,
+                    "startColumn": 4,
+                    "startOffset": 76124,
+                    "endLine": 999,
+                    "endColumn": 12,
+                    "endOffset": 79312
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1000,
+                    "startColumn": 4,
+                    "startOffset": 79317,
+                    "endLine": 1041,
+                    "endColumn": 12,
+                    "endOffset": 82631
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1042,
+                    "startColumn": 4,
+                    "startOffset": 82636,
+                    "endColumn": 86,
+                    "endOffset": 82718
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1043,
+                    "startColumn": 4,
+                    "startOffset": 82723,
+                    "endLine": 1046,
+                    "endColumn": 12,
+                    "endOffset": 82947
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1047,
+                    "startColumn": 4,
+                    "startOffset": 82952,
+                    "endLine": 1050,
+                    "endColumn": 12,
+                    "endOffset": 83196
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1051,
+                    "startColumn": 4,
+                    "startOffset": 83201,
+                    "endLine": 1054,
+                    "endColumn": 12,
+                    "endOffset": 83437
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1055,
+                    "startColumn": 4,
+                    "startOffset": 83442,
+                    "endLine": 1057,
+                    "endColumn": 12,
+                    "endOffset": 83589
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1058,
+                    "startColumn": 4,
+                    "startOffset": 83594,
+                    "endLine": 1060,
+                    "endColumn": 12,
+                    "endOffset": 83760
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1061,
+                    "startColumn": 4,
+                    "startOffset": 83765,
+                    "endLine": 1063,
+                    "endColumn": 12,
+                    "endOffset": 83927
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1064,
+                    "startColumn": 4,
+                    "startOffset": 83932,
+                    "endLine": 1067,
+                    "endColumn": 12,
+                    "endOffset": 84170
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1068,
+                    "startColumn": 4,
+                    "startOffset": 84175,
+                    "endLine": 1070,
+                    "endColumn": 12,
+                    "endOffset": 84340
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1071,
+                    "startColumn": 4,
+                    "startOffset": 84345,
+                    "endLine": 1073,
+                    "endColumn": 12,
+                    "endOffset": 84513
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1074,
+                    "startColumn": 4,
+                    "startOffset": 84518,
+                    "endLine": 1076,
+                    "endColumn": 12,
+                    "endOffset": 84684
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1077,
+                    "startColumn": 4,
+                    "startOffset": 84689,
+                    "endLine": 1080,
+                    "endColumn": 12,
+                    "endOffset": 84958
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1081,
+                    "startColumn": 4,
+                    "startOffset": 84963,
+                    "endLine": 1083,
+                    "endColumn": 12,
+                    "endOffset": 85157
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1084,
+                    "startColumn": 4,
+                    "startOffset": 85162,
+                    "endColumn": 83,
+                    "endOffset": 85241
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1085,
+                    "startColumn": 4,
+                    "startOffset": 85246,
+                    "endColumn": 95,
+                    "endOffset": 85337
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1086,
+                    "startColumn": 4,
+                    "startOffset": 85342,
+                    "endColumn": 95,
+                    "endOffset": 85433
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1087,
+                    "startColumn": 4,
+                    "startOffset": 85438,
+                    "endColumn": 97,
+                    "endOffset": 85531
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1088,
+                    "startColumn": 4,
+                    "startOffset": 85536,
+                    "endColumn": 99,
+                    "endOffset": 85631
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1089,
+                    "startColumn": 4,
+                    "startOffset": 85636,
+                    "endColumn": 101,
+                    "endOffset": 85733
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1090,
+                    "startColumn": 4,
+                    "startOffset": 85738,
+                    "endColumn": 101,
+                    "endOffset": 85835
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1091,
+                    "startColumn": 4,
+                    "startOffset": 85840,
+                    "endColumn": 101,
+                    "endOffset": 85937
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1092,
+                    "startColumn": 4,
+                    "startOffset": 85942,
+                    "endColumn": 101,
+                    "endOffset": 86039
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1093,
+                    "startColumn": 4,
+                    "startOffset": 86044,
+                    "endColumn": 101,
+                    "endOffset": 86141
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1094,
+                    "startColumn": 4,
+                    "startOffset": 86146,
+                    "endColumn": 99,
+                    "endOffset": 86241
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1095,
+                    "startColumn": 4,
+                    "startOffset": 86246,
+                    "endColumn": 95,
+                    "endOffset": 86337
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1096,
+                    "startColumn": 4,
+                    "startOffset": 86342,
+                    "endColumn": 111,
+                    "endOffset": 86449
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1097,
+                    "startColumn": 4,
+                    "startOffset": 86454,
+                    "endColumn": 128,
+                    "endOffset": 86578
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1098,
+                    "startColumn": 4,
+                    "startOffset": 86583,
+                    "endColumn": 122,
+                    "endOffset": 86701
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1099,
+                    "startColumn": 4,
+                    "startOffset": 86706,
+                    "endColumn": 141,
+                    "endOffset": 86843
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1100,
+                    "startColumn": 4,
+                    "startOffset": 86848,
+                    "endColumn": 141,
+                    "endOffset": 86985
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1101,
+                    "startColumn": 4,
+                    "startOffset": 86990,
+                    "endColumn": 97,
+                    "endOffset": 87083
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1102,
+                    "startColumn": 4,
+                    "startOffset": 87088,
+                    "endColumn": 113,
+                    "endOffset": 87197
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1103,
+                    "startColumn": 4,
+                    "startOffset": 87202,
+                    "endColumn": 93,
+                    "endOffset": 87291
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1104,
+                    "startColumn": 4,
+                    "startOffset": 87296,
+                    "endColumn": 127,
+                    "endOffset": 87419
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1105,
+                    "startColumn": 4,
+                    "startOffset": 87424,
+                    "endColumn": 121,
+                    "endOffset": 87541
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1106,
+                    "startColumn": 4,
+                    "startOffset": 87546,
+                    "endColumn": 95,
+                    "endOffset": 87637
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1107,
+                    "startColumn": 4,
+                    "startOffset": 87642,
+                    "endColumn": 111,
+                    "endOffset": 87749
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1108,
+                    "startColumn": 4,
+                    "startOffset": 87754,
+                    "endColumn": 99,
+                    "endOffset": 87849
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1109,
+                    "startColumn": 4,
+                    "startOffset": 87854,
+                    "endColumn": 115,
+                    "endOffset": 87965
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1110,
+                    "startColumn": 4,
+                    "startOffset": 87970,
+                    "endColumn": 95,
+                    "endOffset": 88061
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1111,
+                    "startColumn": 4,
+                    "startOffset": 88066,
+                    "endColumn": 111,
+                    "endOffset": 88173
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1112,
+                    "startColumn": 4,
+                    "startOffset": 88178,
+                    "endColumn": 127,
+                    "endOffset": 88301
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1113,
+                    "startColumn": 4,
+                    "startOffset": 88306,
+                    "endColumn": 135,
+                    "endOffset": 88437
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1114,
+                    "startColumn": 4,
+                    "startOffset": 88442,
+                    "endColumn": 151,
+                    "endOffset": 88589
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1115,
+                    "startColumn": 4,
+                    "startOffset": 88594,
+                    "endColumn": 129,
+                    "endOffset": 88719
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1116,
+                    "startColumn": 4,
+                    "startOffset": 88724,
+                    "endColumn": 145,
+                    "endOffset": 88865
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1117,
+                    "startColumn": 4,
+                    "startOffset": 88870,
+                    "endColumn": 137,
+                    "endOffset": 89003
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1118,
+                    "startColumn": 4,
+                    "startOffset": 89008,
+                    "endColumn": 140,
+                    "endOffset": 89144
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1119,
+                    "startColumn": 4,
+                    "startOffset": 89149,
+                    "endColumn": 131,
+                    "endOffset": 89276
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1120,
+                    "startColumn": 4,
+                    "startOffset": 89281,
+                    "endColumn": 134,
+                    "endOffset": 89411
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1121,
+                    "startColumn": 4,
+                    "startOffset": 89416,
+                    "endColumn": 123,
+                    "endOffset": 89535
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1122,
+                    "startColumn": 4,
+                    "startOffset": 89540,
+                    "endColumn": 129,
+                    "endOffset": 89665
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1123,
+                    "startColumn": 4,
+                    "startOffset": 89670,
+                    "endColumn": 129,
+                    "endOffset": 89795
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1124,
+                    "startColumn": 4,
+                    "startOffset": 89800,
+                    "endColumn": 111,
+                    "endOffset": 89907
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1125,
+                    "startColumn": 4,
+                    "startOffset": 89912,
+                    "endColumn": 133,
+                    "endOffset": 90041
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1126,
+                    "startColumn": 4,
+                    "startOffset": 90046,
+                    "endColumn": 131,
+                    "endOffset": 90173
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1127,
+                    "startColumn": 4,
+                    "startOffset": 90178,
+                    "endColumn": 125,
+                    "endOffset": 90299
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1128,
+                    "startColumn": 4,
+                    "startOffset": 90304,
+                    "endColumn": 65,
+                    "endOffset": 90365
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1129,
+                    "startColumn": 4,
+                    "startOffset": 90370,
+                    "endColumn": 89,
+                    "endOffset": 90455
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1130,
+                    "startColumn": 4,
+                    "startOffset": 90460,
+                    "endColumn": 79,
+                    "endOffset": 90535
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1131,
+                    "startColumn": 4,
+                    "startOffset": 90540,
+                    "endColumn": 97,
+                    "endOffset": 90633
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1132,
+                    "startColumn": 4,
+                    "startOffset": 90638,
+                    "endColumn": 77,
+                    "endOffset": 90711
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1133,
+                    "startColumn": 4,
+                    "startOffset": 90716,
+                    "endColumn": 105,
+                    "endOffset": 90817
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1134,
+                    "startColumn": 4,
+                    "startOffset": 90822,
+                    "endColumn": 91,
+                    "endOffset": 90909
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1135,
+                    "startColumn": 4,
+                    "startOffset": 90914,
+                    "endColumn": 109,
+                    "endOffset": 91019
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1136,
+                    "startColumn": 4,
+                    "startOffset": 91024,
+                    "endLine": 1139,
+                    "endColumn": 12,
+                    "endOffset": 91190
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1140,
+                    "startColumn": 4,
+                    "startOffset": 91195,
+                    "endLine": 1143,
+                    "endColumn": 12,
+                    "endOffset": 91355
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1144,
+                    "startColumn": 4,
+                    "startOffset": 91360,
+                    "endColumn": 79,
+                    "endOffset": 91435
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1145,
+                    "startColumn": 4,
+                    "startOffset": 91440,
+                    "endColumn": 99,
+                    "endOffset": 91535
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1146,
+                    "startColumn": 4,
+                    "startOffset": 91540,
+                    "endColumn": 89,
+                    "endOffset": 91625
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1147,
+                    "startColumn": 4,
+                    "startOffset": 91630,
+                    "endColumn": 109,
+                    "endOffset": 91735
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1148,
+                    "startColumn": 4,
+                    "startOffset": 91740,
+                    "endColumn": 91,
+                    "endOffset": 91827
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1149,
+                    "startColumn": 4,
+                    "startOffset": 91832,
+                    "endColumn": 87,
+                    "endOffset": 91915
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1150,
+                    "startColumn": 4,
+                    "startOffset": 91920,
+                    "endColumn": 99,
+                    "endOffset": 92015
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1151,
+                    "startColumn": 4,
+                    "startOffset": 92020,
+                    "endColumn": 101,
+                    "endOffset": 92117
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1152,
+                    "startColumn": 4,
+                    "startOffset": 92122,
+                    "endColumn": 103,
+                    "endOffset": 92221
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1153,
+                    "startColumn": 4,
+                    "startOffset": 92226,
+                    "endColumn": 103,
+                    "endOffset": 92325
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1154,
+                    "startColumn": 4,
+                    "startOffset": 92330,
+                    "endColumn": 93,
+                    "endOffset": 92419
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1155,
+                    "startColumn": 4,
+                    "startOffset": 92424,
+                    "endColumn": 119,
+                    "endOffset": 92539
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1156,
+                    "startColumn": 4,
+                    "startOffset": 92544,
+                    "endColumn": 117,
+                    "endOffset": 92657
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1157,
+                    "startColumn": 4,
+                    "startOffset": 92662,
+                    "endColumn": 89,
+                    "endOffset": 92747
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1158,
+                    "startColumn": 4,
+                    "startOffset": 92752,
+                    "endColumn": 107,
+                    "endOffset": 92855
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1159,
+                    "startColumn": 4,
+                    "startOffset": 92860,
+                    "endColumn": 109,
+                    "endOffset": 92965
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1160,
+                    "startColumn": 4,
+                    "startOffset": 92970,
+                    "endColumn": 111,
+                    "endOffset": 93077
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1161,
+                    "startColumn": 4,
+                    "startOffset": 93082,
+                    "endLine": 1163,
+                    "endColumn": 12,
+                    "endOffset": 93252
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1164,
+                    "startColumn": 4,
+                    "startOffset": 93257,
+                    "endColumn": 115,
+                    "endOffset": 93368
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1165,
+                    "startColumn": 4,
+                    "startOffset": 93373,
+                    "endColumn": 85,
+                    "endOffset": 93454
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1166,
+                    "startColumn": 4,
+                    "startOffset": 93459,
+                    "endColumn": 99,
+                    "endOffset": 93554
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1167,
+                    "startColumn": 4,
+                    "startOffset": 93559,
+                    "endColumn": 111,
+                    "endOffset": 93666
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1168,
+                    "startColumn": 4,
+                    "startOffset": 93671,
+                    "endColumn": 66,
+                    "endOffset": 93733
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1169,
+                    "startColumn": 4,
+                    "startOffset": 93738,
+                    "endColumn": 113,
+                    "endOffset": 93847
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1170,
+                    "startColumn": 4,
+                    "startOffset": 93852,
+                    "endColumn": 67,
+                    "endOffset": 93915
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1171,
+                    "startColumn": 4,
+                    "startOffset": 93920,
+                    "endColumn": 115,
+                    "endOffset": 94031
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1172,
+                    "startColumn": 4,
+                    "startOffset": 94036,
+                    "endColumn": 131,
+                    "endOffset": 94163
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1173,
+                    "startColumn": 4,
+                    "startOffset": 94168,
+                    "endColumn": 115,
+                    "endOffset": 94279
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1174,
+                    "startColumn": 4,
+                    "startOffset": 94284,
+                    "endColumn": 68,
+                    "endOffset": 94348
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1175,
+                    "startColumn": 4,
+                    "startOffset": 94353,
+                    "endColumn": 94,
+                    "endOffset": 94443
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1176,
+                    "startColumn": 4,
+                    "startOffset": 94448,
+                    "endColumn": 114,
+                    "endOffset": 94558
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1177,
+                    "startColumn": 4,
+                    "startOffset": 94563,
+                    "endColumn": 112,
+                    "endOffset": 94671
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1178,
+                    "startColumn": 4,
+                    "startOffset": 94676,
+                    "endColumn": 98,
+                    "endOffset": 94770
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1179,
+                    "startColumn": 4,
+                    "startOffset": 94775,
+                    "endColumn": 119,
+                    "endOffset": 94890
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1180,
+                    "startColumn": 4,
+                    "startOffset": 94895,
+                    "endColumn": 121,
+                    "endOffset": 95012
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1181,
+                    "startColumn": 4,
+                    "startOffset": 95017,
+                    "endColumn": 110,
+                    "endOffset": 95123
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1182,
+                    "startColumn": 4,
+                    "startOffset": 95128,
+                    "endColumn": 100,
+                    "endOffset": 95224
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1183,
+                    "startColumn": 4,
+                    "startOffset": 95229,
+                    "endColumn": 104,
+                    "endOffset": 95329
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1184,
+                    "startColumn": 4,
+                    "startOffset": 95334,
+                    "endColumn": 99,
+                    "endOffset": 95429
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1185,
+                    "startColumn": 4,
+                    "startOffset": 95434,
+                    "endColumn": 117,
+                    "endOffset": 95547
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1186,
+                    "startColumn": 4,
+                    "startOffset": 95552,
+                    "endColumn": 90,
+                    "endOffset": 95638
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1187,
+                    "startColumn": 4,
+                    "startOffset": 95643,
+                    "endColumn": 122,
+                    "endOffset": 95761
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1188,
+                    "startColumn": 4,
+                    "startOffset": 95766,
+                    "endColumn": 99,
+                    "endOffset": 95861
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1189,
+                    "startColumn": 4,
+                    "startOffset": 95866,
+                    "endColumn": 103,
+                    "endOffset": 95965
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1190,
+                    "startColumn": 4,
+                    "startOffset": 95970,
+                    "endColumn": 95,
+                    "endOffset": 96061
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1191,
+                    "startColumn": 4,
+                    "startOffset": 96066,
+                    "endColumn": 87,
+                    "endOffset": 96149
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1192,
+                    "startColumn": 4,
+                    "startOffset": 96154,
+                    "endColumn": 105,
+                    "endOffset": 96255
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1193,
+                    "startColumn": 4,
+                    "startOffset": 96260,
+                    "endColumn": 91,
+                    "endOffset": 96347
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1194,
+                    "startColumn": 4,
+                    "startOffset": 96352,
+                    "endColumn": 91,
+                    "endOffset": 96439
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1195,
+                    "startColumn": 4,
+                    "startOffset": 96444,
+                    "endColumn": 113,
+                    "endOffset": 96553
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1196,
+                    "startColumn": 4,
+                    "startOffset": 96558,
+                    "endColumn": 89,
+                    "endOffset": 96643
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1197,
+                    "startColumn": 4,
+                    "startOffset": 96648,
+                    "endColumn": 83,
+                    "endOffset": 96727
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1198,
+                    "startColumn": 4,
+                    "startOffset": 96732,
+                    "endColumn": 53,
+                    "endOffset": 96781
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1199,
+                    "startColumn": 4,
+                    "startOffset": 96786,
+                    "endColumn": 121,
+                    "endOffset": 96903
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1200,
+                    "startColumn": 4,
+                    "startOffset": 96908,
+                    "endColumn": 83,
+                    "endOffset": 96987
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1201,
+                    "startColumn": 4,
+                    "startOffset": 96992,
+                    "endColumn": 119,
+                    "endOffset": 97107
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values\\values.xml"
+                }
+            }
+        ]
+    }
+]
