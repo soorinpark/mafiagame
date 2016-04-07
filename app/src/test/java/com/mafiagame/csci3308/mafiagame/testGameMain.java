@@ -20,7 +20,7 @@ public class testGameMain extends ActivityInstrumentationTestCase2<GameMain>{
         super.setUp();
         testGameMain = getActivity();
     }
-
+    @Test
     public void test_image_views() {
         ImageView oval = (ImageView) testGameMain.findViewById(R.id.oval);
         assertNotNull(oval);
