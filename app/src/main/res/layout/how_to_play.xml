@@ -1,6 +1,7 @@
 <ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="#5e5e5e">
     >
 
     <TableLayout
@@ -52,7 +53,8 @@
             android:text="4. Play the game through day and night rounds (as described below) until either the Mafia have been eliminated, or the number of Mafia and townspeople is equal (in this case, the mafia have complete control over the voting). The game begins with a day cycle, in which the Mafia do not yet know who the other Mafia members are."           android:id="@+id/textView6"
             android:layout_marginLeft="20pt"
             android:layout_marginRight="20pt"
-            android:layout_marginTop="20pt"/>
+            android:layout_marginTop="20pt"
+            android:layout_marginBottom="20pt" />
 
 
         <!-- everything you already have -->
