@@ -88,7 +88,7 @@ public class GameMain extends Activity {
         addPlayers(numPlayers, relativeLayout);
 
         // choose cycle for logic
-        cycleNum++; //if it's odd, cycle is night. even, cycle is day.
+        //cycleNum++; //if it's odd, cycle is night. even, cycle is day.
         String cycle;
         ImageView cycleImg = new ImageView(this);
         cycleImg.bringToFront();
@@ -96,7 +96,7 @@ public class GameMain extends Activity {
                 LayoutParams.WRAP_CONTENT,
                 LayoutParams.WRAP_CONTENT);
         params.setMargins(0, 0, 0, 0);
-        params.width = 500;
+        params.width = 400;
         params.addRule(RelativeLayout.CENTER_VERTICAL);
         params.addRule(RelativeLayout.CENTER_HORIZONTAL);
         cycleImg.setLayoutParams(params);
@@ -159,15 +159,18 @@ public class GameMain extends Activity {
 
     }
 
-
-
-    private void addPlayers(String numPlayers, RelativeLayout relativeLayout){
-
+    public int playerStrToInt(String numPlayers){
         int players = 0;
 
         if (numPlayers.equals("6 (1 mafia)"))players = 6;
         else if (numPlayers.equals("10 (2 mafias)")) players = 10;
         else if (numPlayers.equals("14 (3 mafias)")) players = 14;
+        return players;
+    }
+
+    private void addPlayers(String numPlayers, RelativeLayout relativeLayout){
+
+        int players = playerStrToInt(numPlayers);
 
         // visual setup
         List<String> playerIcon = new ArrayList<String>();
@@ -191,13 +194,14 @@ public class GameMain extends Activity {
                 LayoutParams.WRAP_CONTENT,
                 LayoutParams.WRAP_CONTENT);
 
-        ImageView imageView = new ImageView(this);
-        imageView.setImageResource(R.drawable.oval_from_above);
+        ImageView oval = new ImageView(this);
+        oval.setId(R.id.oval);
+        oval.setImageResource(R.drawable.oval_from_above);
         params.setMargins(0, 0, 0, 0);
         params.width = 1000;
         params.addRule(RelativeLayout.CENTER_VERTICAL);
         params.addRule(RelativeLayout.CENTER_HORIZONTAL);
-        imageView.setLayoutParams(params);
+        oval.setLayoutParams(params);
 
         // if there are 6 players
         if (players == 6) {
@@ -218,14 +222,14 @@ public class GameMain extends Activity {
             RelativeLayout.LayoutParams params0 = new RelativeLayout.LayoutParams(
                     LayoutParams.WRAP_CONTENT,
                     LayoutParams.WRAP_CONTENT);
-            ImageView imageView0 = new ImageView(this);
-            //imageView0.setId(0);
-            imageView0.setImageResource(R.drawable.player_woman_3);
+            ImageView playerImage = new ImageView(this);
+            playerImage.setId(R.id.playerIcon);
+            playerImage.setImageResource(R.drawable.player_woman_3);
             params0.setMargins(0, 0, 0, 0);
             params0.width = 300;
             params0.addRule(RelativeLayout.ALIGN_PARENT_BOTTOM);
             params0.addRule(RelativeLayout.CENTER_HORIZONTAL);
-            imageView0.setLayoutParams(params0);
+            playerImage.setLayoutParams(params0);
 
             RelativeLayout.LayoutParams params2 = new RelativeLayout.LayoutParams(
                     LayoutParams.WRAP_CONTENT,
@@ -294,8 +298,8 @@ public class GameMain extends Activity {
             imageView6.setLayoutParams(params6);
 
 
-            relativeLayout.addView(imageView0);
-            relativeLayout.addView(imageView);
+            relativeLayout.addView(playerImage);
+            relativeLayout.addView(oval);
             relativeLayout.addView(imageView1);
             relativeLayout.addView(imageView2);
             relativeLayout.addView(imageView3);
@@ -322,13 +326,14 @@ public class GameMain extends Activity {
             RelativeLayout.LayoutParams params0 = new RelativeLayout.LayoutParams(
                     LayoutParams.WRAP_CONTENT,
                     LayoutParams.WRAP_CONTENT);
-            ImageView imageView0 = new ImageView(this);
-            imageView0.setImageResource(R.drawable.player_woman_3);
+            ImageView playerImage = new ImageView(this);
+            playerImage.setId(R.id.playerIcon);
+            playerImage.setImageResource(R.drawable.player_woman_3);
             params0.setMargins(0, 0, 0, 0);
             params0.width = 300;
             params0.addRule(RelativeLayout.ALIGN_PARENT_BOTTOM);
             params0.addRule(RelativeLayout.CENTER_HORIZONTAL);
-            imageView0.setLayoutParams(params0);
+            playerImage.setLayoutParams(params0);
 
             RelativeLayout.LayoutParams params2 = new RelativeLayout.LayoutParams(
                     LayoutParams.WRAP_CONTENT,
@@ -437,8 +442,8 @@ public class GameMain extends Activity {
             //params6.addRule(RelativeLayout.CENTER_HORIZONTAL);
             imageView10.setLayoutParams(params10);
 
-            relativeLayout.addView(imageView0);
-            relativeLayout.addView(imageView);
+            relativeLayout.addView(playerImage);
+            relativeLayout.addView(oval);
             relativeLayout.addView(imageView1);
             relativeLayout.addView(imageView2);
             relativeLayout.addView(imageView3);
