@@ -36,15 +36,18 @@ User Acceptance Tests:
 	Frequency of Use| Whenever a gamer would like to change a game or app setting
 	------------------------------------------------------------------------------------------------------------------------------
 	Flow of Events	|	Actor Action	|	System Response	|	Comments	
-			|			|			|											|			|			|							
+			|			|			|											|	1. Open App	|	App Opens	|							
 			|			|			|							
+			|	2. Click	|	Settings	|							
+			|	settings	|	Page Opens	|							
+			|	button		|			|							
 			|			|			|							
-			|			|			|							
-			|			|			|							
-			|			|			|							
-			|			|			|							
-			|			|			|							
-			|			|			|							
-			|			|			|							
-			
+			|	3. Change	|	no music	|  Expected music to play				
+			|	music setting	|	changed		|							
+			|			|			|
+	--------------------------------------------------------------------------------------------------------------------------
+	Test Pass?	| 	FAIL
+	--------------------------------------------------------------------------------------------------------------------------
+	Notes and 	|	fix setting java class to correctly play music upon switch change
+	Issues		|
 
