@@ -8,26 +8,26 @@ Who:
 	Alex Sheehan: ninjaalex888
 	Qi Pei: qipe3398
 
-Title: 
-	
+Title:
+
 	Mafia Game
 
-Vision: 
-	
+Vision:
+
 	Give users enjoyable and accurate experience of the Mafia Game
 
-Automated Tests: 
+Automated Tests:
 
-	Android Studio, the program in which we are building our app has a built in testing library.  
-	There is a specific directory in the path of the full application in which java classes can be placed.  
+	Android Studio, the program in which we are building our app has a built in testing library.
+	There is a specific directory in the path of the full application in which java classes can be placed.
 	These classes will be run using Junit testing.  For more information check out
 	http://developer.android.com/tools/testing/index.html.
-	
-	In order to run the tests we have created, pull up the application in android studio.  Then go to the top bar 
-	and where it says app in a drop down menu, change that to "all tests under mafiagame".  Or press the projects tab 
-	in the top left of android studio, navigate to app/src/test/java/com/mafiagame/csci3308/mafiagame, 
+
+	In order to run the tests we have created, pull up the application in android studio.  Then go to the top bar
+	and where it says app in a drop down menu, change that to "all tests under mafiagame".  Or press the projects tab
+	in the top left of android studio, navigate to app/src/test/java/com/mafiagame/csci3308/mafiagame,
 	and right click, press run all tests in current directory.
-	
+
 	Screenshot of all tests passing
 ![ScreenShot1](https://github.com/soorin1993/mafiagame/blob/master/AutomatedTestsScreens/mafiaAutoTest1Pass.png)
 	Screenshot of testing file 1
@@ -38,13 +38,13 @@ Automated Tests:
 
 
 
-User Acceptance Tests: 
+User Acceptance Tests:
 
 	Use Case ID: UC-01
 	Use Case Name: Test Settings
 	Description: User can open app, navigate to settings page, change a setting
 	------------------------------------------------------------------------------------------------------------------------------
-	Users			|	Gamers  
+	Users			|	Gamers
 	------------------------------------------------------------------------------------------------------------------------------
 	Pre-conditions	|	App is loaded on phone, settings page acitivity is up and running along with associated .java class
 	------------------------------------------------------------------------------------------------------------------------------
@@ -56,18 +56,18 @@ User Acceptance Tests:
 	------------------------------------------------------------------------------------------------------------------------------
 	                |                   |                   |
 	                |   1. open app     |   app opens       |
-	                |                   |                   |	                
-	                |   2. navigate     |   setttings       |	
-	                |   to settings     |  acvitvity opens  |	                
-	                |   button          |                   |	                
-	                |                   |                   |	                
-	                |   3. change       |   music does NOT  |                      
-	                |   mustic setting  |   begin playing   |   TODO	                
-	                |   to on           |                   |	                
-	                |                   |                   |	                
-	                |                   |                   |	                
-	                |                   |                   |	                
-	                |                   |                   |	                
+	                |                   |                   |
+	                |   2. navigate     |   setttings       |
+	                |   to settings     |  acvitvity opens  |
+	                |   button          |                   |
+	                |                   |                   |
+	                |   3. change       |   music does NOT  |
+	                |   mustic setting  |   begin playing   |   TODO
+	                |   to on           |                   |
+	                |                   |                   |
+	                |                   |                   |
+	                |                   |                   |
+	                |                   |                   |
 	------------------------------------------------------------------------------------------------------------------------------
 	Test Pass?		| 	FAIL
 	------------------------------------------------------------------------------------------------------------------------------
@@ -79,30 +79,30 @@ User Acceptance Tests:
 	Use Case Name: Start game with 10 players
 	Description: User can open app, go to new game, and select 10 players as game option
 	------------------------------------------------------------------------------------------------------------------------------
-	Users			|	Gamers  
+	Users			|	Gamers
 	------------------------------------------------------------------------------------------------------------------------------
-	Pre-conditions	|	App is loaded on phone, settings page acitivity is up and running along with associated .java class
+	Pre-conditions	|	App is loaded on phone 
 	------------------------------------------------------------------------------------------------------------------------------
-	Post-conditions	|	Gamer finds settings page and successfully changes setting
+	Post-conditions	| 	Gamer starts game with 10 players as the selected number of players
 	------------------------------------------------------------------------------------------------------------------------------
-	Frequency of Use|	Whenever a gamer would like to change a game or app setting
+	Frequency of Use|	Whenever a gamer would like to change number of players in the game
 	------------------------------------------------------------------------------------------------------------------------------
 	Flow of Events	|	Actor Action	|	System Response	|	Comments
 	------------------------------------------------------------------------------------------------------------------------------
 	                |                   |                   |
 	                |   1. open app     |   app opens       |
-	                |                   |                   |	                
+	                |                   |                   |
 	                |   2. navigate     |   new game        |	slight delay on opening
-	                |   to new game     |  begins	        |	 may just be emulator itself               
-	                |   button          |                   |	                
-	                |                   |                   |	                
-	                |   3. change       | number of players |                      
-	               	|   number of       |    is correct     |   	                
-	                |   players to      |                   |	                
-	                |   10 players      | 			|	                
-	                |                   |		        |	 woohoo               
-	                |                   |        		|	                
-	                |                   |                   |	                
+	                |   to new game     |  begins	        |	 may just be emulator itself
+	                |   button          |                   |
+	                |                   |                   |
+	                |   3. change       | number of players |
+	               	|   number of       |    is correct     |
+	                |   players to      |                   |
+	                |   10 players      | 			        |
+	                |                   |		            |	 woohoo
+	                |                   |        		    |
+	                |                   |                   |
 	------------------------------------------------------------------------------------------------------------------------------
 	Test Pass?		| 	PASS
 	------------------------------------------------------------------------------------------------------------------------------
@@ -110,35 +110,38 @@ User Acceptance Tests:
 	Issues			|
 
 	Use Case ID: UC-03
-	Use Case Name: Test Settings
-	Description: User can open app, navigate to settings page, change a setting
+	Use Case Name: Traversing app, pressing home, going back into app
+	Description: User can open app, navigate around menus/buttons, return home, and go back into app successfully
 	------------------------------------------------------------------------------------------------------------------------------
-	Users			|	Gamers  
+	Users			|	Gamers
 	------------------------------------------------------------------------------------------------------------------------------
-	Pre-conditions	|	App is loaded on phone, settings page acitivity is up and running along with associated .java class
+	Pre-conditions	|	App is loaded on phone
 	------------------------------------------------------------------------------------------------------------------------------
-	Post-conditions	|	Gamer finds settings page and successfully changes setting
+	Post-conditions	|	Gamer is successfully able to navigate around app, leave app and return to it
 	------------------------------------------------------------------------------------------------------------------------------
-	Frequency of Use|	Whenever a gamer would like to change a game or app setting
+	Frequency of Use|	All the time when using the app
 	------------------------------------------------------------------------------------------------------------------------------
 	Flow of Events	|	Actor Action	|	System Response	|	Comments
 	------------------------------------------------------------------------------------------------------------------------------
 	                |                   |                   |
 	                |   1. open app     |   app opens       |
-	                |                   |                   |	                
-	                |   2. navigate     |   setttings       |	
-	                |   to settings     |  acvitvity opens  |	                
-	                |   button          |                   |	                
-	                |                   |                   |	                
-	                |   3. change       |   music does NOT  |                      
-	                |   mustic setting  |   begin playing   |   TODO	                
-	                |   to on           |                   |	                
-	                |                   |                   |	                
-	                |                   |                   |	                
-	                |                   |                   |	                
-	                |                   |                   |	                
+	                |                   |                   |
+	                |   2. navigate     |   about game      |
+	                |   to about game   |  acvitvity opens  |
+	                |   button          |                   |
+	                |                   |                   |
+	                |   3. press home   |   returns home    |
+	                |   button          |                   |   TODO
+	                |                   |                   |
+	                |   4. try and re-  |    app re opens   |
+	                |  open app         |  where it left    |
+	                |                   |   off             |
+	                |   5. return to    |                   |
+	                |   mafia home menu |  back buttons     |
+	                |                   |  bring user back  |
+	                |                   |  to the home menu |
 	------------------------------------------------------------------------------------------------------------------------------
-	Test Pass?		| 	FAIL
+	Test Pass?		| 	PASS
 	------------------------------------------------------------------------------------------------------------------------------
-	Notes and 		|	fix setting java class to correctly play music upon switch change
-	Issues			|
+	Notes and 		|	Navigating and traversing the app so far works well, you can
+	Issues			|   even return home on android and go back into the app where user left off
