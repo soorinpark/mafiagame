@@ -17,11 +17,21 @@ import java.lang.Object;
 import android.view.ViewGroup;
 import android.widget.AdapterView;
 
+import java.util.ArrayList;
+import java.util.Collections;
+import java.util.Random;
+import java.util.List;
+import java.util.Map;
+import java.util.HashMap;
+import java.lang.Integer;
+
+
 public class NewGame extends Activity {
 
     Button start_game_button;
     String numPlayersVal;
     String yourRoleSelected;
+    Map<Integer, String> finalRoles = new HashMap<Integer, String>();
 
     @Override
     public void onCreate(Bundle savedInstanceState) {
@@ -34,7 +44,7 @@ public class NewGame extends Activity {
         numPlayers.setAdapter(adapter);
 
         final Spinner roles = (Spinner)findViewById(R.id.yourRole);
-        String[] roleItems = new String[]{"Random", "Detective", "Doctor", "Mafia", "Villager"};
+        final String[] roleItems = new String[]{"Random", "Detective", "Doctor", "Mafia", "Villager"};
         ArrayAdapter<String> adapter1 = new ArrayAdapter<String>(this, android.R.layout.simple_spinner_dropdown_item, roleItems);
         roles.setAdapter(adapter1);
 
@@ -60,7 +70,44 @@ public class NewGame extends Activity {
                 Intent intent = new Intent(NewGame.this, GameMain.class);
                 intent.putExtra("num_players", numPlayersVal);
                 intent.putExtra("your_role", yourRoleSelected);
+
+                List<String> newRoleList = new ArrayList<>();
+
+                newRoleList.add("Detective");
+                newRoleList.add("Doctor");
+                newRoleList.add("Mafia");
+                newRoleList.add("Villager");
+                newRoleList.add("Villager2");
+                newRoleList.add("Villager3");
+
+                if (numPlayersVal.equals("6 (1 mafia)")){
+
+                    if (!yourRoleSelected.equals("Random")){
+
+                        finalRoles.put(0, yourRoleSelected); // 0 is always you
+
+                        for (int i = 1; i < 6; i++) {
+
+                            long seed = System.nanoTime();
+                            Collections.shuffle(newRoleList, new Random(seed));
+                            newRoleList.remove(yourRoleSelected);
+                            finalRoles.put(i, newRoleList.get(i-1));
+                            Log.d("roleList", "role: " + i + " is " + newRoleList.get(i-1));
+
+                        }
+
+                    }
+
+                }
+
                 Log.d("2", yourRoleSelected);
+
+                for (Map.Entry<Integer, String> entry : finalRoles.entrySet()) {
+
+                    Log.d("roles","playerNum = " + entry.getKey() + ", PlayerRole = " + entry.getValue());
+
+                }
+
                 NewGame.this.startActivity(intent);
 
             }

@@ -28,6 +28,7 @@ public class GameMain extends Activity {
 
 
     List<String> playerIcons = new ArrayList<String>();
+    int cycleNum = 0;
 
 
     @Override
@@ -49,9 +50,9 @@ public class GameMain extends Activity {
         roleItems.add("Mafia");
         roleItems.add("Villager");
 
-        AlertDialog.Builder yourRoleIs  = new AlertDialog.Builder(this);
+        AlertDialog.Builder yourRoleIs = new AlertDialog.Builder(this);
 
-        if (yourRole.equals("Random")){
+        if (yourRole.equals("Random")) {
 
             Random randomizer = new Random();
             String randomRole = roleItems.get(randomizer.nextInt(roleItems.size()));
@@ -67,8 +68,7 @@ public class GameMain extends Activity {
             yourRoleIs.setCancelable(true);
             yourRoleIs.create().show();
 
-        }
-        else {
+        } else {
 
             yourRoleIs.setMessage("You are a " + yourRole.toUpperCase());
             yourRoleIs.setTitle("Message from the Moderator");
@@ -82,6 +82,86 @@ public class GameMain extends Activity {
             yourRoleIs.setCancelable(true);
             yourRoleIs.create().show();
         }
+        RelativeLayout relativeLayout= new RelativeLayout(this);
+
+
+        addPlayers(numPlayers, relativeLayout);
+
+        // choose cycle for logic
+        cycleNum++; //if it's odd, cycle is night. even, cycle is day.
+        String cycle;
+        ImageView cycleImg = new ImageView(this);
+        cycleImg.bringToFront();
+        RelativeLayout.LayoutParams params = new RelativeLayout.LayoutParams(
+                LayoutParams.WRAP_CONTENT,
+                LayoutParams.WRAP_CONTENT);
+        params.setMargins(0, 0, 0, 0);
+        params.width = 500;
+        params.addRule(RelativeLayout.CENTER_VERTICAL);
+        params.addRule(RelativeLayout.CENTER_HORIZONTAL);
+        cycleImg.setLayoutParams(params);
+
+        String mafiaKill;
+        String detectiveKill;
+        String doctorSave;
+        String villagerKill;
+
+
+        if (cycleNum % 2 == 0) {
+
+            cycle = "Day";
+            cycleImg.setImageResource(R.drawable.sun);
+            relativeLayout.addView(cycleImg);
+            villagerKill = villagerAction(); // two or more people must choose the same person to eliminate.
+
+
+
+        }
+        else {
+
+            cycle = "Night";
+            cycleImg.setImageResource(R.drawable.moon);
+            relativeLayout.addView(cycleImg);
+
+            if (yourRole == "Mafia") mafiaKill = mafiaAction(); // choose a victim. Display all other mafia.
+            else if (yourRole == "Detective") detectiveKill = detectiveAction(); // choose mafia. if mafia, mafia is dead. if not, he knows whos innocent.
+            else if (yourRole == "Doctor") doctorSave = doctorAction(); // choose who to save
+
+        }
+
+    }
+
+    private String villagerAction(){
+
+
+        return "0";
+
+    }
+
+    private String doctorAction(){
+
+
+        return "0";
+
+    }
+
+    private String mafiaAction(){
+
+
+        return "0";
+
+    }
+
+    private String detectiveAction(){
+
+
+        return "0";
+
+    }
+
+
+
+    private void addPlayers(String numPlayers, RelativeLayout relativeLayout){
 
         int players = 0;
 
@@ -106,8 +186,6 @@ public class GameMain extends Activity {
         drawableList.add("player_man_3");
         drawableList.add("player_woman_3");
 
-        RelativeLayout relativeLayout= new RelativeLayout(this);
-
         // table
         RelativeLayout.LayoutParams params = new RelativeLayout.LayoutParams(
                 LayoutParams.WRAP_CONTENT,
@@ -130,6 +208,7 @@ public class GameMain extends Activity {
 
             ImageView imageView1 = new ImageView(this);
             imageView1.setImageResource(R.drawable.player_man_3);
+            //imageView1.setId(1);
             params1.setMargins(0, 20, 0, 0);
             params1.width = 200;
             params1.addRule(RelativeLayout.ALIGN_PARENT_TOP);
@@ -140,6 +219,7 @@ public class GameMain extends Activity {
                     LayoutParams.WRAP_CONTENT,
                     LayoutParams.WRAP_CONTENT);
             ImageView imageView0 = new ImageView(this);
+            //imageView0.setId(0);
             imageView0.setImageResource(R.drawable.player_woman_3);
             params0.setMargins(0, 0, 0, 0);
             params0.width = 300;
@@ -151,6 +231,7 @@ public class GameMain extends Activity {
                     LayoutParams.WRAP_CONTENT,
                     LayoutParams.WRAP_CONTENT);
             ImageView imageView2 = new ImageView(this);
+            //imageView1.setId(2);
             imageView2.setImageResource(R.drawable.player_you);
             params2.setMargins(0, 0, 0, 0);
             params2.width = 200;
@@ -166,6 +247,7 @@ public class GameMain extends Activity {
                     LayoutParams.WRAP_CONTENT,
                     LayoutParams.WRAP_CONTENT);
             ImageView imageView3 = new ImageView(this);
+            //imageView1.setId(3);
             imageView3.setImageResource(R.drawable.player_man_1);
             params3.setMargins(20, 350, 0, 0);
             params3.width = 200;
@@ -177,6 +259,7 @@ public class GameMain extends Activity {
                     LayoutParams.WRAP_CONTENT,
                     LayoutParams.WRAP_CONTENT);
             ImageView imageView4 = new ImageView(this);
+            //imageView1.setId(4);
             imageView4.setImageResource(R.drawable.player_woman_1);
             params4.setMargins(20, 850, 0, 0);
             params4.width = 200;
@@ -190,6 +273,7 @@ public class GameMain extends Activity {
                     LayoutParams.WRAP_CONTENT,
                     LayoutParams.WRAP_CONTENT);
             ImageView imageView5 = new ImageView(this);
+            //imageView1.setId(5);
             imageView5.setImageResource(R.drawable.player_man_2);
             params5.setMargins(850, 350, 0, 0);
             params5.width = 200;
@@ -201,6 +285,7 @@ public class GameMain extends Activity {
                     LayoutParams.WRAP_CONTENT,
                     LayoutParams.WRAP_CONTENT);
             ImageView imageView6 = new ImageView(this);
+            //imageView1.setId(6);
             imageView6.setImageResource(R.drawable.player_woman_2);
             params6.setMargins(850, 850, 0, 0);
             params6.width = 200;
@@ -365,12 +450,12 @@ public class GameMain extends Activity {
             relativeLayout.addView(imageView9);
             relativeLayout.addView(imageView10);
 
-
-
         }
 
         setContentView(relativeLayout);
 
     }
+
+
 
 }
