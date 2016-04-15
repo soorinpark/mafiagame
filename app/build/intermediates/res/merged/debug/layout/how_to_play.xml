@@ -1,6 +1,8 @@
 <ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="@drawable/hand"
+    android:alpha=".7"
     >
 
     <TableLayout
@@ -17,42 +19,50 @@
             android:textSize="20pt"
             android:layout_gravity="center_horizontal"
             android:layout_marginTop="20pt"
-            android:layout_marginLeft="20pt"/>
+            android:layout_marginLeft="25pt"
+            android:textColor="#FF0000"/>
 
             <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="1. Select a moderator. It is best if this person is someone who knows the rules and has played the game before."
             android:id="@+id/textView3"
-            android:layout_marginLeft="20pt"
-            android:layout_marginRight="20pt"
-            android:layout_marginTop="20pt"/>
+            android:layout_marginLeft="40pt"
+            android:layout_marginRight="15pt"
+            android:layout_marginTop="20pt"
+                android:textColor="#FF0000"
+                />
 
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="2. Split up a deck of cards so that there is one card for each person playing (minus 1 for the moderator). The King will always be the detective, and there should be one King. The Queen will always be the Doctor, and there should be one Queen. Choose a suit (such as Clubs) to be the Mafia. There should be 1 mafia member per 3 villagers, rounded down. Put those three types in the deck, along with enough regular cards for everyone else except for the moderator."
                 android:id="@+id/textView4"
-                android:layout_marginLeft="20pt"
-                android:layout_marginRight="20pt"
-                android:layout_marginTop="20pt"/>
+                android:layout_marginLeft="40pt"
+                android:layout_marginRight="15pt"
+                android:layout_marginTop="20pt"
+                android:textColor="#FF0000"
+                />
 
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="3. Shuffle the cards and have each player take one card and look at it without showing it to anyone else. The card that is picked is the character that that person plays. When everyone has taken and looked at their cards, the moderator will begin the game.
 "           android:id="@+id/textView5"
-            android:layout_marginLeft="20pt"
-            android:layout_marginRight="20pt"
-            android:layout_marginTop="20pt"/>
+            android:layout_marginLeft="40pt"
+            android:layout_marginRight="15pt"
+            android:layout_marginTop="20pt"
+            android:textColor="#FF0000"/>
 
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="4. Play the game through day and night rounds (as described below) until either the Mafia have been eliminated, or the number of Mafia and townspeople is equal (in this case, the mafia have complete control over the voting). The game begins with a day cycle, in which the Mafia do not yet know who the other Mafia members are."           android:id="@+id/textView6"
-            android:layout_marginLeft="20pt"
-            android:layout_marginRight="20pt"
-            android:layout_marginTop="20pt"/>
+            android:layout_marginLeft="40pt"
+            android:layout_marginRight="15pt"
+            android:layout_marginTop="20pt"
+            android:layout_marginBottom="20pt"
+            android:textColor="#FF0000"/>
 
 
         <!-- everything you already have -->

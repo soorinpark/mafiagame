@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:orientation="vertical" android:layout_width="match_parent"
-    android:layout_height="match_parent">
+    android:layout_height="match_parent"
+    android:background="@drawable/light_bulb"
+
+    >
 
     <TextView
         android:layout_width="wrap_content"
@@ -10,7 +13,9 @@
         android:id="@+id/aboutTitle"
         android:textSize="15pt"
         android:layout_gravity="center_horizontal"
-        android:layout_marginTop="20pt" />
+        android:layout_marginTop="14pt"
+        android:textStyle="bold"
+        android:textColor="#d8d8d8"/>
 
     <TextView
         android:layout_width="wrap_content"
@@ -19,7 +24,10 @@
         android:id="@+id/aboutText"
         android:textSize="6pt"
         android:layout_gravity="center_horizontal"
-        android:layout_margin="20pt" />
+        android:layout_margin="20pt"
+        android:textColor="#d8d8d8d8"
+
+       />
 
 
 </LinearLayout>
