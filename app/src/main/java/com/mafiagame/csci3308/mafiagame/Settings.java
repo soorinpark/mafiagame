@@ -22,8 +22,6 @@ import com.google.android.gms.common.api.GoogleApiClient;
 
 public class Settings extends Activity {
 
-    public class MainActivity extends Activity {
-
         private TextView music_label;
         private Switch music_switch;
         MediaPlayer mafiaMusic; //declaring vars for the switches and music file
@@ -83,6 +81,3 @@ public class Settings extends Activity {
 //        }
 
     }
-
-
-}
