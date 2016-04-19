@@ -36,8 +36,7 @@
                 android:id="@+id/music_label"
                 android:layout_weight="1"
                 android:layout_marginLeft="20pt"
-                android:layout_marginRight="5pt"
-                ///android:layout_marginTop="3pt"/>
+                android:layout_marginRight="5pt"/>
 
             <Switch
                 android:layout_height="wrap_content"

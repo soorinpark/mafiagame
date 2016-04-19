@@ -110,7 +110,7 @@ public class GameMain extends Activity {
         if (cycleNum % 2 == 0) {
 
             cycle = "Day";
-            cycleImg.setImageResource(R.drawable.sun);
+            cycleImg.setImageResource(R.drawable.moon);
             relativeLayout.addView(cycleImg);
             villagerKill = villagerAction(); // two or more people must choose the same person to eliminate.
 
@@ -120,7 +120,7 @@ public class GameMain extends Activity {
         else {
 
             cycle = "Night";
-            cycleImg.setImageResource(R.drawable.moon);
+            cycleImg.setImageResource(R.drawable.sun);
             relativeLayout.addView(cycleImg);
 
             if (yourRole == "Mafia") mafiaKill = mafiaAction(); // choose a victim. Display all other mafia.

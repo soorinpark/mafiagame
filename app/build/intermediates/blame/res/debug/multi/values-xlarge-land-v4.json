@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\res\\merged\\debug\\values-xlarge-land-v4\\values-xlarge-land-v4.xml",
+        "outputFile": "/Users/soorinpark/AndroidStudioProjects/mafiagame/C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\res\\merged\\debug\\values-xlarge-land-v4\\values-xlarge-land-v4.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,31 @@
                     "endOffset": 114
                 },
                 "from": {
-                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-xlarge-land\\values.xml",
+                    "file": "/Users/soorinpark/AndroidStudioProjects/mafiagame/C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-xlarge-land\\values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 63,
+                        "endOffset": 115
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/Users/soorinpark/AndroidStudioProjects/mafiagame/app/build/intermediates/res/merged/debug/values-xlarge-land-v4/values-xlarge-land-v4.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 63,
+                    "endOffset": 114
+                },
+                "from": {
+                    "file": "/Users/soorinpark/AndroidStudioProjects/mafiagame/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-xlarge-land/values.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,

@@ -1,158 +1,314 @@
 [
     {
-        "merged": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\suit_silohouette.png",
-        "source": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\src\\main\\res\\drawable\\suit_silohouette.png"
+        "merged": "/Users/soorinpark/AndroidStudioProjects/mafiagame/C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\player_man_2.png",
+        "source": "/Users/soorinpark/AndroidStudioProjects/mafiagame/C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\src\\main\\res\\drawable\\player_man_2.png"
     },
     {
-        "merged": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\player_man_2.png",
-        "source": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\src\\main\\res\\drawable\\player_man_2.png"
+        "merged": "/Users/soorinpark/AndroidStudioProjects/mafiagame/C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\suit_silohouette.png",
+        "source": "/Users/soorinpark/AndroidStudioProjects/mafiagame/C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\src\\main\\res\\drawable\\suit_silohouette.png"
     },
     {
-        "merged": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\moon.png",
-        "source": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\src\\main\\res\\drawable\\moon.png"
+        "merged": "/Users/soorinpark/AndroidStudioProjects/mafiagame/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_top_material.xml",
+        "source": "/Users/soorinpark/AndroidStudioProjects/mafiagame/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable/abc_cab_background_top_material.xml"
     },
     {
-        "merged": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\player_woman_1.png",
-        "source": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\src\\main\\res\\drawable\\player_woman_1.png"
+        "merged": "/Users/soorinpark/AndroidStudioProjects/mafiagame/app/build/intermediates/res/merged/debug/drawable/mafia_img.png",
+        "source": "/Users/soorinpark/AndroidStudioProjects/mafiagame/app/src/main/res/drawable/mafia_img.png"
     },
     {
-        "merged": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
-        "source": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable\\abc_list_selector_holo_light.xml"
+        "merged": "/Users/soorinpark/AndroidStudioProjects/mafiagame/C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "/Users/soorinpark/AndroidStudioProjects/mafiagame/C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable\\abc_list_selector_holo_light.xml"
     },
     {
-        "merged": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\man_silohouette3.png",
-        "source": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\src\\main\\res\\drawable\\man_silohouette3.png"
+        "merged": "/Users/soorinpark/AndroidStudioProjects/mafiagame/C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\man_silohouette3.png",
+        "source": "/Users/soorinpark/AndroidStudioProjects/mafiagame/C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\src\\main\\res\\drawable\\man_silohouette3.png"
     },
     {
-        "merged": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sun.png",
-        "source": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\src\\main\\res\\drawable\\sun.png"
+        "merged": "/Users/soorinpark/AndroidStudioProjects/mafiagame/C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\woman_silohouette3.png",
+        "source": "/Users/soorinpark/AndroidStudioProjects/mafiagame/C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\src\\main\\res\\drawable\\woman_silohouette3.png"
     },
     {
-        "merged": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\woman_silohouette3.png",
-        "source": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\src\\main\\res\\drawable\\woman_silohouette3.png"
+        "merged": "/Users/soorinpark/AndroidStudioProjects/mafiagame/C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\man_silohouette.png",
+        "source": "/Users/soorinpark/AndroidStudioProjects/mafiagame/C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\src\\main\\res\\drawable\\man_silohouette.png"
     },
     {
-        "merged": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\man_silohouette.png",
-        "source": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\src\\main\\res\\drawable\\man_silohouette.png"
+        "merged": "/Users/soorinpark/AndroidStudioProjects/mafiagame/C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "/Users/soorinpark/AndroidStudioProjects/mafiagame/C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable\\abc_cab_background_top_material.xml"
     },
     {
-        "merged": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
-        "source": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable\\abc_cab_background_top_material.xml"
+        "merged": "/Users/soorinpark/AndroidStudioProjects/mafiagame/app/build/intermediates/res/merged/debug/drawable/player_woman_3.png",
+        "source": "/Users/soorinpark/AndroidStudioProjects/mafiagame/app/src/main/res/drawable/player_woman_3.png"
     },
     {
-        "merged": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\help_helpicon.png",
-        "source": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\src\\main\\res\\drawable\\help_helpicon.png"
+        "merged": "/Users/soorinpark/AndroidStudioProjects/mafiagame/app/build/intermediates/res/merged/debug/drawable/abc_btn_check_material.xml",
+        "source": "/Users/soorinpark/AndroidStudioProjects/mafiagame/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable/abc_btn_check_material.xml"
     },
     {
-        "merged": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\man_silohouette2.png",
-        "source": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\src\\main\\res\\drawable\\man_silohouette2.png"
+        "merged": "/Users/soorinpark/AndroidStudioProjects/mafiagame/app/build/intermediates/res/merged/debug/drawable/you_image.png",
+        "source": "/Users/soorinpark/AndroidStudioProjects/mafiagame/app/src/main/res/drawable/you_image.png"
     },
     {
-        "merged": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
-        "source": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable\\abc_btn_radio_material.xml"
+        "merged": "/Users/soorinpark/AndroidStudioProjects/mafiagame/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml",
+        "source": "/Users/soorinpark/AndroidStudioProjects/mafiagame/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable/abc_item_background_holo_dark.xml"
     },
     {
-        "merged": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
-        "source": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+        "merged": "/Users/soorinpark/AndroidStudioProjects/mafiagame/C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "/Users/soorinpark/AndroidStudioProjects/mafiagame/C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable\\abc_btn_radio_material.xml"
     },
     {
-        "merged": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\player_doctor.png",
-        "source": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\src\\main\\res\\drawable\\player_doctor.png"
+        "merged": "/Users/soorinpark/AndroidStudioProjects/mafiagame/C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\man_silohouette2.png",
+        "source": "/Users/soorinpark/AndroidStudioProjects/mafiagame/C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\src\\main\\res\\drawable\\man_silohouette2.png"
     },
     {
-        "merged": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mafia_background.jpg",
-        "source": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\src\\main\\res\\drawable\\mafia_background.jpg"
+        "merged": "/Users/soorinpark/AndroidStudioProjects/mafiagame/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
+        "source": "/Users/soorinpark/AndroidStudioProjects/mafiagame/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable/abc_list_selector_background_transition_holo_light.xml"
     },
     {
-        "merged": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
-        "source": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable\\abc_switch_thumb_material.xml"
+        "merged": "/Users/soorinpark/AndroidStudioProjects/mafiagame/C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/Users/soorinpark/AndroidStudioProjects/mafiagame/C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
     },
     {
-        "merged": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
-        "source": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable\\abc_item_background_holo_dark.xml"
+        "merged": "/Users/soorinpark/AndroidStudioProjects/mafiagame/app/build/intermediates/res/merged/debug/drawable/player_woman_2.png",
+        "source": "/Users/soorinpark/AndroidStudioProjects/mafiagame/app/src/main/res/drawable/player_woman_2.png"
     },
     {
-        "merged": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
-        "source": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable\\abc_btn_check_material.xml"
+        "merged": "/Users/soorinpark/AndroidStudioProjects/mafiagame/app/build/intermediates/res/merged/debug/drawable/player_doctor.png",
+        "source": "/Users/soorinpark/AndroidStudioProjects/mafiagame/app/src/main/res/drawable/player_doctor.png"
     },
     {
-        "merged": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\player_detective.png",
-        "source": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\src\\main\\res\\drawable\\player_detective.png"
+        "merged": "/Users/soorinpark/AndroidStudioProjects/mafiagame/app/build/intermediates/res/merged/debug/drawable/player_you.png",
+        "source": "/Users/soorinpark/AndroidStudioProjects/mafiagame/app/src/main/res/drawable/player_you.png"
     },
     {
-        "merged": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\morty.png",
-        "source": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\src\\main\\res\\drawable\\morty.png"
+        "merged": "/Users/soorinpark/AndroidStudioProjects/mafiagame/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_light.xml",
+        "source": "/Users/soorinpark/AndroidStudioProjects/mafiagame/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable/abc_list_selector_holo_light.xml"
     },
     {
-        "merged": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\oval_from_above.png",
-        "source": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\src\\main\\res\\drawable\\oval_from_above.png"
+        "merged": "/Users/soorinpark/AndroidStudioProjects/mafiagame/app/build/intermediates/res/merged/debug/drawable/moon.png",
+        "source": "/Users/soorinpark/AndroidStudioProjects/mafiagame/app/src/main/res/drawable/moon.png"
     },
     {
-        "merged": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
-        "source": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable\\abc_list_selector_holo_dark.xml"
+        "merged": "/Users/soorinpark/AndroidStudioProjects/mafiagame/C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\player_detective.png",
+        "source": "/Users/soorinpark/AndroidStudioProjects/mafiagame/C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\src\\main\\res\\drawable\\player_detective.png"
     },
     {
-        "merged": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\player_woman_2.png",
-        "source": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\src\\main\\res\\drawable\\player_woman_2.png"
+        "merged": "/Users/soorinpark/AndroidStudioProjects/mafiagame/app/build/intermediates/res/merged/debug/drawable/suit_silohouette.png",
+        "source": "/Users/soorinpark/AndroidStudioProjects/mafiagame/app/src/main/res/drawable/suit_silohouette.png"
     },
     {
-        "merged": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\you_image.png",
-        "source": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\src\\main\\res\\drawable\\you_image.png"
+        "merged": "/Users/soorinpark/AndroidStudioProjects/mafiagame/app/build/intermediates/res/merged/debug/drawable/abc_textfield_search_material.xml",
+        "source": "/Users/soorinpark/AndroidStudioProjects/mafiagame/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable/abc_textfield_search_material.xml"
     },
     {
-        "merged": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
-        "source": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable\\abc_item_background_holo_light.xml"
+        "merged": "/Users/soorinpark/AndroidStudioProjects/mafiagame/C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\player_woman_2.png",
+        "source": "/Users/soorinpark/AndroidStudioProjects/mafiagame/C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\src\\main\\res\\drawable\\player_woman_2.png"
     },
     {
-        "merged": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\player_you.png",
-        "source": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\src\\main\\res\\drawable\\player_you.png"
+        "merged": "/Users/soorinpark/AndroidStudioProjects/mafiagame/C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "/Users/soorinpark/AndroidStudioProjects/mafiagame/C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable\\abc_item_background_holo_light.xml"
     },
     {
-        "merged": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\player_man_1.png",
-        "source": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\src\\main\\res\\drawable\\player_man_1.png"
+        "merged": "/Users/soorinpark/AndroidStudioProjects/mafiagame/app/build/intermediates/res/merged/debug/drawable/magnifying_glass.png",
+        "source": "/Users/soorinpark/AndroidStudioProjects/mafiagame/app/src/main/res/drawable/magnifying_glass.png"
     },
     {
-        "merged": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
-        "source": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable\\abc_cab_background_internal_bg.xml"
+        "merged": "/Users/soorinpark/AndroidStudioProjects/mafiagame/C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\player_you.png",
+        "source": "/Users/soorinpark/AndroidStudioProjects/mafiagame/C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\src\\main\\res\\drawable\\player_you.png"
     },
     {
-        "merged": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\player_woman_3.png",
-        "source": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\src\\main\\res\\drawable\\player_woman_3.png"
+        "merged": "/Users/soorinpark/AndroidStudioProjects/mafiagame/C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\player_man_1.png",
+        "source": "/Users/soorinpark/AndroidStudioProjects/mafiagame/C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\src\\main\\res\\drawable\\player_man_1.png"
     },
     {
-        "merged": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\woman_silohouette.png",
-        "source": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\src\\main\\res\\drawable\\woman_silohouette.png"
+        "merged": "/Users/soorinpark/AndroidStudioProjects/mafiagame/app/build/intermediates/res/merged/debug/drawable/oval_from_above.png",
+        "source": "/Users/soorinpark/AndroidStudioProjects/mafiagame/app/src/main/res/drawable/oval_from_above.png"
     },
     {
-        "merged": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\player_man_3.png",
-        "source": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\src\\main\\res\\drawable\\player_man_3.png"
+        "merged": "/Users/soorinpark/AndroidStudioProjects/mafiagame/app/build/intermediates/res/merged/debug/drawable/player_woman_1.png",
+        "source": "/Users/soorinpark/AndroidStudioProjects/mafiagame/app/src/main/res/drawable/player_woman_1.png"
     },
     {
-        "merged": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
-        "source": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+        "merged": "/Users/soorinpark/AndroidStudioProjects/mafiagame/app/build/intermediates/res/merged/debug/drawable/man_silohouette2.png",
+        "source": "/Users/soorinpark/AndroidStudioProjects/mafiagame/app/src/main/res/drawable/man_silohouette2.png"
     },
     {
-        "merged": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
-        "source": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable\\abc_tab_indicator_material.xml"
+        "merged": "/Users/soorinpark/AndroidStudioProjects/mafiagame/app/build/intermediates/res/merged/debug/drawable/woman_silohouette3.png",
+        "source": "/Users/soorinpark/AndroidStudioProjects/mafiagame/app/src/main/res/drawable/woman_silohouette3.png"
     },
     {
-        "merged": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
-        "source": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable\\abc_textfield_search_material.xml"
+        "merged": "/Users/soorinpark/AndroidStudioProjects/mafiagame/app/build/intermediates/res/merged/debug/drawable/mafia_background.jpg",
+        "source": "/Users/soorinpark/AndroidStudioProjects/mafiagame/app/src/main/res/drawable/mafia_background.jpg"
     },
     {
-        "merged": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mafia_img.png",
-        "source": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\src\\main\\res\\drawable\\mafia_img.png"
+        "merged": "/Users/soorinpark/AndroidStudioProjects/mafiagame/app/build/intermediates/res/merged/debug/drawable/abc_btn_radio_material.xml",
+        "source": "/Users/soorinpark/AndroidStudioProjects/mafiagame/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable/abc_btn_radio_material.xml"
     },
     {
-        "merged": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\magnifying_glass.png",
-        "source": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\src\\main\\res\\drawable\\magnifying_glass.png"
+        "merged": "/Users/soorinpark/AndroidStudioProjects/mafiagame/C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "/Users/soorinpark/AndroidStudioProjects/mafiagame/C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable\\abc_textfield_search_material.xml"
     },
     {
-        "merged": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
-        "source": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable\\abc_edit_text_material.xml"
+        "merged": "/Users/soorinpark/AndroidStudioProjects/mafiagame/C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\woman_silohouette2.png",
+        "source": "/Users/soorinpark/AndroidStudioProjects/mafiagame/C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\src\\main\\res\\drawable\\woman_silohouette2.png"
     },
     {
-        "merged": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\woman_silohouette2.png",
-        "source": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\src\\main\\res\\drawable\\woman_silohouette2.png"
+        "merged": "/Users/soorinpark/AndroidStudioProjects/mafiagame/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_internal_bg.xml",
+        "source": "/Users/soorinpark/AndroidStudioProjects/mafiagame/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable/abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "/Users/soorinpark/AndroidStudioProjects/mafiagame/app/build/intermediates/res/merged/debug/drawable/woman_silohouette.png",
+        "source": "/Users/soorinpark/AndroidStudioProjects/mafiagame/app/src/main/res/drawable/woman_silohouette.png"
+    },
+    {
+        "merged": "/Users/soorinpark/AndroidStudioProjects/mafiagame/C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\moon.png",
+        "source": "/Users/soorinpark/AndroidStudioProjects/mafiagame/C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\src\\main\\res\\drawable\\moon.png"
+    },
+    {
+        "merged": "/Users/soorinpark/AndroidStudioProjects/mafiagame/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_light.xml",
+        "source": "/Users/soorinpark/AndroidStudioProjects/mafiagame/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable/abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "/Users/soorinpark/AndroidStudioProjects/mafiagame/C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\player_woman_1.png",
+        "source": "/Users/soorinpark/AndroidStudioProjects/mafiagame/C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\src\\main\\res\\drawable\\player_woman_1.png"
+    },
+    {
+        "merged": "/Users/soorinpark/AndroidStudioProjects/mafiagame/C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sun.png",
+        "source": "/Users/soorinpark/AndroidStudioProjects/mafiagame/C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\src\\main\\res\\drawable\\sun.png"
+    },
+    {
+        "merged": "/Users/soorinpark/AndroidStudioProjects/mafiagame/app/build/intermediates/res/merged/debug/drawable/player_man_2.png",
+        "source": "/Users/soorinpark/AndroidStudioProjects/mafiagame/app/src/main/res/drawable/player_man_2.png"
+    },
+    {
+        "merged": "/Users/soorinpark/AndroidStudioProjects/mafiagame/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_dark.xml",
+        "source": "/Users/soorinpark/AndroidStudioProjects/mafiagame/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable/abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/soorinpark/AndroidStudioProjects/mafiagame/app/build/intermediates/res/merged/debug/drawable/woman_silohouette2.png",
+        "source": "/Users/soorinpark/AndroidStudioProjects/mafiagame/app/src/main/res/drawable/woman_silohouette2.png"
+    },
+    {
+        "merged": "/Users/soorinpark/AndroidStudioProjects/mafiagame/C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\help_helpicon.png",
+        "source": "/Users/soorinpark/AndroidStudioProjects/mafiagame/C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\src\\main\\res\\drawable\\help_helpicon.png"
+    },
+    {
+        "merged": "/Users/soorinpark/AndroidStudioProjects/mafiagame/app/build/intermediates/res/merged/debug/drawable/player_man_3.png",
+        "source": "/Users/soorinpark/AndroidStudioProjects/mafiagame/app/src/main/res/drawable/player_man_3.png"
+    },
+    {
+        "merged": "/Users/soorinpark/AndroidStudioProjects/mafiagame/app/build/intermediates/res/merged/debug/drawable/abc_edit_text_material.xml",
+        "source": "/Users/soorinpark/AndroidStudioProjects/mafiagame/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/soorinpark/AndroidStudioProjects/mafiagame/app/build/intermediates/res/merged/debug/drawable/morty.png",
+        "source": "/Users/soorinpark/AndroidStudioProjects/mafiagame/app/src/main/res/drawable/morty.png"
+    },
+    {
+        "merged": "/Users/soorinpark/AndroidStudioProjects/mafiagame/app/build/intermediates/res/merged/debug/drawable/man_silohouette.png",
+        "source": "/Users/soorinpark/AndroidStudioProjects/mafiagame/app/src/main/res/drawable/man_silohouette.png"
+    },
+    {
+        "merged": "/Users/soorinpark/AndroidStudioProjects/mafiagame/app/build/intermediates/res/merged/debug/drawable/abc_switch_thumb_material.xml",
+        "source": "/Users/soorinpark/AndroidStudioProjects/mafiagame/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable/abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "/Users/soorinpark/AndroidStudioProjects/mafiagame/C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\player_doctor.png",
+        "source": "/Users/soorinpark/AndroidStudioProjects/mafiagame/C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\src\\main\\res\\drawable\\player_doctor.png"
+    },
+    {
+        "merged": "/Users/soorinpark/AndroidStudioProjects/mafiagame/C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mafia_background.jpg",
+        "source": "/Users/soorinpark/AndroidStudioProjects/mafiagame/C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\src\\main\\res\\drawable\\mafia_background.jpg"
+    },
+    {
+        "merged": "/Users/soorinpark/AndroidStudioProjects/mafiagame/C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "/Users/soorinpark/AndroidStudioProjects/mafiagame/C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "/Users/soorinpark/AndroidStudioProjects/mafiagame/C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "/Users/soorinpark/AndroidStudioProjects/mafiagame/C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/soorinpark/AndroidStudioProjects/mafiagame/C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "/Users/soorinpark/AndroidStudioProjects/mafiagame/C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "/Users/soorinpark/AndroidStudioProjects/mafiagame/C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\morty.png",
+        "source": "/Users/soorinpark/AndroidStudioProjects/mafiagame/C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\src\\main\\res\\drawable\\morty.png"
+    },
+    {
+        "merged": "/Users/soorinpark/AndroidStudioProjects/mafiagame/C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\oval_from_above.png",
+        "source": "/Users/soorinpark/AndroidStudioProjects/mafiagame/C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\src\\main\\res\\drawable\\oval_from_above.png"
+    },
+    {
+        "merged": "/Users/soorinpark/AndroidStudioProjects/mafiagame/app/build/intermediates/res/merged/debug/drawable/man_silohouette3.png",
+        "source": "/Users/soorinpark/AndroidStudioProjects/mafiagame/app/src/main/res/drawable/man_silohouette3.png"
+    },
+    {
+        "merged": "/Users/soorinpark/AndroidStudioProjects/mafiagame/C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "/Users/soorinpark/AndroidStudioProjects/mafiagame/C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/soorinpark/AndroidStudioProjects/mafiagame/app/build/intermediates/res/merged/debug/drawable/player_man_1.png",
+        "source": "/Users/soorinpark/AndroidStudioProjects/mafiagame/app/src/main/res/drawable/player_man_1.png"
+    },
+    {
+        "merged": "/Users/soorinpark/AndroidStudioProjects/mafiagame/C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\you_image.png",
+        "source": "/Users/soorinpark/AndroidStudioProjects/mafiagame/C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\src\\main\\res\\drawable\\you_image.png"
+    },
+    {
+        "merged": "/Users/soorinpark/AndroidStudioProjects/mafiagame/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/Users/soorinpark/AndroidStudioProjects/mafiagame/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/soorinpark/AndroidStudioProjects/mafiagame/C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "/Users/soorinpark/AndroidStudioProjects/mafiagame/C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "/Users/soorinpark/AndroidStudioProjects/mafiagame/C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\player_woman_3.png",
+        "source": "/Users/soorinpark/AndroidStudioProjects/mafiagame/C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\src\\main\\res\\drawable\\player_woman_3.png"
+    },
+    {
+        "merged": "/Users/soorinpark/AndroidStudioProjects/mafiagame/app/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_material.xml",
+        "source": "/Users/soorinpark/AndroidStudioProjects/mafiagame/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable/abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "/Users/soorinpark/AndroidStudioProjects/mafiagame/app/build/intermediates/res/merged/debug/drawable/sun.png",
+        "source": "/Users/soorinpark/AndroidStudioProjects/mafiagame/app/src/main/res/drawable/sun.png"
+    },
+    {
+        "merged": "/Users/soorinpark/AndroidStudioProjects/mafiagame/C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\woman_silohouette.png",
+        "source": "/Users/soorinpark/AndroidStudioProjects/mafiagame/C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\src\\main\\res\\drawable\\woman_silohouette.png"
+    },
+    {
+        "merged": "/Users/soorinpark/AndroidStudioProjects/mafiagame/C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\player_man_3.png",
+        "source": "/Users/soorinpark/AndroidStudioProjects/mafiagame/C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\src\\main\\res\\drawable\\player_man_3.png"
+    },
+    {
+        "merged": "/Users/soorinpark/AndroidStudioProjects/mafiagame/app/build/intermediates/res/merged/debug/drawable/player_detective.png",
+        "source": "/Users/soorinpark/AndroidStudioProjects/mafiagame/app/src/main/res/drawable/player_detective.png"
+    },
+    {
+        "merged": "/Users/soorinpark/AndroidStudioProjects/mafiagame/app/build/intermediates/res/merged/debug/drawable/help_helpicon.png",
+        "source": "/Users/soorinpark/AndroidStudioProjects/mafiagame/app/src/main/res/drawable/help_helpicon.png"
+    },
+    {
+        "merged": "/Users/soorinpark/AndroidStudioProjects/mafiagame/C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "/Users/soorinpark/AndroidStudioProjects/mafiagame/C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/Users/soorinpark/AndroidStudioProjects/mafiagame/C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "/Users/soorinpark/AndroidStudioProjects/mafiagame/C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "/Users/soorinpark/AndroidStudioProjects/mafiagame/C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mafia_img.png",
+        "source": "/Users/soorinpark/AndroidStudioProjects/mafiagame/C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\src\\main\\res\\drawable\\mafia_img.png"
+    },
+    {
+        "merged": "/Users/soorinpark/AndroidStudioProjects/mafiagame/C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "/Users/soorinpark/AndroidStudioProjects/mafiagame/C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/soorinpark/AndroidStudioProjects/mafiagame/C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\magnifying_glass.png",
+        "source": "/Users/soorinpark/AndroidStudioProjects/mafiagame/C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\src\\main\\res\\drawable\\magnifying_glass.png"
     }
 ]

@@ -1,20 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:orientation="vertical" android:layout_width="match_parent"
-    android:layout_height="match_parent">
+    android:layout_height="match_parent"
+    android:background="#5e5e5e">
+
+    >
 
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Settings"
+        android:text="App Settings"
         android:id="@+id/settingsTitle"
-        android:textSize="20pt"
-        android:layout_gravity="center_horizontal"
-        android:layout_marginTop="20pt" />
+        android:textSize="15pt"
+        android:layout_marginTop="20pt"
+        android:layout_marginLeft="10pt" />
 
     <TableLayout
         android:layout_width="match_parent"
-        android:layout_height="match_parent"
+        android:layout_height="150dp"
         android:rowCount="3"
         android:columnCount="2">
 
@@ -23,7 +26,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_gravity="center_horizontal"
-            android:layout_marginTop="30pt">
+            android:layout_marginTop="5pt">
 
             <TextView
                 android:layout_width="wrap_content"
@@ -33,15 +36,16 @@
                 android:id="@+id/music_label"
                 android:layout_weight="1"
                 android:layout_marginLeft="20pt"
-                android:layout_marginRight="5pt"
-                android:layout_marginTop="3pt"/>
+                android:layout_marginRight="5pt"/>
 
             <Switch
                 android:layout_height="wrap_content"
                 android:id="@+id/music_switch"
                 android:layout_weight="1"
                 android:layout_marginRight="20pt"
-                android:layout_marginLeft="5pt"/>
+                android:layout_marginLeft="5pt"
+                android:layout_column="1"
+                android:layout_span="5" />
 
 
         </TableRow>
@@ -51,14 +55,14 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_gravity="center_horizontal"
-            android:layout_marginTop="30pt">
+            android:layout_marginTop="10pt">
 
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="Notifications"
+                android:text="Notification Sounds"
                 android:textSize="8pt"
-                android:id="@+id/notify_label"
+                android:id="@+id/notify_sounds"
                 android:layout_weight="1"
                 android:layout_marginLeft="20pt"
                 android:layout_marginRight="5pt"
