@@ -6,5 +6,9 @@
     {
         "merged": "/home/cowens/Documents/game/mafiagame/C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_launcher.png",
         "source": "/home/cowens/Documents/game/mafiagame/C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "/Users/soorinpark/AndroidStudioProjects/mafiagame/app/build/intermediates/res/merged/debug/mipmap-xhdpi-v4/ic_launcher.png",
+        "source": "/Users/soorinpark/AndroidStudioProjects/mafiagame/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
     }
 ]

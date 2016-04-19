@@ -1,5 +1,9 @@
 [
     {
+        "merged": "/Users/soorinpark/AndroidStudioProjects/mafiagame/app/build/intermediates/res/merged/debug/raw/music.mp3",
+        "source": "/Users/soorinpark/AndroidStudioProjects/mafiagame/app/src/main/res/raw/music.mp3"
+    },
+    {
         "merged": "/home/cowens/Documents/game/mafiagame/app/build/intermediates/res/merged/debug/raw/music.mp3",
         "source": "/home/cowens/Documents/game/mafiagame/app/src/main/res/raw/music.mp3"
     }

@@ -18,13 +18,13 @@
         android:textColor="#d8d8d8"/>
 
     <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        android:layout_width="300dp"
+        android:layout_height="250dp"
         android:text="Mafia (Russian: Ма́фия [ˈmaːfja]), also known as Werewolf, is a party game created in the USSR by Dmitry Davidoff in 1986[2] modelling a conflict between an informed minority, the mafia, and an uninformed majority, the innocents. At the start of the game, each player is secretly assigned a role affiliated with one of these teams. The game has two alternating phases: night, during which the mafia may covertly 'murder' an innocent, and day, in which surviving players debate the identities of the mafiosi and vote to eliminate a suspect. Play continues until all of the mafia have been eliminated or until the mafia outnumbers the innocents."
         android:id="@+id/aboutText"
         android:textSize="6pt"
         android:layout_gravity="center_horizontal"
-        android:layout_margin="20pt"
+        android:layout_margin="70pt"
         android:textColor="#d8d8d8d8"
 
        />
