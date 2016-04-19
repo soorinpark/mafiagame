@@ -8,6 +8,10 @@
         "source": "/home/cowens/Documents/game/mafiagame/C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\src\\main\\res\\drawable\\mafia_background.jpg"
     },
     {
+        "merged": "/Users/soorinpark/AndroidStudioProjects/mafiagame/app/build/intermediates/res/merged/debug/drawable/exit.png",
+        "source": "/Users/soorinpark/AndroidStudioProjects/mafiagame/app/src/main/res/drawable/exit.png"
+    },
+    {
         "merged": "/Users/soorinpark/AndroidStudioProjects/mafiagame/app/build/intermediates/res/merged/debug/drawable/mafia_img.png",
         "source": "/Users/soorinpark/AndroidStudioProjects/mafiagame/app/src/main/res/drawable/mafia_img.png"
     },
@@ -36,12 +40,12 @@
         "source": "/home/cowens/Documents/game/mafiagame/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable/abc_tab_indicator_material.xml"
     },
     {
-        "merged": "/home/cowens/Documents/game/mafiagame/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
-        "source": "/home/cowens/Documents/game/mafiagame/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable/abc_list_selector_background_transition_holo_light.xml"
-    },
-    {
         "merged": "/home/cowens/Documents/game/mafiagame/app/build/intermediates/res/merged/debug/drawable/mafia_background.jpg",
         "source": "/home/cowens/Documents/game/mafiagame/app/src/main/res/drawable/mafia_background.jpg"
+    },
+    {
+        "merged": "/home/cowens/Documents/game/mafiagame/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
+        "source": "/home/cowens/Documents/game/mafiagame/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable/abc_list_selector_background_transition_holo_light.xml"
     },
     {
         "merged": "/home/cowens/Documents/game/mafiagame/app/build/intermediates/res/merged/debug/drawable/woman_silohouette3.png",

@@ -68,6 +68,10 @@
         "source": "/Users/soorinpark/AndroidStudioProjects/mafiagame/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_action_menu_layout.xml"
     },
     {
+        "merged": "/Users/soorinpark/AndroidStudioProjects/mafiagame/app/build/intermediates/res/merged/debug/layout/how_to_play_in_game.xml",
+        "source": "/Users/soorinpark/AndroidStudioProjects/mafiagame/app/src/main/res/layout/how_to_play_in_game.xml"
+    },
+    {
         "merged": "/Users/soorinpark/AndroidStudioProjects/mafiagame/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
         "source": "/Users/soorinpark/AndroidStudioProjects/mafiagame/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_list_menu_item_icon.xml"
     },

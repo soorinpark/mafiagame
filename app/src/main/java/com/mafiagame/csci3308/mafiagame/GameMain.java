@@ -6,11 +6,16 @@ package com.mafiagame.csci3308.mafiagame;
 
 import android.app.ActionBar;
 import android.app.Activity;
+import android.media.Image;
 import android.os.Bundle;
 import android.util.Log;
 import android.app.AlertDialog;
 import android.content.DialogInterface;
 import java.util.*;
+
+import android.view.LayoutInflater;
+import android.widget.Button;
+import android.widget.PopupWindow;
 import android.widget.RelativeLayout;
 import android.widget.ImageView;
 import java.lang.reflect.Field;
@@ -31,11 +36,15 @@ public class GameMain extends Activity {
     int cycleNum = 0;
 
 
+
+
     @Override
     public void onCreate(Bundle savedInstanceState) {
 
         super.onCreate(savedInstanceState);
         setContentView(R.layout.game_main);
+
+
 
         //role setup
         Bundle b = this.getIntent().getExtras();
@@ -82,7 +91,56 @@ public class GameMain extends Activity {
             yourRoleIs.setCancelable(true);
             yourRoleIs.create().show();
         }
+
         RelativeLayout relativeLayout= new RelativeLayout(this);
+
+        //final Button helpButton = new Button(this);
+        final ImageView helpButton = new ImageView(this);
+        helpButton.setImageResource(R.drawable.help_helpicon);
+        RelativeLayout.LayoutParams helpParam = new RelativeLayout.LayoutParams(
+                LayoutParams.WRAP_CONTENT,
+                LayoutParams.WRAP_CONTENT);
+        helpParam.setMargins(930, -100, 0, 0);
+        helpParam.width = 100;
+        helpButton.setLayoutParams(helpParam);
+        relativeLayout.addView(helpButton);
+
+        final ImageView exitButton = new ImageView(this);
+
+
+        helpButton.setOnClickListener(new Button.OnClickListener() {
+
+            @Override
+            public void onClick(View arg0) {
+                LayoutInflater layoutInflater
+                        = (LayoutInflater) getBaseContext()
+                        .getSystemService(LAYOUT_INFLATER_SERVICE);
+                View popupView = layoutInflater.inflate(R.layout.how_to_play_in_game, null);
+                final PopupWindow popupWindow = new PopupWindow(
+                        popupView,
+                        LayoutParams.WRAP_CONTENT,
+                        LayoutParams.WRAP_CONTENT);
+
+                helpButton.setImageResource(R.drawable.help_helpicon);
+
+                ImageView btnDismiss = (ImageView) popupView.findViewById(R.id.exitButton);
+                btnDismiss.setOnClickListener(new Button.OnClickListener() {
+
+                    @Override
+                    public void onClick(View v) {
+                        // TODO Auto-generated method stub
+                        popupWindow.dismiss();
+                    }
+                });
+
+                popupWindow.showAsDropDown(helpButton, 50, -30);
+
+            }
+        });
+
+
+
+
 
 
         addPlayers(numPlayers, relativeLayout);
@@ -110,7 +168,7 @@ public class GameMain extends Activity {
         if (cycleNum % 2 == 0) {
 
             cycle = "Day";
-            cycleImg.setImageResource(R.drawable.sun);
+            cycleImg.setImageResource(R.drawable.moon);
             relativeLayout.addView(cycleImg);
             villagerKill = villagerAction(); // two or more people must choose the same person to eliminate.
 
@@ -120,7 +178,7 @@ public class GameMain extends Activity {
         else {
 
             cycle = "Night";
-            cycleImg.setImageResource(R.drawable.moon);
+            cycleImg.setImageResource(R.drawable.sun);
             relativeLayout.addView(cycleImg);
 
             if (yourRole == "Mafia") mafiaKill = mafiaAction(); // choose a victim. Display all other mafia.
@@ -179,6 +237,7 @@ public class GameMain extends Activity {
         playerIcon.add("Mafia");
         playerIcon.add("Villager");
 
+        /* Don't need this anymore but just in case.
         ArrayList<String> drawableList = new ArrayList<>();
         drawableList.add("player_detective"); //0
         drawableList.add("player_doctor"); //1
@@ -188,6 +247,7 @@ public class GameMain extends Activity {
         drawableList.add("player_woman_2");
         drawableList.add("player_man_3");
         drawableList.add("player_woman_3");
+        */
 
         // table
         RelativeLayout.LayoutParams params = new RelativeLayout.LayoutParams(
@@ -270,6 +330,9 @@ public class GameMain extends Activity {
             params4.addRule(RelativeLayout.ALIGN_PARENT_TOP);
             //params4.addRule(RelativeLayout.CENTER_HORIZONTAL);
             imageView4.setLayoutParams(params4);
+
+
+
 
 
             //right side icons top to bottom

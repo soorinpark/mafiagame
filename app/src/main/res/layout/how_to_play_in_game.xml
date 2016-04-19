@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical"
+    android:background="@android:color/background_light">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_margin="1dp"
+        android:background="@android:color/darker_gray">
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_margin="20dp">
+
+            <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="How to Play Mafia Game"
+                android:layout_centerHorizontal="true"/>
+
+            <ImageView
+                android:src="@drawable/exit"
+                android:id="@+id/exitButton"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:layout_alignParentRight="true"/>
+
+            <ImageView
+                android:src="@drawable/sun"
+                android:id="@+id/sun"
+                android:layout_width="200dp"
+                android:layout_height="200dp"/>
+
+            <ImageView
+                android:id="@+id/moon"
+                android:layout_width="200dp"
+                android:layout_height="200dp"
+                android:layout_alignRight="@+id/sun"
+                android:src="@drawable/moon" />
+
+
+
+
+        </RelativeLayout>
+    </LinearLayout>
+</LinearLayout>
