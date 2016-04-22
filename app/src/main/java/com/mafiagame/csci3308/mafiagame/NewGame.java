@@ -97,6 +97,14 @@ public class NewGame extends Activity {
                         }
 
                     }
+                    else {
+                        for (int i = 0; i < 6; i++) {
+                            long seed = System.nanoTime();
+                            Collections.shuffle(newRoleList, new Random(seed));
+                            finalRoles.put(i, newRoleList.get(i));
+                            Log.d("roleList", "role: " + i + " is " + newRoleList.get(i));
+                        }
+                    }
 
                 }
 

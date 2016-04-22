@@ -92,7 +92,7 @@ public class GameMain extends Activity {
             yourRoleIs.create().show();
         }
 
-        RelativeLayout relativeLayout= new RelativeLayout(this);
+        final RelativeLayout relativeLayout= new RelativeLayout(this);
 
         //final Button helpButton = new Button(this);
         final ImageView helpButton = new ImageView(this);
@@ -148,7 +148,7 @@ public class GameMain extends Activity {
         // choose cycle for logic
         //cycleNum++; //if it's odd, cycle is night. even, cycle is day.
         String cycle;
-        ImageView cycleImg = new ImageView(this);
+        final ImageView cycleImg = new ImageView(this);
         cycleImg.bringToFront();
         RelativeLayout.LayoutParams params = new RelativeLayout.LayoutParams(
                 LayoutParams.WRAP_CONTENT,
@@ -166,18 +166,11 @@ public class GameMain extends Activity {
 
 
         if (cycleNum % 2 == 0) {
-
-            cycle = "Day";
             cycleImg.setImageResource(R.drawable.moon);
             relativeLayout.addView(cycleImg);
-            villagerKill = villagerAction(); // two or more people must choose the same person to eliminate.
-
-
-
+            villagerKill = villagerAction(); // two or more people must choose the same person to eliminate
         }
         else {
-
-            cycle = "Night";
             cycleImg.setImageResource(R.drawable.sun);
             relativeLayout.addView(cycleImg);
 
@@ -186,7 +179,34 @@ public class GameMain extends Activity {
             else if (yourRole == "Doctor") doctorSave = doctorAction(); // choose who to save
 
         }
+        cycleImg.setOnClickListener(new Button.OnClickListener() {
 
+            @Override
+            public void onClick(View arg0) {
+                endTurn(relativeLayout, cycleImg);
+            }
+        });
+
+
+    }
+
+    private void endTurn(RelativeLayout relativeLayout, ImageView cycleImg){
+        if (cycleNum % 2 == 0) {
+            relativeLayout.removeView(cycleImg);
+            cycleImg.setImageResource(R.drawable.moon);
+            relativeLayout.addView(cycleImg);
+            cycleNum++;
+            //villagerKill = villagerAction(); // two or more people must choose the same person to eliminate
+        }
+        else {
+            relativeLayout.removeView(cycleImg);
+            cycleImg.setImageResource(R.drawable.sun);
+            relativeLayout.addView(cycleImg);
+            cycleNum++;
+            //if (yourRole == "Mafia") mafiaKill = mafiaAction(); // choose a victim. Display all other mafia.
+            //else if (yourRole == "Detective") detectiveKill = detectiveAction(); // choose mafia. if mafia, mafia is dead. if not, he knows whos innocent.
+            //else if (yourRole == "Doctor") doctorSave = doctorAction(); // choose who to save
+        }
     }
 
     private String villagerAction(){

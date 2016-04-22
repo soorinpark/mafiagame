@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/home/cowens/Documents/game/mafiagame/app/build/intermediates/res/merged/debug/values-mk-rMK/values-mk-rMK.xml",
+        "outputFile": "C:\\Users\\soorinpark\\AndroidStudioProjects\\mafiagame\\app\\build\\intermediates\\res\\merged\\debug\\values-mk-rMK\\values-mk-rMK.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 208
                 },
                 "from": {
-                    "file": "/home/cowens/Documents/game/mafiagame/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-mk-rMK/values.xml",
+                    "file": "C:\\Users\\soorinpark\\AndroidStudioProjects\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-mk-rMK\\values.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -30,7 +30,7 @@
                     "endOffset": 331
                 },
                 "from": {
-                    "file": "/home/cowens/Documents/game/mafiagame/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-mk-rMK/values.xml",
+                    "file": "C:\\Users\\soorinpark\\AndroidStudioProjects\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-mk-rMK\\values.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -49,7 +49,7 @@
                     "endOffset": 435
                 },
                 "from": {
-                    "file": "/home/cowens/Documents/game/mafiagame/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-mk-rMK/values.xml",
+                    "file": "C:\\Users\\soorinpark\\AndroidStudioProjects\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-mk-rMK\\values.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -68,7 +68,7 @@
                     "endOffset": 543
                 },
                 "from": {
-                    "file": "/home/cowens/Documents/game/mafiagame/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-mk-rMK/values.xml",
+                    "file": "C:\\Users\\soorinpark\\AndroidStudioProjects\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-mk-rMK\\values.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -87,7 +87,7 @@
                     "endOffset": 629
                 },
                 "from": {
-                    "file": "/home/cowens/Documents/game/mafiagame/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-mk-rMK/values.xml",
+                    "file": "C:\\Users\\soorinpark\\AndroidStudioProjects\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-mk-rMK\\values.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -106,7 +106,7 @@
                     "endOffset": 734
                 },
                 "from": {
-                    "file": "/home/cowens/Documents/game/mafiagame/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-mk-rMK/values.xml",
+                    "file": "C:\\Users\\soorinpark\\AndroidStudioProjects\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-mk-rMK\\values.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -125,7 +125,7 @@
                     "endOffset": 853
                 },
                 "from": {
-                    "file": "/home/cowens/Documents/game/mafiagame/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-mk-rMK/values.xml",
+                    "file": "C:\\Users\\soorinpark\\AndroidStudioProjects\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-mk-rMK\\values.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -144,7 +144,7 @@
                     "endOffset": 959
                 },
                 "from": {
-                    "file": "/home/cowens/Documents/game/mafiagame/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-mk-rMK/values.xml",
+                    "file": "C:\\Users\\soorinpark\\AndroidStudioProjects\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-mk-rMK\\values.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
@@ -163,7 +163,7 @@
                     "endOffset": 1066
                 },
                 "from": {
-                    "file": "/home/cowens/Documents/game/mafiagame/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-mk-rMK/values.xml",
+                    "file": "C:\\Users\\soorinpark\\AndroidStudioProjects\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-mk-rMK\\values.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
@@ -182,7 +182,7 @@
                     "endOffset": 1167
                 },
                 "from": {
-                    "file": "/home/cowens/Documents/game/mafiagame/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-mk-rMK/values.xml",
+                    "file": "C:\\Users\\soorinpark\\AndroidStudioProjects\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-mk-rMK\\values.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
@@ -201,7 +201,7 @@
                     "endOffset": 1274
                 },
                 "from": {
-                    "file": "/home/cowens/Documents/game/mafiagame/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-mk-rMK/values.xml",
+                    "file": "C:\\Users\\soorinpark\\AndroidStudioProjects\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-mk-rMK\\values.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
@@ -220,7 +220,7 @@
                     "endOffset": 1385
                 },
                 "from": {
-                    "file": "/home/cowens/Documents/game/mafiagame/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-mk-rMK/values.xml",
+                    "file": "C:\\Users\\soorinpark\\AndroidStudioProjects\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-mk-rMK\\values.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
@@ -239,7 +239,7 @@
                     "endOffset": 1489
                 },
                 "from": {
-                    "file": "/home/cowens/Documents/game/mafiagame/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-mk-rMK/values.xml",
+                    "file": "C:\\Users\\soorinpark\\AndroidStudioProjects\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-mk-rMK\\values.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
@@ -258,7 +258,7 @@
                     "endOffset": 1677
                 },
                 "from": {
-                    "file": "/home/cowens/Documents/game/mafiagame/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-mk-rMK/common_strings.xml",
+                    "file": "C:\\Users\\soorinpark\\AndroidStudioProjects\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-mk-rMK\\common_strings.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -277,7 +277,7 @@
                     "endOffset": 1868
                 },
                 "from": {
-                    "file": "/home/cowens/Documents/game/mafiagame/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-mk-rMK/common_strings.xml",
+                    "file": "C:\\Users\\soorinpark\\AndroidStudioProjects\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-mk-rMK\\common_strings.xml",
                     "position": {
                         "startLine": 18,
                         "startColumn": 4,
@@ -296,7 +296,7 @@
                     "endOffset": 1981
                 },
                 "from": {
-                    "file": "/home/cowens/Documents/game/mafiagame/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-mk-rMK/common_strings.xml",
+                    "file": "C:\\Users\\soorinpark\\AndroidStudioProjects\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-mk-rMK\\common_strings.xml",
                     "position": {
                         "startLine": 16,
                         "startColumn": 4,
@@ -315,7 +315,7 @@
                     "endOffset": 2236
                 },
                 "from": {
-                    "file": "/home/cowens/Documents/game/mafiagame/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-mk-rMK/common_strings.xml",
+                    "file": "C:\\Users\\soorinpark\\AndroidStudioProjects\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-mk-rMK\\common_strings.xml",
                     "position": {
                         "startLine": 30,
                         "startColumn": 4,
@@ -334,7 +334,7 @@
                     "endOffset": 2372
                 },
                 "from": {
-                    "file": "/home/cowens/Documents/game/mafiagame/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-mk-rMK/common_strings.xml",
+                    "file": "C:\\Users\\soorinpark\\AndroidStudioProjects\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-mk-rMK\\common_strings.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
@@ -353,7 +353,7 @@
                     "endOffset": 2565
                 },
                 "from": {
-                    "file": "/home/cowens/Documents/game/mafiagame/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-mk-rMK/common_strings.xml",
+                    "file": "C:\\Users\\soorinpark\\AndroidStudioProjects\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-mk-rMK\\common_strings.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
@@ -372,7 +372,7 @@
                     "endOffset": 2699
                 },
                 "from": {
-                    "file": "/home/cowens/Documents/game/mafiagame/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-mk-rMK/common_strings.xml",
+                    "file": "C:\\Users\\soorinpark\\AndroidStudioProjects\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-mk-rMK\\common_strings.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
@@ -391,7 +391,7 @@
                     "endOffset": 2863
                 },
                 "from": {
-                    "file": "/home/cowens/Documents/game/mafiagame/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-mk-rMK/common_strings.xml",
+                    "file": "C:\\Users\\soorinpark\\AndroidStudioProjects\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-mk-rMK\\common_strings.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -410,7 +410,7 @@
                     "endOffset": 2999
                 },
                 "from": {
-                    "file": "/home/cowens/Documents/game/mafiagame/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-mk-rMK/common_strings.xml",
+                    "file": "C:\\Users\\soorinpark\\AndroidStudioProjects\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-mk-rMK\\common_strings.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
@@ -429,7 +429,7 @@
                     "endOffset": 3212
                 },
                 "from": {
-                    "file": "/home/cowens/Documents/game/mafiagame/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-mk-rMK/common_strings.xml",
+                    "file": "C:\\Users\\soorinpark\\AndroidStudioProjects\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-mk-rMK\\common_strings.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -448,7 +448,7 @@
                     "endOffset": 3424
                 },
                 "from": {
-                    "file": "/home/cowens/Documents/game/mafiagame/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-mk-rMK/common_strings.xml",
+                    "file": "C:\\Users\\soorinpark\\AndroidStudioProjects\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-mk-rMK\\common_strings.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
@@ -467,7 +467,7 @@
                     "endOffset": 3557
                 },
                 "from": {
-                    "file": "/home/cowens/Documents/game/mafiagame/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-mk-rMK/common_strings.xml",
+                    "file": "C:\\Users\\soorinpark\\AndroidStudioProjects\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-mk-rMK\\common_strings.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -486,7 +486,7 @@
                     "endOffset": 3729
                 },
                 "from": {
-                    "file": "/home/cowens/Documents/game/mafiagame/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-mk-rMK/common_strings.xml",
+                    "file": "C:\\Users\\soorinpark\\AndroidStudioProjects\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-mk-rMK\\common_strings.xml",
                     "position": {
                         "startLine": 24,
                         "startColumn": 4,
@@ -505,7 +505,7 @@
                     "endOffset": 3854
                 },
                 "from": {
-                    "file": "/home/cowens/Documents/game/mafiagame/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-mk-rMK/common_strings.xml",
+                    "file": "C:\\Users\\soorinpark\\AndroidStudioProjects\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-mk-rMK\\common_strings.xml",
                     "position": {
                         "startLine": 23,
                         "startColumn": 4,
@@ -524,7 +524,7 @@
                     "endOffset": 4020
                 },
                 "from": {
-                    "file": "/home/cowens/Documents/game/mafiagame/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-mk-rMK/common_strings.xml",
+                    "file": "C:\\Users\\soorinpark\\AndroidStudioProjects\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-mk-rMK\\common_strings.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -543,7 +543,7 @@
                     "endOffset": 4202
                 },
                 "from": {
-                    "file": "/home/cowens/Documents/game/mafiagame/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-mk-rMK/common_strings.xml",
+                    "file": "C:\\Users\\soorinpark\\AndroidStudioProjects\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-mk-rMK\\common_strings.xml",
                     "position": {
                         "startLine": 22,
                         "startColumn": 4,
@@ -562,7 +562,7 @@
                     "endOffset": 4322
                 },
                 "from": {
-                    "file": "/home/cowens/Documents/game/mafiagame/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-mk-rMK/common_strings.xml",
+                    "file": "C:\\Users\\soorinpark\\AndroidStudioProjects\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-mk-rMK\\common_strings.xml",
                     "position": {
                         "startLine": 21,
                         "startColumn": 4,
@@ -581,7 +581,7 @@
                     "endOffset": 4499
                 },
                 "from": {
-                    "file": "/home/cowens/Documents/game/mafiagame/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-mk-rMK/common_strings.xml",
+                    "file": "C:\\Users\\soorinpark\\AndroidStudioProjects\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-mk-rMK\\common_strings.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -600,7 +600,7 @@
                     "endOffset": 4639
                 },
                 "from": {
-                    "file": "/home/cowens/Documents/game/mafiagame/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-mk-rMK/common_strings.xml",
+                    "file": "C:\\Users\\soorinpark\\AndroidStudioProjects\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-mk-rMK\\common_strings.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -619,7 +619,7 @@
                     "endOffset": 4813
                 },
                 "from": {
-                    "file": "/home/cowens/Documents/game/mafiagame/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-mk-rMK/common_strings.xml",
+                    "file": "C:\\Users\\soorinpark\\AndroidStudioProjects\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-mk-rMK\\common_strings.xml",
                     "position": {
                         "startLine": 32,
                         "startColumn": 4,
@@ -638,7 +638,7 @@
                     "endOffset": 4943
                 },
                 "from": {
-                    "file": "/home/cowens/Documents/game/mafiagame/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-mk-rMK/common_strings.xml",
+                    "file": "C:\\Users\\soorinpark\\AndroidStudioProjects\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-mk-rMK\\common_strings.xml",
                     "position": {
                         "startLine": 31,
                         "startColumn": 4,
@@ -657,7 +657,7 @@
                     "endOffset": 5088
                 },
                 "from": {
-                    "file": "/home/cowens/Documents/game/mafiagame/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-mk-rMK/common_strings.xml",
+                    "file": "C:\\Users\\soorinpark\\AndroidStudioProjects\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-mk-rMK\\common_strings.xml",
                     "position": {
                         "startLine": 25,
                         "startColumn": 4,
@@ -676,7 +676,7 @@
                     "endOffset": 5336
                 },
                 "from": {
-                    "file": "/home/cowens/Documents/game/mafiagame/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-mk-rMK/common_strings.xml",
+                    "file": "C:\\Users\\soorinpark\\AndroidStudioProjects\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-mk-rMK\\common_strings.xml",
                     "position": {
                         "startLine": 27,
                         "startColumn": 4,
@@ -695,7 +695,7 @@
                     "endOffset": 5462
                 },
                 "from": {
-                    "file": "/home/cowens/Documents/game/mafiagame/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-mk-rMK/common_strings.xml",
+                    "file": "C:\\Users\\soorinpark\\AndroidStudioProjects\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-mk-rMK\\common_strings.xml",
                     "position": {
                         "startLine": 26,
                         "startColumn": 4,
@@ -714,7 +714,7 @@
                     "endOffset": 5571
                 },
                 "from": {
-                    "file": "/home/cowens/Documents/game/mafiagame/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-mk-rMK/common_strings.xml",
+                    "file": "C:\\Users\\soorinpark\\AndroidStudioProjects\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-mk-rMK\\common_strings.xml",
                     "position": {
                         "startLine": 28,
                         "startColumn": 4,
@@ -733,7 +733,7 @@
                     "endOffset": 5768
                 },
                 "from": {
-                    "file": "/home/cowens/Documents/game/mafiagame/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-mk-rMK/common_strings.xml",
+                    "file": "C:\\Users\\soorinpark\\AndroidStudioProjects\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-mk-rMK\\common_strings.xml",
                     "position": {
                         "startLine": 17,
                         "startColumn": 4,
@@ -752,7 +752,7 @@
                     "endOffset": 5903
                 },
                 "from": {
-                    "file": "/home/cowens/Documents/game/mafiagame/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-mk-rMK/common_strings.xml",
+                    "file": "C:\\Users\\soorinpark\\AndroidStudioProjects\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-mk-rMK\\common_strings.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
@@ -771,7 +771,7 @@
                     "endOffset": 6115
                 },
                 "from": {
-                    "file": "/home/cowens/Documents/game/mafiagame/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-mk-rMK/common_strings.xml",
+                    "file": "C:\\Users\\soorinpark\\AndroidStudioProjects\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-mk-rMK\\common_strings.xml",
                     "position": {
                         "startLine": 20,
                         "startColumn": 4,
@@ -790,7 +790,7 @@
                     "endOffset": 6252
                 },
                 "from": {
-                    "file": "/home/cowens/Documents/game/mafiagame/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-mk-rMK/common_strings.xml",
+                    "file": "C:\\Users\\soorinpark\\AndroidStudioProjects\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-mk-rMK\\common_strings.xml",
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,
@@ -809,7 +809,7 @@
                     "endOffset": 6350
                 },
                 "from": {
-                    "file": "/home/cowens/Documents/game/mafiagame/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-mk-rMK/common_strings.xml",
+                    "file": "C:\\Users\\soorinpark\\AndroidStudioProjects\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-mk-rMK\\common_strings.xml",
                     "position": {
                         "startLine": 29,
                         "startColumn": 4,
@@ -822,7 +822,1651 @@
         ]
     },
     {
-        "outputFile": "/home/cowens/Documents/game/mafiagame/C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\res\\merged\\debug\\values-mk-rMK\\values-mk-rMK.xml",
+        "outputFile": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\res\\merged\\debug\\values-mk-rMK\\values-mk-rMK.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 107,
+                    "endOffset": 208
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-mk-rMK\\values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 107,
+                        "endOffset": 159
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 213,
+                    "endColumn": 122,
+                    "endOffset": 331
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-mk-rMK\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 164,
+                        "endColumn": 122,
+                        "endOffset": 282
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 336,
+                    "endColumn": 103,
+                    "endOffset": 435
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-mk-rMK\\values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 287,
+                        "endColumn": 103,
+                        "endOffset": 386
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 440,
+                    "endColumn": 107,
+                    "endOffset": 543
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-mk-rMK\\values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 391,
+                        "endColumn": 107,
+                        "endOffset": 494
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 548,
+                    "endColumn": 85,
+                    "endOffset": 629
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-mk-rMK\\values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 499,
+                        "endColumn": 85,
+                        "endOffset": 580
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 634,
+                    "endColumn": 104,
+                    "endOffset": 734
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-mk-rMK\\values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 585,
+                        "endColumn": 104,
+                        "endOffset": 685
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 739,
+                    "endColumn": 118,
+                    "endOffset": 853
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-mk-rMK\\values.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 690,
+                        "endColumn": 118,
+                        "endOffset": 804
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 858,
+                    "endColumn": 105,
+                    "endOffset": 959
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-mk-rMK\\values.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 809,
+                        "endColumn": 105,
+                        "endOffset": 910
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 964,
+                    "endColumn": 106,
+                    "endOffset": 1066
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-mk-rMK\\values.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 915,
+                        "endColumn": 106,
+                        "endOffset": 1017
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 1071,
+                    "endColumn": 100,
+                    "endOffset": 1167
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-mk-rMK\\values.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1022,
+                        "endColumn": 100,
+                        "endOffset": 1118
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1172,
+                    "endColumn": 106,
+                    "endOffset": 1274
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-mk-rMK\\values.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1123,
+                        "endColumn": 106,
+                        "endOffset": 1225
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1279,
+                    "endColumn": 110,
+                    "endOffset": 1385
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-mk-rMK\\values.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1230,
+                        "endColumn": 110,
+                        "endOffset": 1336
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1390,
+                    "endColumn": 103,
+                    "endOffset": 1489
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-mk-rMK\\values.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1341,
+                        "endColumn": 103,
+                        "endOffset": 1440
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1494,
+                    "endColumn": 187,
+                    "endOffset": 1677
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-mk-rMK\\common_strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 487,
+                        "endColumn": 191,
+                        "endOffset": 674
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1682,
+                    "endColumn": 190,
+                    "endOffset": 1868
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-mk-rMK\\common_strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 2631,
+                        "endColumn": 194,
+                        "endOffset": 2821
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1873,
+                    "endColumn": 112,
+                    "endOffset": 1981
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-mk-rMK\\common_strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 2317,
+                        "endColumn": 112,
+                        "endOffset": 2425
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1986,
+                    "endColumn": 254,
+                    "endOffset": 2236
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-mk-rMK\\common_strings.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 4508,
+                        "endColumn": 258,
+                        "endOffset": 4762
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 2241,
+                    "endColumn": 135,
+                    "endOffset": 2372
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-mk-rMK\\common_strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 2046,
+                        "endColumn": 135,
+                        "endOffset": 2177
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 2377,
+                    "endColumn": 192,
+                    "endOffset": 2565
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-mk-rMK\\common_strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1849,
+                        "endColumn": 196,
+                        "endOffset": 2041
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 2570,
+                    "endColumn": 133,
+                    "endOffset": 2699
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-mk-rMK\\common_strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1715,
+                        "endColumn": 133,
+                        "endOffset": 1844
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 2704,
+                    "endColumn": 163,
+                    "endOffset": 2863
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-mk-rMK\\common_strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 845,
+                        "endColumn": 167,
+                        "endOffset": 1008
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 2868,
+                    "endColumn": 135,
+                    "endOffset": 2999
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-mk-rMK\\common_strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 1579,
+                        "endColumn": 135,
+                        "endOffset": 1710
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 3004,
+                    "endColumn": 212,
+                    "endOffset": 3212
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-mk-rMK\\common_strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 1146,
+                        "endColumn": 216,
+                        "endOffset": 1358
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 3217,
+                    "endColumn": 211,
+                    "endOffset": 3424
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-mk-rMK\\common_strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 1363,
+                        "endColumn": 215,
+                        "endOffset": 1574
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 3429,
+                    "endColumn": 132,
+                    "endOffset": 3557
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-mk-rMK\\common_strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 1013,
+                        "endColumn": 132,
+                        "endOffset": 1141
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 3562,
+                    "endColumn": 171,
+                    "endOffset": 3729
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-mk-rMK\\common_strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 3606,
+                        "endColumn": 171,
+                        "endOffset": 3773
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 3734,
+                    "endColumn": 124,
+                    "endOffset": 3854
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-mk-rMK\\common_strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 3481,
+                        "endColumn": 124,
+                        "endOffset": 3601
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 3859,
+                    "endColumn": 165,
+                    "endOffset": 4020
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-mk-rMK\\common_strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 679,
+                        "endColumn": 165,
+                        "endOffset": 840
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 4025,
+                    "endColumn": 181,
+                    "endOffset": 4202
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-mk-rMK\\common_strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 3299,
+                        "endColumn": 181,
+                        "endOffset": 3476
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 4207,
+                    "endColumn": 119,
+                    "endOffset": 4322
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-mk-rMK\\common_strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 3179,
+                        "endColumn": 119,
+                        "endOffset": 3294
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 4327,
+                    "endColumn": 176,
+                    "endOffset": 4499
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-mk-rMK\\common_strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 310,
+                        "endColumn": 176,
+                        "endOffset": 482
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 33,
+                    "startColumn": 4,
+                    "startOffset": 4504,
+                    "endColumn": 139,
+                    "endOffset": 4639
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-mk-rMK\\common_strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 170,
+                        "endColumn": 139,
+                        "endOffset": 305
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 4644,
+                    "endColumn": 173,
+                    "endOffset": 4813
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-mk-rMK\\common_strings.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 4897,
+                        "endColumn": 173,
+                        "endOffset": 5066
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 4818,
+                    "endColumn": 129,
+                    "endOffset": 4943
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-mk-rMK\\common_strings.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 4767,
+                        "endColumn": 129,
+                        "endOffset": 4892
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 4948,
+                    "endColumn": 144,
+                    "endOffset": 5088
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-mk-rMK\\common_strings.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 3778,
+                        "endColumn": 144,
+                        "endOffset": 3918
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 5093,
+                    "endColumn": 247,
+                    "endOffset": 5336
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-mk-rMK\\common_strings.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 4049,
+                        "endColumn": 251,
+                        "endOffset": 4296
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 5341,
+                    "endColumn": 125,
+                    "endOffset": 5462
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-mk-rMK\\common_strings.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 3923,
+                        "endColumn": 125,
+                        "endOffset": 4044
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 5467,
+                    "endColumn": 108,
+                    "endOffset": 5571
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-mk-rMK\\common_strings.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 4301,
+                        "endColumn": 108,
+                        "endOffset": 4405
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 5576,
+                    "endColumn": 196,
+                    "endOffset": 5768
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-mk-rMK\\common_strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 2430,
+                        "endColumn": 200,
+                        "endOffset": 2626
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 5773,
+                    "endColumn": 134,
+                    "endOffset": 5903
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-mk-rMK\\common_strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 2182,
+                        "endColumn": 134,
+                        "endOffset": 2312
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 5908,
+                    "endColumn": 211,
+                    "endOffset": 6115
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-mk-rMK\\common_strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 2963,
+                        "endColumn": 215,
+                        "endOffset": 3174
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 43,
+                    "startColumn": 4,
+                    "startOffset": 6120,
+                    "endColumn": 136,
+                    "endOffset": 6252
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-mk-rMK\\common_strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 2826,
+                        "endColumn": 136,
+                        "endOffset": 2958
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 6257,
+                    "endColumn": 97,
+                    "endOffset": 6350
+                },
+                "from": {
+                    "file": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-mk-rMK\\common_strings.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 4410,
+                        "endColumn": 97,
+                        "endOffset": 4503
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\home\\cowens\\Documents\\game\\mafiagame\\app\\build\\intermediates\\res\\merged\\debug\\values-mk-rMK\\values-mk-rMK.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 107,
+                    "endOffset": 208
+                },
+                "from": {
+                    "file": "C:\\home\\cowens\\Documents\\game\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-mk-rMK\\values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 107,
+                        "endOffset": 159
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 213,
+                    "endColumn": 122,
+                    "endOffset": 331
+                },
+                "from": {
+                    "file": "C:\\home\\cowens\\Documents\\game\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-mk-rMK\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 164,
+                        "endColumn": 122,
+                        "endOffset": 282
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 336,
+                    "endColumn": 103,
+                    "endOffset": 435
+                },
+                "from": {
+                    "file": "C:\\home\\cowens\\Documents\\game\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-mk-rMK\\values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 287,
+                        "endColumn": 103,
+                        "endOffset": 386
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 440,
+                    "endColumn": 107,
+                    "endOffset": 543
+                },
+                "from": {
+                    "file": "C:\\home\\cowens\\Documents\\game\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-mk-rMK\\values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 391,
+                        "endColumn": 107,
+                        "endOffset": 494
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 548,
+                    "endColumn": 85,
+                    "endOffset": 629
+                },
+                "from": {
+                    "file": "C:\\home\\cowens\\Documents\\game\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-mk-rMK\\values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 499,
+                        "endColumn": 85,
+                        "endOffset": 580
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 634,
+                    "endColumn": 104,
+                    "endOffset": 734
+                },
+                "from": {
+                    "file": "C:\\home\\cowens\\Documents\\game\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-mk-rMK\\values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 585,
+                        "endColumn": 104,
+                        "endOffset": 685
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 739,
+                    "endColumn": 118,
+                    "endOffset": 853
+                },
+                "from": {
+                    "file": "C:\\home\\cowens\\Documents\\game\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-mk-rMK\\values.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 690,
+                        "endColumn": 118,
+                        "endOffset": 804
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 858,
+                    "endColumn": 105,
+                    "endOffset": 959
+                },
+                "from": {
+                    "file": "C:\\home\\cowens\\Documents\\game\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-mk-rMK\\values.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 809,
+                        "endColumn": 105,
+                        "endOffset": 910
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 964,
+                    "endColumn": 106,
+                    "endOffset": 1066
+                },
+                "from": {
+                    "file": "C:\\home\\cowens\\Documents\\game\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-mk-rMK\\values.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 915,
+                        "endColumn": 106,
+                        "endOffset": 1017
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 1071,
+                    "endColumn": 100,
+                    "endOffset": 1167
+                },
+                "from": {
+                    "file": "C:\\home\\cowens\\Documents\\game\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-mk-rMK\\values.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1022,
+                        "endColumn": 100,
+                        "endOffset": 1118
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1172,
+                    "endColumn": 106,
+                    "endOffset": 1274
+                },
+                "from": {
+                    "file": "C:\\home\\cowens\\Documents\\game\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-mk-rMK\\values.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1123,
+                        "endColumn": 106,
+                        "endOffset": 1225
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1279,
+                    "endColumn": 110,
+                    "endOffset": 1385
+                },
+                "from": {
+                    "file": "C:\\home\\cowens\\Documents\\game\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-mk-rMK\\values.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1230,
+                        "endColumn": 110,
+                        "endOffset": 1336
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1390,
+                    "endColumn": 103,
+                    "endOffset": 1489
+                },
+                "from": {
+                    "file": "C:\\home\\cowens\\Documents\\game\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-mk-rMK\\values.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1341,
+                        "endColumn": 103,
+                        "endOffset": 1440
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1494,
+                    "endColumn": 187,
+                    "endOffset": 1677
+                },
+                "from": {
+                    "file": "C:\\home\\cowens\\Documents\\game\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-mk-rMK\\common_strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 487,
+                        "endColumn": 191,
+                        "endOffset": 674
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1682,
+                    "endColumn": 190,
+                    "endOffset": 1868
+                },
+                "from": {
+                    "file": "C:\\home\\cowens\\Documents\\game\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-mk-rMK\\common_strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 2631,
+                        "endColumn": 194,
+                        "endOffset": 2821
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1873,
+                    "endColumn": 112,
+                    "endOffset": 1981
+                },
+                "from": {
+                    "file": "C:\\home\\cowens\\Documents\\game\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-mk-rMK\\common_strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 2317,
+                        "endColumn": 112,
+                        "endOffset": 2425
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1986,
+                    "endColumn": 254,
+                    "endOffset": 2236
+                },
+                "from": {
+                    "file": "C:\\home\\cowens\\Documents\\game\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-mk-rMK\\common_strings.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 4508,
+                        "endColumn": 258,
+                        "endOffset": 4762
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 2241,
+                    "endColumn": 135,
+                    "endOffset": 2372
+                },
+                "from": {
+                    "file": "C:\\home\\cowens\\Documents\\game\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-mk-rMK\\common_strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 2046,
+                        "endColumn": 135,
+                        "endOffset": 2177
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 2377,
+                    "endColumn": 192,
+                    "endOffset": 2565
+                },
+                "from": {
+                    "file": "C:\\home\\cowens\\Documents\\game\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-mk-rMK\\common_strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1849,
+                        "endColumn": 196,
+                        "endOffset": 2041
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 2570,
+                    "endColumn": 133,
+                    "endOffset": 2699
+                },
+                "from": {
+                    "file": "C:\\home\\cowens\\Documents\\game\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-mk-rMK\\common_strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1715,
+                        "endColumn": 133,
+                        "endOffset": 1844
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 2704,
+                    "endColumn": 163,
+                    "endOffset": 2863
+                },
+                "from": {
+                    "file": "C:\\home\\cowens\\Documents\\game\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-mk-rMK\\common_strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 845,
+                        "endColumn": 167,
+                        "endOffset": 1008
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 2868,
+                    "endColumn": 135,
+                    "endOffset": 2999
+                },
+                "from": {
+                    "file": "C:\\home\\cowens\\Documents\\game\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-mk-rMK\\common_strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 1579,
+                        "endColumn": 135,
+                        "endOffset": 1710
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 3004,
+                    "endColumn": 212,
+                    "endOffset": 3212
+                },
+                "from": {
+                    "file": "C:\\home\\cowens\\Documents\\game\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-mk-rMK\\common_strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 1146,
+                        "endColumn": 216,
+                        "endOffset": 1358
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 3217,
+                    "endColumn": 211,
+                    "endOffset": 3424
+                },
+                "from": {
+                    "file": "C:\\home\\cowens\\Documents\\game\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-mk-rMK\\common_strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 1363,
+                        "endColumn": 215,
+                        "endOffset": 1574
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 3429,
+                    "endColumn": 132,
+                    "endOffset": 3557
+                },
+                "from": {
+                    "file": "C:\\home\\cowens\\Documents\\game\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-mk-rMK\\common_strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 1013,
+                        "endColumn": 132,
+                        "endOffset": 1141
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 3562,
+                    "endColumn": 171,
+                    "endOffset": 3729
+                },
+                "from": {
+                    "file": "C:\\home\\cowens\\Documents\\game\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-mk-rMK\\common_strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 3606,
+                        "endColumn": 171,
+                        "endOffset": 3773
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 3734,
+                    "endColumn": 124,
+                    "endOffset": 3854
+                },
+                "from": {
+                    "file": "C:\\home\\cowens\\Documents\\game\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-mk-rMK\\common_strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 3481,
+                        "endColumn": 124,
+                        "endOffset": 3601
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 3859,
+                    "endColumn": 165,
+                    "endOffset": 4020
+                },
+                "from": {
+                    "file": "C:\\home\\cowens\\Documents\\game\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-mk-rMK\\common_strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 679,
+                        "endColumn": 165,
+                        "endOffset": 840
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 4025,
+                    "endColumn": 181,
+                    "endOffset": 4202
+                },
+                "from": {
+                    "file": "C:\\home\\cowens\\Documents\\game\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-mk-rMK\\common_strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 3299,
+                        "endColumn": 181,
+                        "endOffset": 3476
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 4207,
+                    "endColumn": 119,
+                    "endOffset": 4322
+                },
+                "from": {
+                    "file": "C:\\home\\cowens\\Documents\\game\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-mk-rMK\\common_strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 3179,
+                        "endColumn": 119,
+                        "endOffset": 3294
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 4327,
+                    "endColumn": 176,
+                    "endOffset": 4499
+                },
+                "from": {
+                    "file": "C:\\home\\cowens\\Documents\\game\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-mk-rMK\\common_strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 310,
+                        "endColumn": 176,
+                        "endOffset": 482
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 33,
+                    "startColumn": 4,
+                    "startOffset": 4504,
+                    "endColumn": 139,
+                    "endOffset": 4639
+                },
+                "from": {
+                    "file": "C:\\home\\cowens\\Documents\\game\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-mk-rMK\\common_strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 170,
+                        "endColumn": 139,
+                        "endOffset": 305
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 4644,
+                    "endColumn": 173,
+                    "endOffset": 4813
+                },
+                "from": {
+                    "file": "C:\\home\\cowens\\Documents\\game\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-mk-rMK\\common_strings.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 4897,
+                        "endColumn": 173,
+                        "endOffset": 5066
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 4818,
+                    "endColumn": 129,
+                    "endOffset": 4943
+                },
+                "from": {
+                    "file": "C:\\home\\cowens\\Documents\\game\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-mk-rMK\\common_strings.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 4767,
+                        "endColumn": 129,
+                        "endOffset": 4892
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 4948,
+                    "endColumn": 144,
+                    "endOffset": 5088
+                },
+                "from": {
+                    "file": "C:\\home\\cowens\\Documents\\game\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-mk-rMK\\common_strings.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 3778,
+                        "endColumn": 144,
+                        "endOffset": 3918
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 5093,
+                    "endColumn": 247,
+                    "endOffset": 5336
+                },
+                "from": {
+                    "file": "C:\\home\\cowens\\Documents\\game\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-mk-rMK\\common_strings.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 4049,
+                        "endColumn": 251,
+                        "endOffset": 4296
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 5341,
+                    "endColumn": 125,
+                    "endOffset": 5462
+                },
+                "from": {
+                    "file": "C:\\home\\cowens\\Documents\\game\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-mk-rMK\\common_strings.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 3923,
+                        "endColumn": 125,
+                        "endOffset": 4044
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 5467,
+                    "endColumn": 108,
+                    "endOffset": 5571
+                },
+                "from": {
+                    "file": "C:\\home\\cowens\\Documents\\game\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-mk-rMK\\common_strings.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 4301,
+                        "endColumn": 108,
+                        "endOffset": 4405
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 5576,
+                    "endColumn": 196,
+                    "endOffset": 5768
+                },
+                "from": {
+                    "file": "C:\\home\\cowens\\Documents\\game\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-mk-rMK\\common_strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 2430,
+                        "endColumn": 200,
+                        "endOffset": 2626
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 5773,
+                    "endColumn": 134,
+                    "endOffset": 5903
+                },
+                "from": {
+                    "file": "C:\\home\\cowens\\Documents\\game\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-mk-rMK\\common_strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 2182,
+                        "endColumn": 134,
+                        "endOffset": 2312
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 5908,
+                    "endColumn": 211,
+                    "endOffset": 6115
+                },
+                "from": {
+                    "file": "C:\\home\\cowens\\Documents\\game\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-mk-rMK\\common_strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 2963,
+                        "endColumn": 215,
+                        "endOffset": 3174
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 43,
+                    "startColumn": 4,
+                    "startOffset": 6120,
+                    "endColumn": 136,
+                    "endOffset": 6252
+                },
+                "from": {
+                    "file": "C:\\home\\cowens\\Documents\\game\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-mk-rMK\\common_strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 2826,
+                        "endColumn": 136,
+                        "endOffset": 2958
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 6257,
+                    "endColumn": 97,
+                    "endOffset": 6350
+                },
+                "from": {
+                    "file": "C:\\home\\cowens\\Documents\\game\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-mk-rMK\\common_strings.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 4410,
+                        "endColumn": 97,
+                        "endOffset": 4503
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\home\\cowens\\Documents\\game\\mafiagame\\C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\res\\merged\\debug\\values-mk-rMK\\values-mk-rMK.xml",
         "map": [
             {
                 "to": {
@@ -833,7 +2477,7 @@
                     "endOffset": 158
                 },
                 "from": {
-                    "file": "/home/cowens/Documents/game/mafiagame/C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-mk-rMK\\values.xml",
+                    "file": "C:\\home\\cowens\\Documents\\game\\mafiagame\\C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-mk-rMK\\values.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -852,7 +2496,7 @@
                     "endOffset": 281
                 },
                 "from": {
-                    "file": "/home/cowens/Documents/game/mafiagame/C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-mk-rMK\\values.xml",
+                    "file": "C:\\home\\cowens\\Documents\\game\\mafiagame\\C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-mk-rMK\\values.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -871,7 +2515,7 @@
                     "endOffset": 385
                 },
                 "from": {
-                    "file": "/home/cowens/Documents/game/mafiagame/C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-mk-rMK\\values.xml",
+                    "file": "C:\\home\\cowens\\Documents\\game\\mafiagame\\C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-mk-rMK\\values.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -890,7 +2534,7 @@
                     "endOffset": 493
                 },
                 "from": {
-                    "file": "/home/cowens/Documents/game/mafiagame/C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-mk-rMK\\values.xml",
+                    "file": "C:\\home\\cowens\\Documents\\game\\mafiagame\\C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-mk-rMK\\values.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -909,7 +2553,7 @@
                     "endOffset": 579
                 },
                 "from": {
-                    "file": "/home/cowens/Documents/game/mafiagame/C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-mk-rMK\\values.xml",
+                    "file": "C:\\home\\cowens\\Documents\\game\\mafiagame\\C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-mk-rMK\\values.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -928,7 +2572,7 @@
                     "endOffset": 684
                 },
                 "from": {
-                    "file": "/home/cowens/Documents/game/mafiagame/C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-mk-rMK\\values.xml",
+                    "file": "C:\\home\\cowens\\Documents\\game\\mafiagame\\C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-mk-rMK\\values.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -947,7 +2591,7 @@
                     "endOffset": 803
                 },
                 "from": {
-                    "file": "/home/cowens/Documents/game/mafiagame/C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-mk-rMK\\values.xml",
+                    "file": "C:\\home\\cowens\\Documents\\game\\mafiagame\\C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-mk-rMK\\values.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -966,7 +2610,7 @@
                     "endOffset": 909
                 },
                 "from": {
-                    "file": "/home/cowens/Documents/game/mafiagame/C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-mk-rMK\\values.xml",
+                    "file": "C:\\home\\cowens\\Documents\\game\\mafiagame\\C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-mk-rMK\\values.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
@@ -985,7 +2629,7 @@
                     "endOffset": 1016
                 },
                 "from": {
-                    "file": "/home/cowens/Documents/game/mafiagame/C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-mk-rMK\\values.xml",
+                    "file": "C:\\home\\cowens\\Documents\\game\\mafiagame\\C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-mk-rMK\\values.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
@@ -1004,7 +2648,7 @@
                     "endOffset": 1117
                 },
                 "from": {
-                    "file": "/home/cowens/Documents/game/mafiagame/C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-mk-rMK\\values.xml",
+                    "file": "C:\\home\\cowens\\Documents\\game\\mafiagame\\C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-mk-rMK\\values.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
@@ -1023,7 +2667,7 @@
                     "endOffset": 1224
                 },
                 "from": {
-                    "file": "/home/cowens/Documents/game/mafiagame/C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-mk-rMK\\values.xml",
+                    "file": "C:\\home\\cowens\\Documents\\game\\mafiagame\\C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-mk-rMK\\values.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
@@ -1042,7 +2686,7 @@
                     "endOffset": 1335
                 },
                 "from": {
-                    "file": "/home/cowens/Documents/game/mafiagame/C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-mk-rMK\\values.xml",
+                    "file": "C:\\home\\cowens\\Documents\\game\\mafiagame\\C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-mk-rMK\\values.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
@@ -1061,835 +2705,13 @@
                     "endOffset": 1439
                 },
                 "from": {
-                    "file": "/home/cowens/Documents/game/mafiagame/C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-mk-rMK\\values.xml",
+                    "file": "C:\\home\\cowens\\Documents\\game\\mafiagame\\C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-mk-rMK\\values.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
                         "startOffset": 1341,
                         "endColumn": 103,
                         "endOffset": 1440
-                    }
-                }
-            }
-        ]
-    },
-    {
-        "outputFile": "/Users/soorinpark/AndroidStudioProjects/mafiagame/app/build/intermediates/res/merged/debug/values-mk-rMK/values-mk-rMK.xml",
-        "map": [
-            {
-                "to": {
-                    "startLine": 2,
-                    "startColumn": 4,
-                    "startOffset": 105,
-                    "endColumn": 107,
-                    "endOffset": 208
-                },
-                "from": {
-                    "file": "/Users/soorinpark/AndroidStudioProjects/mafiagame/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-mk-rMK/values.xml",
-                    "position": {
-                        "startLine": 3,
-                        "startColumn": 4,
-                        "startOffset": 56,
-                        "endColumn": 107,
-                        "endOffset": 159
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 3,
-                    "startColumn": 4,
-                    "startOffset": 213,
-                    "endColumn": 122,
-                    "endOffset": 331
-                },
-                "from": {
-                    "file": "/Users/soorinpark/AndroidStudioProjects/mafiagame/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-mk-rMK/values.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 4,
-                        "startOffset": 164,
-                        "endColumn": 122,
-                        "endOffset": 282
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 4,
-                    "startColumn": 4,
-                    "startOffset": 336,
-                    "endColumn": 103,
-                    "endOffset": 435
-                },
-                "from": {
-                    "file": "/Users/soorinpark/AndroidStudioProjects/mafiagame/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-mk-rMK/values.xml",
-                    "position": {
-                        "startLine": 5,
-                        "startColumn": 4,
-                        "startOffset": 287,
-                        "endColumn": 103,
-                        "endOffset": 386
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 5,
-                    "startColumn": 4,
-                    "startOffset": 440,
-                    "endColumn": 107,
-                    "endOffset": 543
-                },
-                "from": {
-                    "file": "/Users/soorinpark/AndroidStudioProjects/mafiagame/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-mk-rMK/values.xml",
-                    "position": {
-                        "startLine": 6,
-                        "startColumn": 4,
-                        "startOffset": 391,
-                        "endColumn": 107,
-                        "endOffset": 494
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 6,
-                    "startColumn": 4,
-                    "startOffset": 548,
-                    "endColumn": 85,
-                    "endOffset": 629
-                },
-                "from": {
-                    "file": "/Users/soorinpark/AndroidStudioProjects/mafiagame/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-mk-rMK/values.xml",
-                    "position": {
-                        "startLine": 7,
-                        "startColumn": 4,
-                        "startOffset": 499,
-                        "endColumn": 85,
-                        "endOffset": 580
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 7,
-                    "startColumn": 4,
-                    "startOffset": 634,
-                    "endColumn": 104,
-                    "endOffset": 734
-                },
-                "from": {
-                    "file": "/Users/soorinpark/AndroidStudioProjects/mafiagame/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-mk-rMK/values.xml",
-                    "position": {
-                        "startLine": 8,
-                        "startColumn": 4,
-                        "startOffset": 585,
-                        "endColumn": 104,
-                        "endOffset": 685
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 8,
-                    "startColumn": 4,
-                    "startOffset": 739,
-                    "endColumn": 118,
-                    "endOffset": 853
-                },
-                "from": {
-                    "file": "/Users/soorinpark/AndroidStudioProjects/mafiagame/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-mk-rMK/values.xml",
-                    "position": {
-                        "startLine": 9,
-                        "startColumn": 4,
-                        "startOffset": 690,
-                        "endColumn": 118,
-                        "endOffset": 804
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 9,
-                    "startColumn": 4,
-                    "startOffset": 858,
-                    "endColumn": 105,
-                    "endOffset": 959
-                },
-                "from": {
-                    "file": "/Users/soorinpark/AndroidStudioProjects/mafiagame/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-mk-rMK/values.xml",
-                    "position": {
-                        "startLine": 10,
-                        "startColumn": 4,
-                        "startOffset": 809,
-                        "endColumn": 105,
-                        "endOffset": 910
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 10,
-                    "startColumn": 4,
-                    "startOffset": 964,
-                    "endColumn": 106,
-                    "endOffset": 1066
-                },
-                "from": {
-                    "file": "/Users/soorinpark/AndroidStudioProjects/mafiagame/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-mk-rMK/values.xml",
-                    "position": {
-                        "startLine": 11,
-                        "startColumn": 4,
-                        "startOffset": 915,
-                        "endColumn": 106,
-                        "endOffset": 1017
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 11,
-                    "startColumn": 4,
-                    "startOffset": 1071,
-                    "endColumn": 100,
-                    "endOffset": 1167
-                },
-                "from": {
-                    "file": "/Users/soorinpark/AndroidStudioProjects/mafiagame/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-mk-rMK/values.xml",
-                    "position": {
-                        "startLine": 12,
-                        "startColumn": 4,
-                        "startOffset": 1022,
-                        "endColumn": 100,
-                        "endOffset": 1118
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 12,
-                    "startColumn": 4,
-                    "startOffset": 1172,
-                    "endColumn": 106,
-                    "endOffset": 1274
-                },
-                "from": {
-                    "file": "/Users/soorinpark/AndroidStudioProjects/mafiagame/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-mk-rMK/values.xml",
-                    "position": {
-                        "startLine": 13,
-                        "startColumn": 4,
-                        "startOffset": 1123,
-                        "endColumn": 106,
-                        "endOffset": 1225
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 13,
-                    "startColumn": 4,
-                    "startOffset": 1279,
-                    "endColumn": 110,
-                    "endOffset": 1385
-                },
-                "from": {
-                    "file": "/Users/soorinpark/AndroidStudioProjects/mafiagame/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-mk-rMK/values.xml",
-                    "position": {
-                        "startLine": 14,
-                        "startColumn": 4,
-                        "startOffset": 1230,
-                        "endColumn": 110,
-                        "endOffset": 1336
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 14,
-                    "startColumn": 4,
-                    "startOffset": 1390,
-                    "endColumn": 103,
-                    "endOffset": 1489
-                },
-                "from": {
-                    "file": "/Users/soorinpark/AndroidStudioProjects/mafiagame/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-mk-rMK/values.xml",
-                    "position": {
-                        "startLine": 15,
-                        "startColumn": 4,
-                        "startOffset": 1341,
-                        "endColumn": 103,
-                        "endOffset": 1440
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 15,
-                    "startColumn": 4,
-                    "startOffset": 1494,
-                    "endColumn": 187,
-                    "endOffset": 1677
-                },
-                "from": {
-                    "file": "/Users/soorinpark/AndroidStudioProjects/mafiagame/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-mk-rMK/common_strings.xml",
-                    "position": {
-                        "startLine": 5,
-                        "startColumn": 4,
-                        "startOffset": 487,
-                        "endColumn": 191,
-                        "endOffset": 674
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 16,
-                    "startColumn": 4,
-                    "startOffset": 1682,
-                    "endColumn": 190,
-                    "endOffset": 1868
-                },
-                "from": {
-                    "file": "/Users/soorinpark/AndroidStudioProjects/mafiagame/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-mk-rMK/common_strings.xml",
-                    "position": {
-                        "startLine": 18,
-                        "startColumn": 4,
-                        "startOffset": 2631,
-                        "endColumn": 194,
-                        "endOffset": 2821
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 17,
-                    "startColumn": 4,
-                    "startOffset": 1873,
-                    "endColumn": 112,
-                    "endOffset": 1981
-                },
-                "from": {
-                    "file": "/Users/soorinpark/AndroidStudioProjects/mafiagame/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-mk-rMK/common_strings.xml",
-                    "position": {
-                        "startLine": 16,
-                        "startColumn": 4,
-                        "startOffset": 2317,
-                        "endColumn": 112,
-                        "endOffset": 2425
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 18,
-                    "startColumn": 4,
-                    "startOffset": 1986,
-                    "endColumn": 254,
-                    "endOffset": 2236
-                },
-                "from": {
-                    "file": "/Users/soorinpark/AndroidStudioProjects/mafiagame/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-mk-rMK/common_strings.xml",
-                    "position": {
-                        "startLine": 30,
-                        "startColumn": 4,
-                        "startOffset": 4508,
-                        "endColumn": 258,
-                        "endOffset": 4762
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 19,
-                    "startColumn": 4,
-                    "startOffset": 2241,
-                    "endColumn": 135,
-                    "endOffset": 2372
-                },
-                "from": {
-                    "file": "/Users/soorinpark/AndroidStudioProjects/mafiagame/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-mk-rMK/common_strings.xml",
-                    "position": {
-                        "startLine": 14,
-                        "startColumn": 4,
-                        "startOffset": 2046,
-                        "endColumn": 135,
-                        "endOffset": 2177
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 20,
-                    "startColumn": 4,
-                    "startOffset": 2377,
-                    "endColumn": 192,
-                    "endOffset": 2565
-                },
-                "from": {
-                    "file": "/Users/soorinpark/AndroidStudioProjects/mafiagame/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-mk-rMK/common_strings.xml",
-                    "position": {
-                        "startLine": 13,
-                        "startColumn": 4,
-                        "startOffset": 1849,
-                        "endColumn": 196,
-                        "endOffset": 2041
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 21,
-                    "startColumn": 4,
-                    "startOffset": 2570,
-                    "endColumn": 133,
-                    "endOffset": 2699
-                },
-                "from": {
-                    "file": "/Users/soorinpark/AndroidStudioProjects/mafiagame/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-mk-rMK/common_strings.xml",
-                    "position": {
-                        "startLine": 12,
-                        "startColumn": 4,
-                        "startOffset": 1715,
-                        "endColumn": 133,
-                        "endOffset": 1844
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 22,
-                    "startColumn": 4,
-                    "startOffset": 2704,
-                    "endColumn": 163,
-                    "endOffset": 2863
-                },
-                "from": {
-                    "file": "/Users/soorinpark/AndroidStudioProjects/mafiagame/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-mk-rMK/common_strings.xml",
-                    "position": {
-                        "startLine": 7,
-                        "startColumn": 4,
-                        "startOffset": 845,
-                        "endColumn": 167,
-                        "endOffset": 1008
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 23,
-                    "startColumn": 4,
-                    "startOffset": 2868,
-                    "endColumn": 135,
-                    "endOffset": 2999
-                },
-                "from": {
-                    "file": "/Users/soorinpark/AndroidStudioProjects/mafiagame/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-mk-rMK/common_strings.xml",
-                    "position": {
-                        "startLine": 11,
-                        "startColumn": 4,
-                        "startOffset": 1579,
-                        "endColumn": 135,
-                        "endOffset": 1710
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 24,
-                    "startColumn": 4,
-                    "startOffset": 3004,
-                    "endColumn": 212,
-                    "endOffset": 3212
-                },
-                "from": {
-                    "file": "/Users/soorinpark/AndroidStudioProjects/mafiagame/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-mk-rMK/common_strings.xml",
-                    "position": {
-                        "startLine": 9,
-                        "startColumn": 4,
-                        "startOffset": 1146,
-                        "endColumn": 216,
-                        "endOffset": 1358
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 25,
-                    "startColumn": 4,
-                    "startOffset": 3217,
-                    "endColumn": 211,
-                    "endOffset": 3424
-                },
-                "from": {
-                    "file": "/Users/soorinpark/AndroidStudioProjects/mafiagame/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-mk-rMK/common_strings.xml",
-                    "position": {
-                        "startLine": 10,
-                        "startColumn": 4,
-                        "startOffset": 1363,
-                        "endColumn": 215,
-                        "endOffset": 1574
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 26,
-                    "startColumn": 4,
-                    "startOffset": 3429,
-                    "endColumn": 132,
-                    "endOffset": 3557
-                },
-                "from": {
-                    "file": "/Users/soorinpark/AndroidStudioProjects/mafiagame/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-mk-rMK/common_strings.xml",
-                    "position": {
-                        "startLine": 8,
-                        "startColumn": 4,
-                        "startOffset": 1013,
-                        "endColumn": 132,
-                        "endOffset": 1141
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 27,
-                    "startColumn": 4,
-                    "startOffset": 3562,
-                    "endColumn": 171,
-                    "endOffset": 3729
-                },
-                "from": {
-                    "file": "/Users/soorinpark/AndroidStudioProjects/mafiagame/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-mk-rMK/common_strings.xml",
-                    "position": {
-                        "startLine": 24,
-                        "startColumn": 4,
-                        "startOffset": 3606,
-                        "endColumn": 171,
-                        "endOffset": 3773
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 28,
-                    "startColumn": 4,
-                    "startOffset": 3734,
-                    "endColumn": 124,
-                    "endOffset": 3854
-                },
-                "from": {
-                    "file": "/Users/soorinpark/AndroidStudioProjects/mafiagame/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-mk-rMK/common_strings.xml",
-                    "position": {
-                        "startLine": 23,
-                        "startColumn": 4,
-                        "startOffset": 3481,
-                        "endColumn": 124,
-                        "endOffset": 3601
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 29,
-                    "startColumn": 4,
-                    "startOffset": 3859,
-                    "endColumn": 165,
-                    "endOffset": 4020
-                },
-                "from": {
-                    "file": "/Users/soorinpark/AndroidStudioProjects/mafiagame/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-mk-rMK/common_strings.xml",
-                    "position": {
-                        "startLine": 6,
-                        "startColumn": 4,
-                        "startOffset": 679,
-                        "endColumn": 165,
-                        "endOffset": 840
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 30,
-                    "startColumn": 4,
-                    "startOffset": 4025,
-                    "endColumn": 181,
-                    "endOffset": 4202
-                },
-                "from": {
-                    "file": "/Users/soorinpark/AndroidStudioProjects/mafiagame/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-mk-rMK/common_strings.xml",
-                    "position": {
-                        "startLine": 22,
-                        "startColumn": 4,
-                        "startOffset": 3299,
-                        "endColumn": 181,
-                        "endOffset": 3476
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 31,
-                    "startColumn": 4,
-                    "startOffset": 4207,
-                    "endColumn": 119,
-                    "endOffset": 4322
-                },
-                "from": {
-                    "file": "/Users/soorinpark/AndroidStudioProjects/mafiagame/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-mk-rMK/common_strings.xml",
-                    "position": {
-                        "startLine": 21,
-                        "startColumn": 4,
-                        "startOffset": 3179,
-                        "endColumn": 119,
-                        "endOffset": 3294
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 32,
-                    "startColumn": 4,
-                    "startOffset": 4327,
-                    "endColumn": 176,
-                    "endOffset": 4499
-                },
-                "from": {
-                    "file": "/Users/soorinpark/AndroidStudioProjects/mafiagame/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-mk-rMK/common_strings.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 4,
-                        "startOffset": 310,
-                        "endColumn": 176,
-                        "endOffset": 482
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 33,
-                    "startColumn": 4,
-                    "startOffset": 4504,
-                    "endColumn": 139,
-                    "endOffset": 4639
-                },
-                "from": {
-                    "file": "/Users/soorinpark/AndroidStudioProjects/mafiagame/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-mk-rMK/common_strings.xml",
-                    "position": {
-                        "startLine": 3,
-                        "startColumn": 4,
-                        "startOffset": 170,
-                        "endColumn": 139,
-                        "endOffset": 305
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 34,
-                    "startColumn": 4,
-                    "startOffset": 4644,
-                    "endColumn": 173,
-                    "endOffset": 4813
-                },
-                "from": {
-                    "file": "/Users/soorinpark/AndroidStudioProjects/mafiagame/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-mk-rMK/common_strings.xml",
-                    "position": {
-                        "startLine": 32,
-                        "startColumn": 4,
-                        "startOffset": 4897,
-                        "endColumn": 173,
-                        "endOffset": 5066
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 35,
-                    "startColumn": 4,
-                    "startOffset": 4818,
-                    "endColumn": 129,
-                    "endOffset": 4943
-                },
-                "from": {
-                    "file": "/Users/soorinpark/AndroidStudioProjects/mafiagame/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-mk-rMK/common_strings.xml",
-                    "position": {
-                        "startLine": 31,
-                        "startColumn": 4,
-                        "startOffset": 4767,
-                        "endColumn": 129,
-                        "endOffset": 4892
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 36,
-                    "startColumn": 4,
-                    "startOffset": 4948,
-                    "endColumn": 144,
-                    "endOffset": 5088
-                },
-                "from": {
-                    "file": "/Users/soorinpark/AndroidStudioProjects/mafiagame/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-mk-rMK/common_strings.xml",
-                    "position": {
-                        "startLine": 25,
-                        "startColumn": 4,
-                        "startOffset": 3778,
-                        "endColumn": 144,
-                        "endOffset": 3918
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 37,
-                    "startColumn": 4,
-                    "startOffset": 5093,
-                    "endColumn": 247,
-                    "endOffset": 5336
-                },
-                "from": {
-                    "file": "/Users/soorinpark/AndroidStudioProjects/mafiagame/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-mk-rMK/common_strings.xml",
-                    "position": {
-                        "startLine": 27,
-                        "startColumn": 4,
-                        "startOffset": 4049,
-                        "endColumn": 251,
-                        "endOffset": 4296
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 38,
-                    "startColumn": 4,
-                    "startOffset": 5341,
-                    "endColumn": 125,
-                    "endOffset": 5462
-                },
-                "from": {
-                    "file": "/Users/soorinpark/AndroidStudioProjects/mafiagame/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-mk-rMK/common_strings.xml",
-                    "position": {
-                        "startLine": 26,
-                        "startColumn": 4,
-                        "startOffset": 3923,
-                        "endColumn": 125,
-                        "endOffset": 4044
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 39,
-                    "startColumn": 4,
-                    "startOffset": 5467,
-                    "endColumn": 108,
-                    "endOffset": 5571
-                },
-                "from": {
-                    "file": "/Users/soorinpark/AndroidStudioProjects/mafiagame/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-mk-rMK/common_strings.xml",
-                    "position": {
-                        "startLine": 28,
-                        "startColumn": 4,
-                        "startOffset": 4301,
-                        "endColumn": 108,
-                        "endOffset": 4405
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 40,
-                    "startColumn": 4,
-                    "startOffset": 5576,
-                    "endColumn": 196,
-                    "endOffset": 5768
-                },
-                "from": {
-                    "file": "/Users/soorinpark/AndroidStudioProjects/mafiagame/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-mk-rMK/common_strings.xml",
-                    "position": {
-                        "startLine": 17,
-                        "startColumn": 4,
-                        "startOffset": 2430,
-                        "endColumn": 200,
-                        "endOffset": 2626
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 41,
-                    "startColumn": 4,
-                    "startOffset": 5773,
-                    "endColumn": 134,
-                    "endOffset": 5903
-                },
-                "from": {
-                    "file": "/Users/soorinpark/AndroidStudioProjects/mafiagame/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-mk-rMK/common_strings.xml",
-                    "position": {
-                        "startLine": 15,
-                        "startColumn": 4,
-                        "startOffset": 2182,
-                        "endColumn": 134,
-                        "endOffset": 2312
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 42,
-                    "startColumn": 4,
-                    "startOffset": 5908,
-                    "endColumn": 211,
-                    "endOffset": 6115
-                },
-                "from": {
-                    "file": "/Users/soorinpark/AndroidStudioProjects/mafiagame/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-mk-rMK/common_strings.xml",
-                    "position": {
-                        "startLine": 20,
-                        "startColumn": 4,
-                        "startOffset": 2963,
-                        "endColumn": 215,
-                        "endOffset": 3174
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 43,
-                    "startColumn": 4,
-                    "startOffset": 6120,
-                    "endColumn": 136,
-                    "endOffset": 6252
-                },
-                "from": {
-                    "file": "/Users/soorinpark/AndroidStudioProjects/mafiagame/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-mk-rMK/common_strings.xml",
-                    "position": {
-                        "startLine": 19,
-                        "startColumn": 4,
-                        "startOffset": 2826,
-                        "endColumn": 136,
-                        "endOffset": 2958
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 44,
-                    "startColumn": 4,
-                    "startOffset": 6257,
-                    "endColumn": 97,
-                    "endOffset": 6350
-                },
-                "from": {
-                    "file": "/Users/soorinpark/AndroidStudioProjects/mafiagame/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-mk-rMK/common_strings.xml",
-                    "position": {
-                        "startLine": 29,
-                        "startColumn": 4,
-                        "startOffset": 4410,
-                        "endColumn": 97,
-                        "endOffset": 4503
                     }
                 }
             }
