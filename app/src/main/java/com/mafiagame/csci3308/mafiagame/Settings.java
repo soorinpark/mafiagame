@@ -66,10 +66,10 @@ public class Settings extends Activity {
 
             //check the current state before we display the screen
             if(music_switch.isChecked()){
-                music_label.setText("Switch is currently ON");
+                music_label.setText("Background Music");
             }
             else {
-                music_label.setText("Switch is currently OFF");
+                music_label.setText("Background Music");
             }
         }
 
