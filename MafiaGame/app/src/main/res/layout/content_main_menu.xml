@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@mipmap/bak"
+    android:id="@+id/layout">
+
+    <!--<ImageView-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="match_parent"-->
+        <!--android:background=""-->
+        <!--android:layout_gravity="center"-->
+        <!--/>-->
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:weightSum="1">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="Mafia Game"
+            android:id="@+id/textView2"
+            android:layout_gravity="center_horizontal"
+            android:layout_weight="0.05"
+            android:textSize="50dp"
+            android:textColor="#FFFFFF"
+            android:layout_marginTop="15dp"/>
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_weight="0.84"
+            android:weightSum="1">
+
+            <Button
+                android:id="@+id/newBut"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="100dp"
+                android:text="New Game"
+                android:textSize="30dp" />
+
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layout_weight="0.18">
+
+            <Button
+                android:id="@+id/setBut"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Setting"
+                android:textSize="30dp" />
+
+            <Button
+                android:id="@+id/backBut"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Background"
+                android:textSize="30dp"/>
+
+            <Button
+                android:id="@+id/howBut"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="How To Play"
+                android:textSize="30dp"/>
+
+
+        </LinearLayout>
+
+
+    </LinearLayout>
+
+
+</FrameLayout>
