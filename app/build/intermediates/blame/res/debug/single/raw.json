@@ -1,14 +1,14 @@
 [
     {
+        "merged": "C:\\home\\cowens\\Documents\\game\\mafiagame\\app\\build\\intermediates\\res\\merged\\debug\\raw\\music.mp3",
+        "source": "C:\\home\\cowens\\Documents\\game\\mafiagame\\app\\src\\main\\res\\raw\\music.mp3"
+    },
+    {
         "merged": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\res\\merged\\debug\\raw\\music.mp3",
         "source": "C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\src\\main\\res\\raw\\music.mp3"
     },
     {
         "merged": "C:\\Users\\soorinpark\\AndroidStudioProjects\\mafiagame\\app\\build\\intermediates\\res\\merged\\debug\\raw\\music.mp3",
         "source": "C:\\Users\\soorinpark\\AndroidStudioProjects\\mafiagame\\app\\src\\main\\res\\raw\\music.mp3"
-    },
-    {
-        "merged": "C:\\home\\cowens\\Documents\\game\\mafiagame\\app\\build\\intermediates\\res\\merged\\debug\\raw\\music.mp3",
-        "source": "C:\\home\\cowens\\Documents\\game\\mafiagame\\app\\src\\main\\res\\raw\\music.mp3"
     }
 ]

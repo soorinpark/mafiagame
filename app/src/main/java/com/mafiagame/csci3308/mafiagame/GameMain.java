@@ -318,9 +318,9 @@ public class GameMain extends Activity {
             //imageView1.setId(2);
             imageView2.setImageResource(R.drawable.player_you);
             params2.setMargins(0, 0, 0, 0);
-            params2.width = 200;
+            params2.width = 150;
             params2.addRule(RelativeLayout.ALIGN_PARENT_BOTTOM);
-            params2.addRule(RelativeLayout.CENTER_HORIZONTAL);
+            params2.addRule(RelativeLayout.RIGHT_OF, R.id.playerIcon);
             imageView2.setLayoutParams(params2);
 
 
@@ -424,9 +424,9 @@ public class GameMain extends Activity {
             ImageView imageView2 = new ImageView(this);
             imageView2.setImageResource(R.drawable.player_you);
             params2.setMargins(0, 0, 0, 0);
-            params2.width = 200;
+            params2.width = 150;
             params2.addRule(RelativeLayout.ALIGN_PARENT_BOTTOM);
-            params2.addRule(RelativeLayout.CENTER_HORIZONTAL);
+            params2.addRule(RelativeLayout.RIGHT_OF, R.id.playerIcon);
             imageView2.setLayoutParams(params2);
 
 
