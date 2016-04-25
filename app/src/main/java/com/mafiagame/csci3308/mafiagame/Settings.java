@@ -22,23 +22,17 @@ import com.google.android.gms.common.api.GoogleApiClient;
 
 public class Settings extends Activity {
 
-        private TextView music_label;
-        private Switch music_switch;
-        MediaPlayer mafiaMusic; //declaring vars for the switches and music file
-
-
-        @Override
-        protected void onPause() {
-            super.onPause();
-            mafiaMusic.release(); //stops music upon release (or when you leave the app
-        }
+        public TextView music_label;
+        public Switch music_switch;
+        private int bckMusicCheck = MainActivity.backgroundMusicCheck;
+        //references global music var to private var to use in this activity
 
         @Override
         protected void onCreate(Bundle savedInstanceState) {
             super.onCreate(savedInstanceState);
             setContentView(R.layout.settings);
 
-            mafiaMusic = MediaPlayer.create(this, R.raw.music); //this is assigning our music var the mafia music -alex
+            //mafiaMusic = MediaPlayer.create(this, R.raw.music); //this is assigning our music var the mafia music -alex
 
             music_label = (TextView) findViewById(R.id.music_label);
             music_switch = (Switch) findViewById(R.id.music_switch);
@@ -52,13 +46,17 @@ public class Settings extends Activity {
                 public void onCheckedChanged(CompoundButton buttonView,
                                              boolean isChecked) {
 
-                    if(isChecked){//if switch is turned on
-                        //music_label.setText("Switch is currently ON");
-                        mafiaMusic.start(); //play music
+                    if (isChecked) {//if switch is turned on
+                        music_label.setText("Background Music (On)");
+                        bckMusicCheck = 0; //global var to control music
+                        MainActivity.mafiaMusic.start(); //resume music
 
-                    }else{
-                        //music_label.setText("Switch is currently OFF");
-                        mafiaMusic.stop(); //stop the music
+                    } else {
+                        music_label.setText("Background Music (Off)");
+                        bckMusicCheck = 1; //global var to control music
+                        MainActivity.mafiaMusic.pause();
+                        //stop the music
+
                     }
 
                 }
@@ -66,12 +64,17 @@ public class Settings extends Activity {
 
             //check the current state before we display the screen
             if(music_switch.isChecked()){
-                music_label.setText("Background Music");
+                music_label.setText("Background Music (On)");
             }
             else {
-                music_label.setText("Background Music");
+                music_label.setText("Background Music (Off)");
             }
         }
+
+
+
+
+
 
 //        @Override
 //        public boolean onCreateOptionsMenu(Menu menu) {
@@ -80,4 +83,4 @@ public class Settings extends Activity {
 //            return true;
 //        }
 
-    }
+}

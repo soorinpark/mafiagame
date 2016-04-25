@@ -3,6 +3,7 @@ package com.mafiagame.csci3308.mafiagame;
 import android.app.Activity;
 import android.content.Context;
 import android.content.Intent;
+import android.media.MediaPlayer;
 import android.os.Bundle;
 import android.widget.Button;
 import android.view.View;
@@ -14,13 +15,25 @@ public class MainActivity extends Activity {
     Button settings_button;
     Button htp_button;
     Button about_button;
+    public static MediaPlayer mafiaMusic;
+    public static int backgroundMusicCheck = 0;
 
     @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         addListenerOnButton();
+
+        if (backgroundMusicCheck == 0) {
+            mafiaMusic = MediaPlayer.create(this, R.raw.music);
+            mafiaMusic.setLooping(true);
+            mafiaMusic.start();
+        }
+
+
     }
+
+
 
     public void addListenerOnButton() {
 
