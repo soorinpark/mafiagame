@@ -24,6 +24,30 @@
         ]
     },
     {
+        "outputFile": "C:\\home\\cowens\\Documents\\game\\mafiagame\\app\\build\\intermediates\\res\\merged\\debug\\values-w820dp-v13\\values-w820dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "C:\\home\\cowens\\Documents\\game\\mafiagame\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 291,
+                        "endColumn": 57,
+                        "endOffset": 344
+                    }
+                }
+            }
+        ]
+    },
+    {
         "outputFile": "C:\\home\\cowens\\Documents\\game\\mafiagame\\C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\res\\merged\\debug\\values-w820dp-v13\\values-w820dp-v13.xml",
         "map": [
             {
@@ -72,7 +96,7 @@
         ]
     },
     {
-        "outputFile": "C:\\home\\cowens\\Documents\\game\\mafiagame\\app\\build\\intermediates\\res\\merged\\debug\\values-w820dp-v13\\values-w820dp-v13.xml",
+        "outputFile": "C:\\Users\\vader\\Desktop\\CSCI3308\\mafiagame\\app\\build\\intermediates\\res\\merged\\debug\\values-w820dp-v13\\values-w820dp-v13.xml",
         "map": [
             {
                 "to": {
@@ -83,13 +107,13 @@
                     "endOffset": 108
                 },
                 "from": {
-                    "file": "C:\\home\\cowens\\Documents\\game\\mafiagame\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "file": "C:\\Users\\vader\\Desktop\\CSCI3308\\mafiagame\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
-                        "startOffset": 291,
+                        "startOffset": 295,
                         "endColumn": 57,
-                        "endOffset": 344
+                        "endOffset": 348
                     }
                 }
             }

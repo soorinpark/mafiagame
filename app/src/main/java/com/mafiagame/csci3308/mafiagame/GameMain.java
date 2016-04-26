@@ -29,24 +29,29 @@ import android.view.ViewGroup.LayoutParams;
 import android.view.Gravity;
 import android.widget.TextView;
 
+/**
+ * This is the main Class of MafiaGame.It deals with the game logic.
+ * @author Soo Park
+ */
 public class GameMain extends Activity {
-
 
     List<String> playerIcons = new ArrayList<String>();
     int cycleNum = 0;
 
-
-
-
-    @Override
+    /**
+     * This function can be called only once. set the view to the game_main layout.
+     * It initialize the game and setup the role for every member.
+     * @param savedInstanceState
+     */
     public void onCreate(Bundle savedInstanceState) {
 
         super.onCreate(savedInstanceState);
         setContentView(R.layout.game_main);
 
 
-
-        //role setup
+        /**
+         * role setup
+         */
         Bundle b = this.getIntent().getExtras();
         String numPlayers = b.getString("num_players");
         String yourRole = b.getString("your_role");
