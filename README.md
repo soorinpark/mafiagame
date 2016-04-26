@@ -13,6 +13,20 @@ Title:
 
 	Mafia Game
 
+Repo Organizion:
+	
+	This repo is organzied just as an Android Studio App project. With a few extra files on the root necessary to our project
+	(Project Trackers, Presentation, etc)
+	
+Building/Running/Deployment: 
+	
+	First fork this repository and clone it locally. Then if the user does not have access to an android phone, the app can be run
+	on the emulator which can be accessed through Android Studio. Open the Mafia Game project in Android Studio by navigating to
+	the cloned local directory. Then go to Tools -> Android -> AVD Manager-> Create Virtual Device. From there the user can choose
+	a device that he or she wants to run the app on. Once a device has been created, click the “Run App” button to select a
+	device. Click the button next to ”Launch Emulator” from where the user can select the device that he or she wants to run the
+	app on. Once a device has been chosen, click OK and an emulator will be launched where the app can be run on.  
+
 Description:
 
 	Android app created for the popular party game Mafia with a secret twist.
