@@ -20,6 +20,10 @@ import com.google.android.gms.appindexing.Action;
 import com.google.android.gms.appindexing.AppIndex;
 import com.google.android.gms.common.api.GoogleApiClient;
 
+/**
+ * This is the setting activity. It sets up the background music and the Notification Sounds.
+ * @author Soo Park
+ */
 public class Settings extends Activity {
 
         public TextView music_label;
@@ -27,7 +31,11 @@ public class Settings extends Activity {
         private int bckMusicCheck = MainActivity.backgroundMusicCheck;
         //references global music var to private var to use in this activity
 
-        @Override
+    /**
+     * This function can be called only once. Setting up the view to the new_game layout.
+     * This function also set up the background music.
+     * @param savedInstanceState
+     */
         protected void onCreate(Bundle savedInstanceState) {
             super.onCreate(savedInstanceState);
             setContentView(R.layout.settings);

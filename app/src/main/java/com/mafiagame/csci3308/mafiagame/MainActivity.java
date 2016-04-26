@@ -9,6 +9,10 @@ import android.widget.Button;
 import android.view.View;
 import android.view.View.OnClickListener;
 
+/**
+ * This is the mainmenu activity. It deals with all the buttons and changes from activity to another.
+ * @author Camille Owens, Soo Park, Jake Mitchell, Alex Sheehan
+ */
 public class MainActivity extends Activity {
 
     Button new_game_button;
@@ -18,7 +22,10 @@ public class MainActivity extends Activity {
     public static MediaPlayer mafiaMusic;
     public static int backgroundMusicCheck = 0;
 
-    @Override
+    /**
+     * This function can be called only once. set the view to the how_to_play layout
+     * @param savedInstanceState
+     */
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
@@ -34,7 +41,9 @@ public class MainActivity extends Activity {
     }
 
 
-
+    /**
+     * This is a listener function. It deals with the function of all the buttons. changing the Activity from MainMenu to others.
+     */
     public void addListenerOnButton() {
 
         final Context context = this;

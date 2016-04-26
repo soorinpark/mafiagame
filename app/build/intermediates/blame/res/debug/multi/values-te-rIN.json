@@ -1,6 +1,10 @@
 [
     {
+<<<<<<< HEAD
         "outputFile": "C:\\home\\cowens\\Documents\\game\\mafiagame\\app\\build\\intermediates\\res\\merged\\debug\\values-te-rIN\\values-te-rIN.xml",
+=======
+        "outputFile": "C:\\Users\\vader\\Desktop\\CSCI3308\\mafiagame\\app\\build\\intermediates\\res\\merged\\debug\\values-te-rIN\\values-te-rIN.xml",
+>>>>>>> QI_branch
         "map": [
             {
                 "to": {
@@ -11,7 +15,11 @@
                     "endOffset": 214
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\home\\cowens\\Documents\\game\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-te-rIN\\values.xml",
+=======
+                    "file": "C:\\Users\\vader\\Desktop\\CSCI3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-te-rIN\\values.xml",
+>>>>>>> QI_branch
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -30,7 +38,11 @@
                     "endOffset": 322
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\home\\cowens\\Documents\\game\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-te-rIN\\values.xml",
+=======
+                    "file": "C:\\Users\\vader\\Desktop\\CSCI3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-te-rIN\\values.xml",
+>>>>>>> QI_branch
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -49,7 +61,11 @@
                     "endOffset": 445
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\home\\cowens\\Documents\\game\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-te-rIN\\values.xml",
+=======
+                    "file": "C:\\Users\\vader\\Desktop\\CSCI3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-te-rIN\\values.xml",
+>>>>>>> QI_branch
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -68,7 +84,11 @@
                     "endOffset": 554
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\home\\cowens\\Documents\\game\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-te-rIN\\values.xml",
+=======
+                    "file": "C:\\Users\\vader\\Desktop\\CSCI3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-te-rIN\\values.xml",
+>>>>>>> QI_branch
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -87,7 +107,11 @@
                     "endOffset": 665
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\home\\cowens\\Documents\\game\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-te-rIN\\values.xml",
+=======
+                    "file": "C:\\Users\\vader\\Desktop\\CSCI3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-te-rIN\\values.xml",
+>>>>>>> QI_branch
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -106,7 +130,11 @@
                     "endOffset": 755
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\home\\cowens\\Documents\\game\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-te-rIN\\values.xml",
+=======
+                    "file": "C:\\Users\\vader\\Desktop\\CSCI3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-te-rIN\\values.xml",
+>>>>>>> QI_branch
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -125,7 +153,11 @@
                     "endOffset": 860
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\home\\cowens\\Documents\\game\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-te-rIN\\values.xml",
+=======
+                    "file": "C:\\Users\\vader\\Desktop\\CSCI3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-te-rIN\\values.xml",
+>>>>>>> QI_branch
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -144,7 +176,11 @@
                     "endOffset": 985
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\home\\cowens\\Documents\\game\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-te-rIN\\values.xml",
+=======
+                    "file": "C:\\Users\\vader\\Desktop\\CSCI3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-te-rIN\\values.xml",
+>>>>>>> QI_branch
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
@@ -163,7 +199,11 @@
                     "endOffset": 1098
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\home\\cowens\\Documents\\game\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-te-rIN\\values.xml",
+=======
+                    "file": "C:\\Users\\vader\\Desktop\\CSCI3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-te-rIN\\values.xml",
+>>>>>>> QI_branch
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
@@ -182,7 +222,11 @@
                     "endOffset": 1206
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\home\\cowens\\Documents\\game\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-te-rIN\\values.xml",
+=======
+                    "file": "C:\\Users\\vader\\Desktop\\CSCI3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-te-rIN\\values.xml",
+>>>>>>> QI_branch
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
@@ -201,7 +245,11 @@
                     "endOffset": 1306
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\home\\cowens\\Documents\\game\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-te-rIN\\values.xml",
+=======
+                    "file": "C:\\Users\\vader\\Desktop\\CSCI3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-te-rIN\\values.xml",
+>>>>>>> QI_branch
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
@@ -220,7 +268,11 @@
                     "endOffset": 1417
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\home\\cowens\\Documents\\game\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-te-rIN\\values.xml",
+=======
+                    "file": "C:\\Users\\vader\\Desktop\\CSCI3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-te-rIN\\values.xml",
+>>>>>>> QI_branch
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
@@ -239,7 +291,11 @@
                     "endOffset": 1519
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\home\\cowens\\Documents\\game\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-te-rIN\\values.xml",
+=======
+                    "file": "C:\\Users\\vader\\Desktop\\CSCI3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-te-rIN\\values.xml",
+>>>>>>> QI_branch
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
@@ -258,7 +314,11 @@
                     "endOffset": 1636
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\home\\cowens\\Documents\\game\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-te-rIN\\values.xml",
+=======
+                    "file": "C:\\Users\\vader\\Desktop\\CSCI3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-te-rIN\\values.xml",
+>>>>>>> QI_branch
                     "position": {
                         "startLine": 16,
                         "startColumn": 4,
@@ -277,7 +337,11 @@
                     "endOffset": 1763
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\home\\cowens\\Documents\\game\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-te-rIN\\values.xml",
+=======
+                    "file": "C:\\Users\\vader\\Desktop\\CSCI3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-te-rIN\\values.xml",
+>>>>>>> QI_branch
                     "position": {
                         "startLine": 17,
                         "startColumn": 4,
@@ -296,7 +360,11 @@
                     "endOffset": 1953
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\home\\cowens\\Documents\\game\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-te-rIN\\common_strings.xml",
+=======
+                    "file": "C:\\Users\\vader\\Desktop\\CSCI3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-te-rIN\\common_strings.xml",
+>>>>>>> QI_branch
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -315,7 +383,11 @@
                     "endOffset": 2137
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\home\\cowens\\Documents\\game\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-te-rIN\\common_strings.xml",
+=======
+                    "file": "C:\\Users\\vader\\Desktop\\CSCI3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-te-rIN\\common_strings.xml",
+>>>>>>> QI_branch
                     "position": {
                         "startLine": 18,
                         "startColumn": 4,
@@ -334,7 +406,11 @@
                     "endOffset": 2255
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\home\\cowens\\Documents\\game\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-te-rIN\\common_strings.xml",
+=======
+                    "file": "C:\\Users\\vader\\Desktop\\CSCI3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-te-rIN\\common_strings.xml",
+>>>>>>> QI_branch
                     "position": {
                         "startLine": 16,
                         "startColumn": 4,
@@ -353,7 +429,11 @@
                     "endOffset": 2517
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\home\\cowens\\Documents\\game\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-te-rIN\\common_strings.xml",
+=======
+                    "file": "C:\\Users\\vader\\Desktop\\CSCI3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-te-rIN\\common_strings.xml",
+>>>>>>> QI_branch
                     "position": {
                         "startLine": 30,
                         "startColumn": 4,
@@ -372,7 +452,11 @@
                     "endOffset": 2648
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\home\\cowens\\Documents\\game\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-te-rIN\\common_strings.xml",
+=======
+                    "file": "C:\\Users\\vader\\Desktop\\CSCI3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-te-rIN\\common_strings.xml",
+>>>>>>> QI_branch
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
@@ -391,7 +475,11 @@
                     "endOffset": 2834
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\home\\cowens\\Documents\\game\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-te-rIN\\common_strings.xml",
+=======
+                    "file": "C:\\Users\\vader\\Desktop\\CSCI3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-te-rIN\\common_strings.xml",
+>>>>>>> QI_branch
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
@@ -410,7 +498,11 @@
                     "endOffset": 2963
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\home\\cowens\\Documents\\game\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-te-rIN\\common_strings.xml",
+=======
+                    "file": "C:\\Users\\vader\\Desktop\\CSCI3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-te-rIN\\common_strings.xml",
+>>>>>>> QI_branch
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
@@ -429,7 +521,11 @@
                     "endOffset": 3143
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\home\\cowens\\Documents\\game\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-te-rIN\\common_strings.xml",
+=======
+                    "file": "C:\\Users\\vader\\Desktop\\CSCI3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-te-rIN\\common_strings.xml",
+>>>>>>> QI_branch
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -448,7 +544,11 @@
                     "endOffset": 3271
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\home\\cowens\\Documents\\game\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-te-rIN\\common_strings.xml",
+=======
+                    "file": "C:\\Users\\vader\\Desktop\\CSCI3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-te-rIN\\common_strings.xml",
+>>>>>>> QI_branch
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
@@ -467,7 +567,11 @@
                     "endOffset": 3472
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\home\\cowens\\Documents\\game\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-te-rIN\\common_strings.xml",
+=======
+                    "file": "C:\\Users\\vader\\Desktop\\CSCI3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-te-rIN\\common_strings.xml",
+>>>>>>> QI_branch
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -486,7 +590,11 @@
                     "endOffset": 3677
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\home\\cowens\\Documents\\game\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-te-rIN\\common_strings.xml",
+=======
+                    "file": "C:\\Users\\vader\\Desktop\\CSCI3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-te-rIN\\common_strings.xml",
+>>>>>>> QI_branch
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
@@ -505,7 +613,11 @@
                     "endOffset": 3802
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\home\\cowens\\Documents\\game\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-te-rIN\\common_strings.xml",
+=======
+                    "file": "C:\\Users\\vader\\Desktop\\CSCI3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-te-rIN\\common_strings.xml",
+>>>>>>> QI_branch
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -524,7 +636,11 @@
                     "endOffset": 3972
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\home\\cowens\\Documents\\game\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-te-rIN\\common_strings.xml",
+=======
+                    "file": "C:\\Users\\vader\\Desktop\\CSCI3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-te-rIN\\common_strings.xml",
+>>>>>>> QI_branch
                     "position": {
                         "startLine": 24,
                         "startColumn": 4,
@@ -543,7 +659,11 @@
                     "endOffset": 4093
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\home\\cowens\\Documents\\game\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-te-rIN\\common_strings.xml",
+=======
+                    "file": "C:\\Users\\vader\\Desktop\\CSCI3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-te-rIN\\common_strings.xml",
+>>>>>>> QI_branch
                     "position": {
                         "startLine": 23,
                         "startColumn": 4,
@@ -562,7 +682,11 @@
                     "endOffset": 4252
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\home\\cowens\\Documents\\game\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-te-rIN\\common_strings.xml",
+=======
+                    "file": "C:\\Users\\vader\\Desktop\\CSCI3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-te-rIN\\common_strings.xml",
+>>>>>>> QI_branch
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -581,7 +705,11 @@
                     "endOffset": 4415
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\home\\cowens\\Documents\\game\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-te-rIN\\common_strings.xml",
+=======
+                    "file": "C:\\Users\\vader\\Desktop\\CSCI3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-te-rIN\\common_strings.xml",
+>>>>>>> QI_branch
                     "position": {
                         "startLine": 22,
                         "startColumn": 4,
@@ -600,7 +728,11 @@
                     "endOffset": 4537
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\home\\cowens\\Documents\\game\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-te-rIN\\common_strings.xml",
+=======
+                    "file": "C:\\Users\\vader\\Desktop\\CSCI3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-te-rIN\\common_strings.xml",
+>>>>>>> QI_branch
                     "position": {
                         "startLine": 21,
                         "startColumn": 4,
@@ -619,7 +751,11 @@
                     "endOffset": 4710
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\home\\cowens\\Documents\\game\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-te-rIN\\common_strings.xml",
+=======
+                    "file": "C:\\Users\\vader\\Desktop\\CSCI3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-te-rIN\\common_strings.xml",
+>>>>>>> QI_branch
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -638,7 +774,11 @@
                     "endOffset": 4838
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\home\\cowens\\Documents\\game\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-te-rIN\\common_strings.xml",
+=======
+                    "file": "C:\\Users\\vader\\Desktop\\CSCI3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-te-rIN\\common_strings.xml",
+>>>>>>> QI_branch
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -657,7 +797,11 @@
                     "endOffset": 5014
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\home\\cowens\\Documents\\game\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-te-rIN\\common_strings.xml",
+=======
+                    "file": "C:\\Users\\vader\\Desktop\\CSCI3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-te-rIN\\common_strings.xml",
+>>>>>>> QI_branch
                     "position": {
                         "startLine": 32,
                         "startColumn": 4,
@@ -676,7 +820,11 @@
                     "endOffset": 5140
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\home\\cowens\\Documents\\game\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-te-rIN\\common_strings.xml",
+=======
+                    "file": "C:\\Users\\vader\\Desktop\\CSCI3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-te-rIN\\common_strings.xml",
+>>>>>>> QI_branch
                     "position": {
                         "startLine": 31,
                         "startColumn": 4,
@@ -695,7 +843,11 @@
                     "endOffset": 5274
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\home\\cowens\\Documents\\game\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-te-rIN\\common_strings.xml",
+=======
+                    "file": "C:\\Users\\vader\\Desktop\\CSCI3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-te-rIN\\common_strings.xml",
+>>>>>>> QI_branch
                     "position": {
                         "startLine": 25,
                         "startColumn": 4,
@@ -714,7 +866,11 @@
                     "endOffset": 5505
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\home\\cowens\\Documents\\game\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-te-rIN\\common_strings.xml",
+=======
+                    "file": "C:\\Users\\vader\\Desktop\\CSCI3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-te-rIN\\common_strings.xml",
+>>>>>>> QI_branch
                     "position": {
                         "startLine": 27,
                         "startColumn": 4,
@@ -733,7 +889,11 @@
                     "endOffset": 5627
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\home\\cowens\\Documents\\game\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-te-rIN\\common_strings.xml",
+=======
+                    "file": "C:\\Users\\vader\\Desktop\\CSCI3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-te-rIN\\common_strings.xml",
+>>>>>>> QI_branch
                     "position": {
                         "startLine": 26,
                         "startColumn": 4,
@@ -752,7 +912,11 @@
                     "endOffset": 5737
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\home\\cowens\\Documents\\game\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-te-rIN\\common_strings.xml",
+=======
+                    "file": "C:\\Users\\vader\\Desktop\\CSCI3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-te-rIN\\common_strings.xml",
+>>>>>>> QI_branch
                     "position": {
                         "startLine": 28,
                         "startColumn": 4,
@@ -771,7 +935,11 @@
                     "endOffset": 5921
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\home\\cowens\\Documents\\game\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-te-rIN\\common_strings.xml",
+=======
+                    "file": "C:\\Users\\vader\\Desktop\\CSCI3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-te-rIN\\common_strings.xml",
+>>>>>>> QI_branch
                     "position": {
                         "startLine": 17,
                         "startColumn": 4,
@@ -790,7 +958,11 @@
                     "endOffset": 6051
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\home\\cowens\\Documents\\game\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-te-rIN\\common_strings.xml",
+=======
+                    "file": "C:\\Users\\vader\\Desktop\\CSCI3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-te-rIN\\common_strings.xml",
+>>>>>>> QI_branch
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
@@ -809,7 +981,11 @@
                     "endOffset": 6261
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\home\\cowens\\Documents\\game\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-te-rIN\\common_strings.xml",
+=======
+                    "file": "C:\\Users\\vader\\Desktop\\CSCI3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-te-rIN\\common_strings.xml",
+>>>>>>> QI_branch
                     "position": {
                         "startLine": 20,
                         "startColumn": 4,
@@ -828,7 +1004,11 @@
                     "endOffset": 6399
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\home\\cowens\\Documents\\game\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-te-rIN\\common_strings.xml",
+=======
+                    "file": "C:\\Users\\vader\\Desktop\\CSCI3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-te-rIN\\common_strings.xml",
+>>>>>>> QI_branch
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,
@@ -847,7 +1027,11 @@
                     "endOffset": 6493
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\home\\cowens\\Documents\\game\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-te-rIN\\common_strings.xml",
+=======
+                    "file": "C:\\Users\\vader\\Desktop\\CSCI3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-te-rIN\\common_strings.xml",
+>>>>>>> QI_branch
                     "position": {
                         "startLine": 29,
                         "startColumn": 4,
@@ -860,7 +1044,11 @@
         ]
     },
     {
+<<<<<<< HEAD
         "outputFile": "C:\\Users\\soorinpark\\AndroidStudioProjects\\mafiagame\\app\\build\\intermediates\\res\\merged\\debug\\values-te-rIN\\values-te-rIN.xml",
+=======
+        "outputFile": "C:\\home\\cowens\\Documents\\game\\mafiagame\\app\\build\\intermediates\\res\\merged\\debug\\values-te-rIN\\values-te-rIN.xml",
+>>>>>>> QI_branch
         "map": [
             {
                 "to": {
@@ -871,7 +1059,11 @@
                     "endOffset": 214
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\soorinpark\\AndroidStudioProjects\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-te-rIN\\values.xml",
+=======
+                    "file": "C:\\home\\cowens\\Documents\\game\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-te-rIN\\values.xml",
+>>>>>>> QI_branch
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -890,7 +1082,11 @@
                     "endOffset": 322
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\soorinpark\\AndroidStudioProjects\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-te-rIN\\values.xml",
+=======
+                    "file": "C:\\home\\cowens\\Documents\\game\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-te-rIN\\values.xml",
+>>>>>>> QI_branch
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -909,7 +1105,11 @@
                     "endOffset": 445
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\soorinpark\\AndroidStudioProjects\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-te-rIN\\values.xml",
+=======
+                    "file": "C:\\home\\cowens\\Documents\\game\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-te-rIN\\values.xml",
+>>>>>>> QI_branch
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -928,7 +1128,11 @@
                     "endOffset": 554
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\soorinpark\\AndroidStudioProjects\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-te-rIN\\values.xml",
+=======
+                    "file": "C:\\home\\cowens\\Documents\\game\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-te-rIN\\values.xml",
+>>>>>>> QI_branch
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -942,6 +1146,1084 @@
                 "to": {
                     "startLine": 6,
                     "startColumn": 4,
+                    "startOffset": 559,
+                    "endColumn": 110,
+                    "endOffset": 665
+                },
+                "from": {
+<<<<<<< HEAD
+                    "file": "C:\\Users\\soorinpark\\AndroidStudioProjects\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-te-rIN\\values.xml",
+=======
+                    "file": "C:\\home\\cowens\\Documents\\game\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-te-rIN\\values.xml",
+>>>>>>> QI_branch
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 510,
+                        "endColumn": 110,
+                        "endOffset": 616
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 670,
+                    "endColumn": 89,
+                    "endOffset": 755
+                },
+                "from": {
+<<<<<<< HEAD
+                    "file": "C:\\Users\\soorinpark\\AndroidStudioProjects\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-te-rIN\\values.xml",
+=======
+                    "file": "C:\\home\\cowens\\Documents\\game\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-te-rIN\\values.xml",
+>>>>>>> QI_branch
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 621,
+                        "endColumn": 89,
+                        "endOffset": 706
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 760,
+                    "endColumn": 104,
+                    "endOffset": 860
+                },
+                "from": {
+<<<<<<< HEAD
+                    "file": "C:\\Users\\soorinpark\\AndroidStudioProjects\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-te-rIN\\values.xml",
+=======
+                    "file": "C:\\home\\cowens\\Documents\\game\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-te-rIN\\values.xml",
+>>>>>>> QI_branch
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 711,
+                        "endColumn": 104,
+                        "endOffset": 811
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 865,
+                    "endColumn": 124,
+                    "endOffset": 985
+                },
+                "from": {
+<<<<<<< HEAD
+                    "file": "C:\\Users\\soorinpark\\AndroidStudioProjects\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-te-rIN\\values.xml",
+=======
+                    "file": "C:\\home\\cowens\\Documents\\game\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-te-rIN\\values.xml",
+>>>>>>> QI_branch
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 816,
+                        "endColumn": 124,
+                        "endOffset": 936
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 990,
+                    "endColumn": 112,
+                    "endOffset": 1098
+                },
+                "from": {
+<<<<<<< HEAD
+                    "file": "C:\\Users\\soorinpark\\AndroidStudioProjects\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-te-rIN\\values.xml",
+=======
+                    "file": "C:\\home\\cowens\\Documents\\game\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-te-rIN\\values.xml",
+>>>>>>> QI_branch
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 941,
+                        "endColumn": 112,
+                        "endOffset": 1049
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 1103,
+                    "endColumn": 107,
+                    "endOffset": 1206
+                },
+                "from": {
+<<<<<<< HEAD
+                    "file": "C:\\Users\\soorinpark\\AndroidStudioProjects\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-te-rIN\\values.xml",
+=======
+                    "file": "C:\\home\\cowens\\Documents\\game\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-te-rIN\\values.xml",
+>>>>>>> QI_branch
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1054,
+                        "endColumn": 107,
+                        "endOffset": 1157
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1211,
+                    "endColumn": 99,
+                    "endOffset": 1306
+                },
+                "from": {
+<<<<<<< HEAD
+                    "file": "C:\\Users\\soorinpark\\AndroidStudioProjects\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-te-rIN\\values.xml",
+=======
+                    "file": "C:\\home\\cowens\\Documents\\game\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-te-rIN\\values.xml",
+>>>>>>> QI_branch
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1162,
+                        "endColumn": 99,
+                        "endOffset": 1257
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1311,
+                    "endColumn": 110,
+                    "endOffset": 1417
+                },
+                "from": {
+<<<<<<< HEAD
+                    "file": "C:\\Users\\soorinpark\\AndroidStudioProjects\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-te-rIN\\values.xml",
+=======
+                    "file": "C:\\home\\cowens\\Documents\\game\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-te-rIN\\values.xml",
+>>>>>>> QI_branch
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1262,
+                        "endColumn": 110,
+                        "endOffset": 1368
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1422,
+                    "endColumn": 101,
+                    "endOffset": 1519
+                },
+                "from": {
+<<<<<<< HEAD
+                    "file": "C:\\Users\\soorinpark\\AndroidStudioProjects\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-te-rIN\\values.xml",
+=======
+                    "file": "C:\\home\\cowens\\Documents\\game\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-te-rIN\\values.xml",
+>>>>>>> QI_branch
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1373,
+                        "endColumn": 101,
+                        "endOffset": 1470
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1524,
+                    "endColumn": 116,
+                    "endOffset": 1636
+                },
+                "from": {
+<<<<<<< HEAD
+                    "file": "C:\\Users\\soorinpark\\AndroidStudioProjects\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-te-rIN\\values.xml",
+=======
+                    "file": "C:\\home\\cowens\\Documents\\game\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-te-rIN\\values.xml",
+>>>>>>> QI_branch
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1475,
+                        "endColumn": 116,
+                        "endOffset": 1587
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1641,
+                    "endColumn": 126,
+                    "endOffset": 1763
+                },
+                "from": {
+<<<<<<< HEAD
+                    "file": "C:\\Users\\soorinpark\\AndroidStudioProjects\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-te-rIN\\values.xml",
+=======
+                    "file": "C:\\home\\cowens\\Documents\\game\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-te-rIN\\values.xml",
+>>>>>>> QI_branch
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1592,
+                        "endColumn": 126,
+                        "endOffset": 1714
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1768,
+                    "endColumn": 189,
+                    "endOffset": 1953
+                },
+                "from": {
+<<<<<<< HEAD
+                    "file": "C:\\Users\\soorinpark\\AndroidStudioProjects\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-te-rIN\\common_strings.xml",
+=======
+                    "file": "C:\\home\\cowens\\Documents\\game\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-te-rIN\\common_strings.xml",
+>>>>>>> QI_branch
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 471,
+                        "endColumn": 193,
+                        "endOffset": 660
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1958,
+                    "endColumn": 183,
+                    "endOffset": 2137
+                },
+                "from": {
+<<<<<<< HEAD
+                    "file": "C:\\Users\\soorinpark\\AndroidStudioProjects\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-te-rIN\\common_strings.xml",
+=======
+                    "file": "C:\\home\\cowens\\Documents\\game\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-te-rIN\\common_strings.xml",
+>>>>>>> QI_branch
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 2561,
+                        "endColumn": 187,
+                        "endOffset": 2744
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 2142,
+                    "endColumn": 117,
+                    "endOffset": 2255
+                },
+                "from": {
+<<<<<<< HEAD
+                    "file": "C:\\Users\\soorinpark\\AndroidStudioProjects\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-te-rIN\\common_strings.xml",
+=======
+                    "file": "C:\\home\\cowens\\Documents\\game\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-te-rIN\\common_strings.xml",
+>>>>>>> QI_branch
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 2255,
+                        "endColumn": 117,
+                        "endOffset": 2368
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 2260,
+                    "endColumn": 261,
+                    "endOffset": 2517
+                },
+                "from": {
+<<<<<<< HEAD
+                    "file": "C:\\Users\\soorinpark\\AndroidStudioProjects\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-te-rIN\\common_strings.xml",
+=======
+                    "file": "C:\\home\\cowens\\Documents\\game\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-te-rIN\\common_strings.xml",
+>>>>>>> QI_branch
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 4372,
+                        "endColumn": 265,
+                        "endOffset": 4633
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 2522,
+                    "endColumn": 130,
+                    "endOffset": 2648
+                },
+                "from": {
+<<<<<<< HEAD
+                    "file": "C:\\Users\\soorinpark\\AndroidStudioProjects\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-te-rIN\\common_strings.xml",
+=======
+                    "file": "C:\\home\\cowens\\Documents\\game\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-te-rIN\\common_strings.xml",
+>>>>>>> QI_branch
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1994,
+                        "endColumn": 130,
+                        "endOffset": 2120
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 2653,
+                    "endColumn": 185,
+                    "endOffset": 2834
+                },
+                "from": {
+<<<<<<< HEAD
+                    "file": "C:\\Users\\soorinpark\\AndroidStudioProjects\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-te-rIN\\common_strings.xml",
+=======
+                    "file": "C:\\home\\cowens\\Documents\\game\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-te-rIN\\common_strings.xml",
+>>>>>>> QI_branch
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1804,
+                        "endColumn": 189,
+                        "endOffset": 1989
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 2839,
+                    "endColumn": 128,
+                    "endOffset": 2963
+                },
+                "from": {
+<<<<<<< HEAD
+                    "file": "C:\\Users\\soorinpark\\AndroidStudioProjects\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-te-rIN\\common_strings.xml",
+=======
+                    "file": "C:\\home\\cowens\\Documents\\game\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-te-rIN\\common_strings.xml",
+>>>>>>> QI_branch
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1675,
+                        "endColumn": 128,
+                        "endOffset": 1799
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 2968,
+                    "endColumn": 179,
+                    "endOffset": 3143
+                },
+                "from": {
+<<<<<<< HEAD
+                    "file": "C:\\Users\\soorinpark\\AndroidStudioProjects\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-te-rIN\\common_strings.xml",
+=======
+                    "file": "C:\\home\\cowens\\Documents\\game\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-te-rIN\\common_strings.xml",
+>>>>>>> QI_branch
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 824,
+                        "endColumn": 183,
+                        "endOffset": 1003
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 3148,
+                    "endColumn": 127,
+                    "endOffset": 3271
+                },
+                "from": {
+<<<<<<< HEAD
+                    "file": "C:\\Users\\soorinpark\\AndroidStudioProjects\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-te-rIN\\common_strings.xml",
+=======
+                    "file": "C:\\home\\cowens\\Documents\\game\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-te-rIN\\common_strings.xml",
+>>>>>>> QI_branch
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 1547,
+                        "endColumn": 127,
+                        "endOffset": 1670
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 3276,
+                    "endColumn": 200,
+                    "endOffset": 3472
+                },
+                "from": {
+<<<<<<< HEAD
+                    "file": "C:\\Users\\soorinpark\\AndroidStudioProjects\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-te-rIN\\common_strings.xml",
+=======
+                    "file": "C:\\home\\cowens\\Documents\\game\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-te-rIN\\common_strings.xml",
+>>>>>>> QI_branch
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 1133,
+                        "endColumn": 204,
+                        "endOffset": 1333
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 3477,
+                    "endColumn": 204,
+                    "endOffset": 3677
+                },
+                "from": {
+<<<<<<< HEAD
+                    "file": "C:\\Users\\soorinpark\\AndroidStudioProjects\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-te-rIN\\common_strings.xml",
+=======
+                    "file": "C:\\home\\cowens\\Documents\\game\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-te-rIN\\common_strings.xml",
+>>>>>>> QI_branch
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 1338,
+                        "endColumn": 208,
+                        "endOffset": 1542
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 3682,
+                    "endColumn": 124,
+                    "endOffset": 3802
+                },
+                "from": {
+<<<<<<< HEAD
+                    "file": "C:\\Users\\soorinpark\\AndroidStudioProjects\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-te-rIN\\common_strings.xml",
+=======
+                    "file": "C:\\home\\cowens\\Documents\\game\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-te-rIN\\common_strings.xml",
+>>>>>>> QI_branch
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 1008,
+                        "endColumn": 124,
+                        "endOffset": 1128
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 3807,
+                    "endColumn": 169,
+                    "endOffset": 3972
+                },
+                "from": {
+<<<<<<< HEAD
+                    "file": "C:\\Users\\soorinpark\\AndroidStudioProjects\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-te-rIN\\common_strings.xml",
+=======
+                    "file": "C:\\home\\cowens\\Documents\\game\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-te-rIN\\common_strings.xml",
+>>>>>>> QI_branch
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 3507,
+                        "endColumn": 169,
+                        "endOffset": 3672
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 3977,
+                    "endColumn": 120,
+                    "endOffset": 4093
+                },
+                "from": {
+<<<<<<< HEAD
+                    "file": "C:\\Users\\soorinpark\\AndroidStudioProjects\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-te-rIN\\common_strings.xml",
+=======
+                    "file": "C:\\home\\cowens\\Documents\\game\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-te-rIN\\common_strings.xml",
+>>>>>>> QI_branch
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 3386,
+                        "endColumn": 120,
+                        "endOffset": 3502
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 4098,
+                    "endColumn": 158,
+                    "endOffset": 4252
+                },
+                "from": {
+<<<<<<< HEAD
+                    "file": "C:\\Users\\soorinpark\\AndroidStudioProjects\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-te-rIN\\common_strings.xml",
+=======
+                    "file": "C:\\home\\cowens\\Documents\\game\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-te-rIN\\common_strings.xml",
+>>>>>>> QI_branch
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 665,
+                        "endColumn": 158,
+                        "endOffset": 819
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 4257,
+                    "endColumn": 162,
+                    "endOffset": 4415
+                },
+                "from": {
+<<<<<<< HEAD
+                    "file": "C:\\Users\\soorinpark\\AndroidStudioProjects\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-te-rIN\\common_strings.xml",
+=======
+                    "file": "C:\\home\\cowens\\Documents\\game\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-te-rIN\\common_strings.xml",
+>>>>>>> QI_branch
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 3223,
+                        "endColumn": 162,
+                        "endOffset": 3381
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 33,
+                    "startColumn": 4,
+                    "startOffset": 4420,
+                    "endColumn": 121,
+                    "endOffset": 4537
+                },
+                "from": {
+<<<<<<< HEAD
+                    "file": "C:\\Users\\soorinpark\\AndroidStudioProjects\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-te-rIN\\common_strings.xml",
+=======
+                    "file": "C:\\home\\cowens\\Documents\\game\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-te-rIN\\common_strings.xml",
+>>>>>>> QI_branch
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 3101,
+                        "endColumn": 121,
+                        "endOffset": 3218
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 4542,
+                    "endColumn": 172,
+                    "endOffset": 4710
+                },
+                "from": {
+<<<<<<< HEAD
+                    "file": "C:\\Users\\soorinpark\\AndroidStudioProjects\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-te-rIN\\common_strings.xml",
+=======
+                    "file": "C:\\home\\cowens\\Documents\\game\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-te-rIN\\common_strings.xml",
+>>>>>>> QI_branch
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 298,
+                        "endColumn": 172,
+                        "endOffset": 466
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 4715,
+                    "endColumn": 127,
+                    "endOffset": 4838
+                },
+                "from": {
+<<<<<<< HEAD
+                    "file": "C:\\Users\\soorinpark\\AndroidStudioProjects\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-te-rIN\\common_strings.xml",
+=======
+                    "file": "C:\\home\\cowens\\Documents\\game\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-te-rIN\\common_strings.xml",
+>>>>>>> QI_branch
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 170,
+                        "endColumn": 127,
+                        "endOffset": 293
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 4843,
+                    "endColumn": 175,
+                    "endOffset": 5014
+                },
+                "from": {
+<<<<<<< HEAD
+                    "file": "C:\\Users\\soorinpark\\AndroidStudioProjects\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-te-rIN\\common_strings.xml",
+=======
+                    "file": "C:\\home\\cowens\\Documents\\game\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-te-rIN\\common_strings.xml",
+>>>>>>> QI_branch
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 4764,
+                        "endColumn": 175,
+                        "endOffset": 4935
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 5019,
+                    "endColumn": 125,
+                    "endOffset": 5140
+                },
+                "from": {
+<<<<<<< HEAD
+                    "file": "C:\\Users\\soorinpark\\AndroidStudioProjects\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-te-rIN\\common_strings.xml",
+=======
+                    "file": "C:\\home\\cowens\\Documents\\game\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-te-rIN\\common_strings.xml",
+>>>>>>> QI_branch
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 4638,
+                        "endColumn": 125,
+                        "endOffset": 4759
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 5145,
+                    "endColumn": 133,
+                    "endOffset": 5274
+                },
+                "from": {
+<<<<<<< HEAD
+                    "file": "C:\\Users\\soorinpark\\AndroidStudioProjects\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-te-rIN\\common_strings.xml",
+=======
+                    "file": "C:\\home\\cowens\\Documents\\game\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-te-rIN\\common_strings.xml",
+>>>>>>> QI_branch
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 3677,
+                        "endColumn": 133,
+                        "endOffset": 3806
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 5279,
+                    "endColumn": 230,
+                    "endOffset": 5505
+                },
+                "from": {
+<<<<<<< HEAD
+                    "file": "C:\\Users\\soorinpark\\AndroidStudioProjects\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-te-rIN\\common_strings.xml",
+=======
+                    "file": "C:\\home\\cowens\\Documents\\game\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-te-rIN\\common_strings.xml",
+>>>>>>> QI_branch
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 3933,
+                        "endColumn": 234,
+                        "endOffset": 4163
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 5510,
+                    "endColumn": 121,
+                    "endOffset": 5627
+                },
+                "from": {
+<<<<<<< HEAD
+                    "file": "C:\\Users\\soorinpark\\AndroidStudioProjects\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-te-rIN\\common_strings.xml",
+=======
+                    "file": "C:\\home\\cowens\\Documents\\game\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-te-rIN\\common_strings.xml",
+>>>>>>> QI_branch
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 3811,
+                        "endColumn": 121,
+                        "endOffset": 3928
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 5632,
+                    "endColumn": 109,
+                    "endOffset": 5737
+                },
+                "from": {
+<<<<<<< HEAD
+                    "file": "C:\\Users\\soorinpark\\AndroidStudioProjects\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-te-rIN\\common_strings.xml",
+=======
+                    "file": "C:\\home\\cowens\\Documents\\game\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-te-rIN\\common_strings.xml",
+>>>>>>> QI_branch
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 4168,
+                        "endColumn": 109,
+                        "endOffset": 4273
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 5742,
+                    "endColumn": 183,
+                    "endOffset": 5921
+                },
+                "from": {
+<<<<<<< HEAD
+                    "file": "C:\\Users\\soorinpark\\AndroidStudioProjects\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-te-rIN\\common_strings.xml",
+=======
+                    "file": "C:\\home\\cowens\\Documents\\game\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-te-rIN\\common_strings.xml",
+>>>>>>> QI_branch
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 2373,
+                        "endColumn": 187,
+                        "endOffset": 2556
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 43,
+                    "startColumn": 4,
+                    "startOffset": 5926,
+                    "endColumn": 129,
+                    "endOffset": 6051
+                },
+                "from": {
+<<<<<<< HEAD
+                    "file": "C:\\Users\\soorinpark\\AndroidStudioProjects\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-te-rIN\\common_strings.xml",
+=======
+                    "file": "C:\\home\\cowens\\Documents\\game\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-te-rIN\\common_strings.xml",
+>>>>>>> QI_branch
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 2125,
+                        "endColumn": 129,
+                        "endOffset": 2250
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 6056,
+                    "endColumn": 209,
+                    "endOffset": 6261
+                },
+                "from": {
+<<<<<<< HEAD
+                    "file": "C:\\Users\\soorinpark\\AndroidStudioProjects\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-te-rIN\\common_strings.xml",
+=======
+                    "file": "C:\\home\\cowens\\Documents\\game\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-te-rIN\\common_strings.xml",
+>>>>>>> QI_branch
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 2887,
+                        "endColumn": 213,
+                        "endOffset": 3096
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 45,
+                    "startColumn": 4,
+                    "startOffset": 6266,
+                    "endColumn": 137,
+                    "endOffset": 6399
+                },
+                "from": {
+<<<<<<< HEAD
+                    "file": "C:\\Users\\soorinpark\\AndroidStudioProjects\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-te-rIN\\common_strings.xml",
+=======
+                    "file": "C:\\home\\cowens\\Documents\\game\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-te-rIN\\common_strings.xml",
+>>>>>>> QI_branch
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 2749,
+                        "endColumn": 137,
+                        "endOffset": 2882
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 6404,
+                    "endColumn": 93,
+                    "endOffset": 6493
+                },
+                "from": {
+<<<<<<< HEAD
+                    "file": "C:\\Users\\soorinpark\\AndroidStudioProjects\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-te-rIN\\common_strings.xml",
+=======
+                    "file": "C:\\home\\cowens\\Documents\\game\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-te-rIN\\common_strings.xml",
+>>>>>>> QI_branch
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 4278,
+                        "endColumn": 93,
+                        "endOffset": 4367
+                    }
+                }
+            }
+        ]
+    },
+    {
+<<<<<<< HEAD
+        "outputFile": "C:\\home\\cowens\\Documents\\game\\mafiagame\\C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\res\\merged\\debug\\values-te-rIN\\values-te-rIN.xml",
+=======
+        "outputFile": "C:\\Users\\soorinpark\\AndroidStudioProjects\\mafiagame\\app\\build\\intermediates\\res\\merged\\debug\\values-te-rIN\\values-te-rIN.xml",
+>>>>>>> QI_branch
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+<<<<<<< HEAD
+                    "startOffset": 55,
+                    "endColumn": 113,
+                    "endOffset": 164
+                },
+                "from": {
+                    "file": "C:\\home\\cowens\\Documents\\game\\mafiagame\\C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-te-rIN\\values.xml",
+=======
+                    "startOffset": 105,
+                    "endColumn": 113,
+                    "endOffset": 214
+                },
+                "from": {
+                    "file": "C:\\Users\\soorinpark\\AndroidStudioProjects\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-te-rIN\\values.xml",
+>>>>>>> QI_branch
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 113,
+                        "endOffset": 165
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+<<<<<<< HEAD
+                    "startOffset": 169,
+                    "endColumn": 107,
+                    "endOffset": 272
+                },
+                "from": {
+                    "file": "C:\\home\\cowens\\Documents\\game\\mafiagame\\C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-te-rIN\\values.xml",
+=======
+                    "startOffset": 219,
+                    "endColumn": 107,
+                    "endOffset": 322
+                },
+                "from": {
+                    "file": "C:\\Users\\soorinpark\\AndroidStudioProjects\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-te-rIN\\values.xml",
+>>>>>>> QI_branch
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 170,
+                        "endColumn": 107,
+                        "endOffset": 273
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+<<<<<<< HEAD
+                    "startOffset": 277,
+                    "endColumn": 122,
+                    "endOffset": 395
+                },
+                "from": {
+                    "file": "C:\\home\\cowens\\Documents\\game\\mafiagame\\C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-te-rIN\\values.xml",
+=======
+                    "startOffset": 327,
+                    "endColumn": 122,
+                    "endOffset": 445
+                },
+                "from": {
+                    "file": "C:\\Users\\soorinpark\\AndroidStudioProjects\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-te-rIN\\values.xml",
+>>>>>>> QI_branch
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 278,
+                        "endColumn": 122,
+                        "endOffset": 396
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+<<<<<<< HEAD
+                    "startOffset": 400,
+                    "endColumn": 108,
+                    "endOffset": 504
+                },
+                "from": {
+                    "file": "C:\\home\\cowens\\Documents\\game\\mafiagame\\C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-te-rIN\\values.xml",
+=======
+                    "startOffset": 450,
+                    "endColumn": 108,
+                    "endOffset": 554
+                },
+                "from": {
+                    "file": "C:\\Users\\soorinpark\\AndroidStudioProjects\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-te-rIN\\values.xml",
+>>>>>>> QI_branch
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 401,
+                        "endColumn": 108,
+                        "endOffset": 505
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+<<<<<<< HEAD
+                    "startOffset": 509,
+                    "endColumn": 110,
+                    "endOffset": 615
+                },
+                "from": {
+                    "file": "C:\\home\\cowens\\Documents\\game\\mafiagame\\C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-te-rIN\\values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 510,
+                        "endColumn": 110,
+                        "endOffset": 616
+=======
                     "startOffset": 559,
                     "endColumn": 110,
                     "endOffset": 665
@@ -1600,11 +2882,25 @@
                         "startOffset": 3811,
                         "endColumn": 121,
                         "endOffset": 3928
+>>>>>>> QI_branch
                     }
                 }
             },
             {
                 "to": {
+<<<<<<< HEAD
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 620,
+                    "endColumn": 89,
+                    "endOffset": 705
+                },
+                "from": {
+                    "file": "C:\\home\\cowens\\Documents\\game\\mafiagame\\C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-te-rIN\\values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+=======
                     "startLine": 41,
                     "startColumn": 4,
                     "startOffset": 5632,
@@ -1830,6 +3126,7 @@
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
+>>>>>>> QI_branch
                         "startOffset": 621,
                         "endColumn": 89,
                         "endOffset": 706

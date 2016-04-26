@@ -72,6 +72,36 @@
         ]
     },
     {
+<<<<<<< HEAD
+        "outputFile": "C:\\Users\\soorinpark\\AndroidStudioProjects\\mafiagame\\app\\build\\intermediates\\res\\merged\\debug\\values-w500dp-v13\\values-w500dp-v13.xml",
+=======
+        "outputFile": "C:\\Users\\vader\\Desktop\\CSCI3308\\mafiagame\\app\\build\\intermediates\\res\\merged\\debug\\values-w500dp-v13\\values-w500dp-v13.xml",
+>>>>>>> QI_branch
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 54,
+                    "endOffset": 105
+                },
+                "from": {
+<<<<<<< HEAD
+=======
+                    "file": "C:\\Users\\vader\\Desktop\\CSCI3308\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-w500dp\\values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 54,
+                        "endOffset": 106
+                    }
+                }
+            }
+        ]
+    },
+    {
         "outputFile": "C:\\Users\\soorinpark\\AndroidStudioProjects\\mafiagame\\app\\build\\intermediates\\res\\merged\\debug\\values-w500dp-v13\\values-w500dp-v13.xml",
         "map": [
             {
@@ -83,6 +113,7 @@
                     "endOffset": 105
                 },
                 "from": {
+>>>>>>> QI_branch
                     "file": "C:\\Users\\soorinpark\\AndroidStudioProjects\\mafiagame\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-w500dp\\values.xml",
                     "position": {
                         "startLine": 3,

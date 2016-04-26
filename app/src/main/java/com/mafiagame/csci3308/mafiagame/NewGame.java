@@ -25,7 +25,10 @@ import java.util.Map;
 import java.util.HashMap;
 import java.lang.Integer;
 
-
+/**
+ * This is the NewGame activity. It sets up the roles and the number of the players.
+ * @author Soo Park, Jake Mitchell
+ */
 public class NewGame extends Activity {
 
     Button start_game_button;
@@ -33,7 +36,11 @@ public class NewGame extends Activity {
     String yourRoleSelected;
     Map<Integer, String> finalRoles = new HashMap<Integer, String>();
 
-    @Override
+    /**
+     * This function can be called only once. Setting up the view to the new_game layout.
+     * This function also initializes the game.
+     * @param savedInstanceState
+     */
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.new_game);

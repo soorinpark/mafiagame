@@ -2,6 +2,13 @@
     {
         "merged": "C:\\Users\\soorinpark\\AndroidStudioProjects\\mafiagame\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\ic_launcher.png",
         "source": "C:\\Users\\soorinpark\\AndroidStudioProjects\\mafiagame\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+<<<<<<< HEAD
+=======
+    },
+    {
+        "merged": "C:\\Users\\vader\\Desktop\\CSCI3308\\mafiagame\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\vader\\Desktop\\CSCI3308\\mafiagame\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+>>>>>>> QI_branch
     },
     {
         "merged": "C:\\home\\cowens\\Documents\\game\\mafiagame\\C:\\Users\\jakem_000\\Dropbox\\Spring2016\\csci3308\\mafiagame\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\ic_launcher.png",
