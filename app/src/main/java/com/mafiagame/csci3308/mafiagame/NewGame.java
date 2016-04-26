@@ -8,6 +8,8 @@ import android.app.Activity;
 import android.content.Context;
 import android.os.Bundle;
 import android.view.View;
+import android.view.Window;
+import android.view.WindowManager;
 import android.widget.Button;
 import android.widget.Spinner;
 import android.widget.ArrayAdapter;
@@ -36,6 +38,11 @@ public class NewGame extends Activity {
     @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+
+        requestWindowFeature(Window.FEATURE_NO_TITLE);
+        getWindow().setFlags(WindowManager.LayoutParams.FLAG_FULLSCREEN,
+                WindowManager.LayoutParams.FLAG_FULLSCREEN);
+
         setContentView(R.layout.new_game);
 
         final Spinner numPlayers = (Spinner)findViewById(R.id.numPlayers);
@@ -121,9 +128,5 @@ public class NewGame extends Activity {
             }
         });
     }
-
-
-
-
 
 }

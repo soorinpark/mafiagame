@@ -8,7 +8,7 @@
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
     android:layout_gravity="center"
-    android:rowCount="23"
+    android:rowCount="24"
     android:background="@drawable/mafia_background"
     tools:context="com.mafiagame.csci3308.mafiagame.MainActivity">
 
@@ -30,7 +30,7 @@
         android:layout_height="wrap_content"
         android:text="Settings"
         android:id="@+id/settingsButton"
-        android:layout_row="20"
+        android:layout_row="21"
         android:layout_column="0"
         android:background="@drawable/ripple"
         />
@@ -40,7 +40,7 @@
         android:layout_height="wrap_content"
         android:text="How to Play"
         android:id="@+id/htpButton"
-        android:layout_row="21"
+        android:layout_row="22"
         android:layout_column="0"
         android:background="@drawable/ripple" />
 
@@ -49,7 +49,7 @@
         android:layout_height="wrap_content"
         android:text="About Mafia"
         android:id="@+id/aboutButton"
-        android:layout_row="22"
+        android:layout_row="23"
         android:layout_column="0"
         android:background="@drawable/ripple"
         />
