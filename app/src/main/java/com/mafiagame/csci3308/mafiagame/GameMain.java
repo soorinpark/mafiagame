@@ -198,6 +198,10 @@ public class GameMain extends Activity {
     }
 
     private void endTurn(RelativeLayout relativeLayout, ImageView cycleImg){
+        ImageView targetImage = (ImageView) findViewById(R.id.target);
+        if (targetImage != null) {
+            relativeLayout.removeView(targetImage);
+        }
         if (cycleNum % 2 == 0) {
             relativeLayout.removeView(cycleImg);
             cycleImg.setImageResource(R.drawable.moon);
@@ -253,7 +257,8 @@ public class GameMain extends Activity {
         return players;
     }
 
-    public void addTargetImage(RelativeLayout relativeLayout, RelativeLayout.LayoutParams params, ImageView targetImage){
+    public void addTargetImage(RelativeLayout relativeLayout, RelativeLayout.LayoutParams params){
+        ImageView targetImage = (ImageView) findViewById(R.id.target);
         if (targetImage != null) {
         if (targetImage.getParent() != null) {
             relativeLayout.removeView(targetImage);
@@ -324,7 +329,7 @@ public class GameMain extends Activity {
                 @Override
                 public void onClick(View arg0) {
                     targetId = character3.getId();
-                    addTargetImage(relativeLayout, character3params, (ImageView) findViewById(R.id.target));
+                    addTargetImage(relativeLayout, character3params);
                 }});
 
 
@@ -373,7 +378,7 @@ public class GameMain extends Activity {
                 @Override
                 public void onClick(View arg0) {
                     targetId = character2.getId();
-                    addTargetImage(relativeLayout, character2params, (ImageView) findViewById(R.id.target));
+                    addTargetImage(relativeLayout, character2params);
                 }
             });
 
@@ -394,7 +399,7 @@ public class GameMain extends Activity {
                 @Override
                 public void onClick(View arg0) {
                     targetId = character1.getId();
-                    addTargetImage(relativeLayout, character1params, (ImageView) findViewById(R.id.target));
+                    addTargetImage(relativeLayout, character1params);
                 }
             });
 
@@ -418,7 +423,7 @@ public class GameMain extends Activity {
                 @Override
                 public void onClick(View arg0) {
                     targetId = character4.getId();
-                    addTargetImage(relativeLayout, character4params, (ImageView) findViewById(R.id.target));
+                    addTargetImage(relativeLayout, character4params);
                 }
             });
 
@@ -438,7 +443,7 @@ public class GameMain extends Activity {
                 @Override
                 public void onClick(View arg0) {
                     targetId = character5.getId();
-                    addTargetImage(relativeLayout, character5params, (ImageView) findViewById(R.id.target));
+                    addTargetImage(relativeLayout, character5params);
                 }
             });
 
