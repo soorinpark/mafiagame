@@ -83,7 +83,7 @@ public class NewGame extends Activity {
                 newRoleList.add("Detective");
                 newRoleList.add("Doctor");
                 newRoleList.add("Mafia");
-                newRoleList.add("Villager");
+                newRoleList.add("Villager1");
                 newRoleList.add("Villager2");
                 newRoleList.add("Villager3");
 

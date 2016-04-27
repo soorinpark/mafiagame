@@ -2,4 +2,23 @@
 <resources>
     <item name="oval" type="id"/>
     <item name="playerIcon" type="id"/>
+    <item name="youIcon" type="id"/>
+    <item name="character1" type="id"/>
+    <item name="character2" type="id"/>
+    <item name="character3" type="id"/>
+    <item name="character4" type="id"/>
+    <item name="character5" type="id"/>
+    <item name="character6" type="id"/>
+    <item name="character7" type="id"/>
+    <item name="character8" type="id"/>
+    <item name="character9" type="id"/>
+    <item name="detective" type="id"/>
+    <item name="doctor" type="id"/>
+    <item name="mafia" type="id"/>
+    <item name="villager1" type="id"/>
+    <item name="villager2" type="id"/>
+    <item name="villager3" type="id"/>
+    <item name="target" type="id"/>
+
+
 </resources>
